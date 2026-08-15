@@ -8,6 +8,9 @@ on:
     - cron: '0 0,12 * * *' # Runs twice a day at midnight and noon UTC
   workflow_dispatch: # Allows manual trigger from the GitHub Actions tab
 
+permissions:
+  contents: write
+
 jobs:
   update-db:
     runs-on: ubuntu-latest
