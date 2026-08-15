@@ -26,23 +26,39 @@ def parse_app_list(filepath):
     try:
         with open(filepath, 'r', encoding='utf-8') as f:
             for line in f:
-                match = re.search(r'https://github\.com/pkgforge-dev/([^/)\]]+)', line)
+                # Capture domain, owner, and repo from markdown links
+                match = re.search(r'https://([^/]+)/([^/]+)/([^/)\]]+)', line)
                 if match:
-                    repos.append(match.group(1))
+                    domain = match.group(1)
+                    owner = match.group(2)
+                    repo = match.group(3).replace(".git", "")
+                    repos.append({"domain": domain, "owner": owner, "repo": repo})
     except Exception as e:
         print(f"Error reading list: {e}")
     return repos
 
-def get_latest_release(repo_name):
-    url = f"https://api.github.com/repos/pkgforge-dev/{repo_name}/releases/latest"
+def get_latest_release(repo_info):
+    domain = repo_info["domain"]
+    owner = repo_info["owner"]
+    repo = repo_info["repo"]
+    
+    if domain == "github.com":
+        url = f"https://api.github.com/repos/{owner}/{repo}/releases/latest"
+    else:
+        # Assuming Gitea / Forgejo API which is compatible with GitHub's
+        url = f"https://{domain}/api/v1/repos/{owner}/{repo}/releases/latest"
+        
     req = urllib.request.Request(url)
-    token = os.environ.get("GITHUB_TOKEN")
-    if token:
-        req.add_header("Authorization", f"token {token}")
+    
+    if domain == "github.com":
+        token = os.environ.get("GITHUB_TOKEN")
+        if token:
+            req.add_header("Authorization", f"token {token}")
+            
     try:
         with urllib.request.urlopen(req) as response:
             return json.loads(response.read().decode())
-    except Exception:
+    except Exception as e:
         return None
 
 def download_file(url, dest):
@@ -171,9 +187,10 @@ def main():
     repos_to_process = repos
     all_apps = []
     
-    for repo in repos_to_process:
-        print(f"\n--- Processing {repo} ---")
-        release_info = get_latest_release(repo)
+    for repo_info in repos_to_process:
+        owner_repo = f"{repo_info['owner']}/{repo_info['repo']}"
+        print(f"\n--- Processing {owner_repo} ---")
+        release_info = get_latest_release(repo_info)
         if not release_info:
             print("No release info found.")
             continue
@@ -184,7 +201,7 @@ def main():
             appimage_asset = next((a for a in assets if a["name"].endswith(".AppImage") and "aarch64" not in a["name"].lower() and "arm" not in a["name"].lower()), None)
             
         if not appimage_asset:
-            print(f"No valid AppImage found for {repo}")
+            print(f"No valid AppImage found for {owner_repo}")
             continue
             
         download_url = appimage_asset["browser_download_url"]
@@ -198,7 +215,7 @@ def main():
                 
             app_data = find_metadata(squashfs_root)
             if app_data:
-                app_data["repo"] = repo
+                app_data["repo"] = owner_repo
                 app_data["version"] = release_info.get("tag_name", "unknown")
                 app_data["download_url"] = download_url
                 
