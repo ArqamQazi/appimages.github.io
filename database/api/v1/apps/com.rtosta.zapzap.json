@@ -1,0 +1,16 @@
+{
+  "id": "com.rtosta.zapzap",
+  "name": "ZapZap",
+  "summary": "WhatsApp Desktop for Linux",
+  "icon_name": "com.rtosta.zapzap",
+  "categories": [
+    "Chat",
+    "Network",
+    "InstantMessaging",
+    "Qt"
+  ],
+  "repo": "rafatosta/zapzap",
+  "version": "7.4.1",
+  "download_url": "https://github.com/rafatosta/zapzap/releases/download/7.4.1/ZapZap-7.4.1-linux-x86_64.AppImage",
+  "icon_url": "/database/icons/com.rtosta.zapzap.svg"
+}

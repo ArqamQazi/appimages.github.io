@@ -1,5 +1,9 @@
 name: Update AppImage AppStream Database
 on:
+  push:
+    branches:
+      - master
+      - main
   schedule:
     - cron: '0 0,12 * * *' # Runs twice a day at midnight and noon UTC
   workflow_dispatch: # Allows manual trigger from the GitHub Actions tab

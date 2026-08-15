@@ -1,0 +1,15 @@
+{
+  "id": "dev.eden_emu.eden",
+  "name": "Eden",
+  "summary": "Multiplatform FOSS Switch 1 emulator written in C++, derived from Yuzu and Sudachi",
+  "icon_name": "dev.eden_emu.eden",
+  "categories": [
+    "Game",
+    "Emulator",
+    "Qt"
+  ],
+  "repo": "eden-emu/eden",
+  "version": "v0.2.1",
+  "download_url": "https://stable.eden-emu.dev/v0.2.1/Eden-Linux-v0.2.1-amd64-clang-pgo.AppImage",
+  "icon_url": "/database/icons/dev.eden_emu.eden.svg"
+}

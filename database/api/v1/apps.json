@@ -1,14 +1,20 @@
 [
   {
-    "id": "12to11",
-    "name": "12to11",
-    "summary": "Dummy made by quick-sharun",
-    "icon_url": "/database/icons/12to11.png"
-  },
-  {
     "id": "net.86box.86Box",
     "name": "86Box",
     "summary": "An emulator for classic IBM PC clones",
     "icon_url": "/database/icons/net.86box.86Box.png"
+  },
+  {
+    "id": "com.rtosta.zapzap",
+    "name": "ZapZap",
+    "summary": "WhatsApp Desktop for Linux",
+    "icon_url": "/database/icons/com.rtosta.zapzap.svg"
+  },
+  {
+    "id": "dev.eden_emu.eden",
+    "name": "Eden",
+    "summary": "Multiplatform FOSS Switch 1 emulator written in C++, derived from Yuzu and Sudachi",
+    "icon_url": "/database/icons/dev.eden_emu.eden.svg"
   }
 ]
