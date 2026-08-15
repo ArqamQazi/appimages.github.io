@@ -180,6 +180,18 @@ def copy_icon(squashfs_root, app_id, icon_name, extract_dir):
         return f"/database/icons/{app_id}{ext}"
     return None
 
+def is_already_extracted(repo_string, tag_name):
+    for f in os.listdir(APPS_API_DIR):
+        if not f.endswith('.json'): continue
+        try:
+            with open(os.path.join(APPS_API_DIR, f), 'r', encoding='utf-8') as json_file:
+                data = json.load(json_file)
+                if data.get("repo") == repo_string and data.get("version") == tag_name:
+                    return True, data
+        except:
+            pass
+    return False, None
+
 def main():
     setup_directories()
     repos = parse_app_list(LIST_FILE)
@@ -195,6 +207,18 @@ def main():
             print("No release info found.")
             continue
             
+        tag_name = release_info.get("tag_name", "unknown")
+        already_extracted, existing_data = is_already_extracted(owner_repo, tag_name)
+        if already_extracted:
+            print(f"Skipping {owner_repo}: Version {tag_name} is already processed.")
+            all_apps.append({
+                "id": existing_data["id"],
+                "name": existing_data.get("name", "Unknown"),
+                "summary": existing_data.get("summary", ""),
+                "icon_url": existing_data.get("icon_url")
+            })
+            continue
+
         assets = release_info.get("assets", [])
         appimage_asset = next((a for a in assets if a["name"].endswith(".AppImage") and "x86_64" in a["name"].lower()), None)
         if not appimage_asset:
