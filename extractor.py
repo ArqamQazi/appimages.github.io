@@ -128,11 +128,33 @@ def find_metadata(squashfs_root):
     return app_data
 
 def copy_icon(squashfs_root, app_id, icon_name, extract_dir):
-    # Try .DirIcon
     dir_icon = os.path.join(squashfs_root, ".DirIcon")
-    if os.path.exists(dir_icon):
-        # Determine extension (could be png or svg)
-        ext = ".png" # default assumption
+    
+    # If .DirIcon doesn't exist or is empty, try looking for a png/svg matching the icon_name
+    if not os.path.exists(dir_icon) or os.path.getsize(dir_icon) == 0:
+        found_icon = None
+        if icon_name:
+            for root_dir, _, files in os.walk(squashfs_root):
+                for f in files:
+                    if (f == f"{icon_name}.png" or f == f"{icon_name}.svg") and os.path.getsize(os.path.join(root_dir, f)) > 0:
+                        found_icon = os.path.join(root_dir, f)
+                        break
+                if found_icon: break
+        
+        # Fallback to any root png if no name match
+        if not found_icon:
+            for f in os.listdir(squashfs_root):
+                if (f.endswith('.png') or f.endswith('.svg')) and os.path.getsize(os.path.join(squashfs_root, f)) > 0:
+                    found_icon = os.path.join(squashfs_root, f)
+                    break
+                    
+        if found_icon:
+            dir_icon = found_icon
+        else:
+            return None
+
+    if os.path.exists(dir_icon) and os.path.getsize(dir_icon) > 0:
+        ext = ".png"
         try:
             out = subprocess.check_output(["file", "-b", "--mime-type", dir_icon]).decode().strip()
             if "svg" in out: ext = ".svg"
