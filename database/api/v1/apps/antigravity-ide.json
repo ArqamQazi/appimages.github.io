@@ -9,7 +9,7 @@
     "IDE"
   ],
   "repo": "pkgforge-dev/Antigravity-IDE-AppImage",
-  "version": "2.1.1@2026-08-08_1786176510",
-  "download_url": "https://github.com/pkgforge-dev/Antigravity-IDE-AppImage/releases/download/2.1.1%402026-08-08_1786176510/Antigravity_IDE-2.1.1-anylinux-x86_64.AppImage",
+  "version": "2.5.5@2026-08-15_1786779919",
+  "download_url": "https://github.com/pkgforge-dev/Antigravity-IDE-AppImage/releases/download/2.5.5%402026-08-15_1786779919/Antigravity_IDE-2.5.5-anylinux-x86_64.AppImage",
   "icon_url": "/database/icons/antigravity-ide.png"
 }

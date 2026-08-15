@@ -8,7 +8,7 @@
   ],
   "icon_name": "xenia-canary",
   "repo": "pkgforge-dev/xenia-canary-AppImage",
-  "version": "02d2cb5@2026-08-08_1786175103",
-  "download_url": "https://github.com/pkgforge-dev/xenia-canary-AppImage/releases/download/02d2cb5%402026-08-08_1786175103/Xenia_Canary-02d2cb5-anylinux-x86_64.AppImage",
+  "version": "02d2cb5@2026-08-15_1786778850",
+  "download_url": "https://github.com/pkgforge-dev/xenia-canary-AppImage/releases/download/02d2cb5%402026-08-15_1786778850/Xenia_Canary-02d2cb5-anylinux-x86_64.AppImage",
   "icon_url": "/database/icons/xenia-canary.png"
 }

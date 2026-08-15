@@ -7,7 +7,7 @@
     "Game"
   ],
   "repo": "pkgforge-dev/RSDKv4-AppImage",
-  "version": "1.3.3.r12.g322ec02-1@2026-08-01_1785586359",
-  "download_url": "https://github.com/pkgforge-dev/RSDKv4-AppImage/releases/download/1.3.3.r12.g322ec02-1%402026-08-01_1785586359/RSDKv4-1.3.3.r12.g322ec02-1-anylinux-x86_64.AppImage",
+  "version": "322ec02c2@2026-08-15_1786778056",
+  "download_url": "https://github.com/pkgforge-dev/RSDKv4-AppImage/releases/download/322ec02c2%402026-08-15_1786778056/RSDKv4-322ec02c2-anylinux-x86_64.AppImage",
   "icon_url": "/database/icons/rsdkv4.png"
 }

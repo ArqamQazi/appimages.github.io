@@ -8,7 +8,7 @@
     "Development"
   ],
   "repo": "pkgforge-dev/Claude-Desktop-AppImage",
-  "version": "1.24012.11@2026-08-08_1786175491",
-  "download_url": "https://github.com/pkgforge-dev/Claude-Desktop-AppImage/releases/download/1.24012.11%402026-08-08_1786175491/Claude-1.24012.11-anylinux-x86_64.AppImage",
+  "version": "1.30096.1@2026-08-15_1786779179",
+  "download_url": "https://github.com/pkgforge-dev/Claude-Desktop-AppImage/releases/download/1.30096.1%402026-08-15_1786779179/Claude-1.30096.1-anylinux-x86_64.AppImage",
   "icon_url": "/database/icons/com.anthropic.Claude.png"
 }
