@@ -1,0 +1,14 @@
+[
+  {
+    "id": "12to11",
+    "name": "12to11",
+    "summary": "Dummy made by quick-sharun",
+    "icon_url": "/database/icons/12to11.png"
+  },
+  {
+    "id": "net.86box.86Box",
+    "name": "86Box",
+    "summary": "An emulator for classic IBM PC clones",
+    "icon_url": "/database/icons/net.86box.86Box.png"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "id": "net.86box.86Box",
+  "name": "86Box",
+  "summary": "An emulator for classic IBM PC clones",
+  "icon_name": "net.86box.86Box",
+  "categories": [
+    "System",
+    "Emulator"
+  ],
+  "repo": "86box-AppImage-Enhanced",
+  "version": "6.0-1@2026-08-01_1785585893",
+  "download_url": "https://github.com/pkgforge-dev/86box-AppImage-Enhanced/releases/download/6.0-1%402026-08-01_1785585893/86Box-6.0-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/net.86box.86Box.png"
+}
