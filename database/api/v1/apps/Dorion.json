@@ -1,0 +1,12 @@
+{
+  "id": "Dorion",
+  "categories": [
+    "Network"
+  ],
+  "icon_name": "Dorion",
+  "name": "Dorion",
+  "repo": "pkgforge-dev/Dorion-AppImage-Enhanced",
+  "version": "6.12.2-1@2026-08-01_1785586186",
+  "download_url": "https://github.com/pkgforge-dev/Dorion-AppImage-Enhanced/releases/download/6.12.2-1%402026-08-01_1785586186/Dorion-6.12.2-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/Dorion.png"
+}

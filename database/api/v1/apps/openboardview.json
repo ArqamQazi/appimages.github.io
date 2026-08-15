@@ -1,0 +1,16 @@
+{
+  "id": "openboardview",
+  "name": "OpenBoardView",
+  "summary": "Viewer for PCB layouts",
+  "icon_name": "icon",
+  "categories": [
+    "Utility",
+    "Viewer",
+    "Electronics",
+    "GTK"
+  ],
+  "repo": "pkgforge-dev/OpenBoardView-AppImage",
+  "version": "5e8d3b6@2026-08-01_1785585953",
+  "download_url": "https://github.com/pkgforge-dev/OpenBoardView-AppImage/releases/download/5e8d3b6%402026-08-01_1785585953/OpenBoardView-5e8d3b6-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/openboardview.svg"
+}

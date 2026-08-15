@@ -1,0 +1,14 @@
+{
+  "id": "librewolf",
+  "name": "Open the Profile Manager",
+  "summary": "Browse the World Wide Web",
+  "icon_name": "librewolf",
+  "categories": [
+    "Network",
+    "WebBrowser"
+  ],
+  "repo": "pkgforge-dev/LibreWolf-AppImage-Enhanced",
+  "version": "153.0.1_1-1@2026-08-01_1785586227",
+  "download_url": "https://github.com/pkgforge-dev/LibreWolf-AppImage-Enhanced/releases/download/153.0.1_1-1%402026-08-01_1785586227/LibreWolf-153.0.1_1-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/librewolf.png"
+}

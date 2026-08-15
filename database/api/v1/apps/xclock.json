@@ -1,0 +1,14 @@
+{
+  "id": "xclock",
+  "name": "xclock",
+  "summary": "\"analog / digital clock for X\"",
+  "icon_name": "xclock",
+  "categories": [
+    "Utility",
+    "Clock"
+  ],
+  "repo": "pkgforge-dev/xclock-AppImage",
+  "version": "1.2.1-1@2026-08-01_1785585387",
+  "download_url": "https://github.com/pkgforge-dev/xclock-AppImage/releases/download/1.2.1-1%402026-08-01_1785585387/xclock-1.2.1-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/xclock.png"
+}

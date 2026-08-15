@@ -1,0 +1,15 @@
+{
+  "id": "re.fossplant.songrec",
+  "categories": [
+    "GTK",
+    "Audio",
+    "AudioVideo"
+  ],
+  "icon_name": "re.fossplant.songrec",
+  "name": "SongRec",
+  "summary": "An open-source Shazam client for Linux, written in Rust",
+  "repo": "pkgforge-dev/SongRec-AppImage",
+  "version": "0.7.4-1@2026-08-01_1785584869",
+  "download_url": "https://github.com/pkgforge-dev/SongRec-AppImage/releases/download/0.7.4-1%402026-08-01_1785584869/SongRec-0.7.4-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/re.fossplant.songrec.svg"
+}

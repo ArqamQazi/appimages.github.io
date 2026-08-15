@@ -1,0 +1,14 @@
+{
+  "id": "io.github.gopher64.gopher64",
+  "name": "Gopher64",
+  "summary": "A highly compatible N64 emulator, built-in netplay",
+  "icon_name": "io.github.gopher64.gopher64",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/Gopher64-AppImage",
+  "version": "v1.1.34@2026-08-01_1785585588",
+  "download_url": "https://github.com/pkgforge-dev/Gopher64-AppImage/releases/download/v1.1.34%402026-08-01_1785585588/Gopher64-v1.1.34-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/io.github.gopher64.gopher64.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "it.mijorus.gearlever",
+  "name": "Gear Lever",
+  "summary": "An utility to manage AppImages with ease!",
+  "icon_name": "it.mijorus.gearlever",
+  "categories": [
+    "GTK",
+    "Utility"
+  ],
+  "repo": "pkgforge-dev/Gear-Lever-AppImage",
+  "version": "4.6.2-1@2026-08-14_1786735965",
+  "download_url": "https://github.com/pkgforge-dev/Gear-Lever-AppImage/releases/download/4.6.2-1%402026-08-14_1786735965/Gear_Lever-4.6.2-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/it.mijorus.gearlever.svg"
+}

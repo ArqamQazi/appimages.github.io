@@ -1,0 +1,14 @@
+{
+  "id": "io.mgba.mGBA",
+  "icon_name": "io.mgba.mGBA",
+  "name": "mGBA",
+  "summary": "Nintendo Game Boy Advance Emulator",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/mGBA-AppImage-Enhanced",
+  "version": "0.10.5-3@2026-07-01_1782914640",
+  "download_url": "https://github.com/pkgforge-dev/mGBA-AppImage-Enhanced/releases/download/0.10.5-3%402026-07-01_1782914640/mGBA-0.10.5-3-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/io.mgba.mGBA.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "org.kde.kpat",
+  "name": "Yukon",
+  "icon_name": "kpat",
+  "summary": "Solitaire card game",
+  "categories": [
+    "Qt",
+    "KDE",
+    "Game",
+    "CardGame"
+  ],
+  "repo": "pkgforge-dev/KPatience-AppImage",
+  "version": "26.04.3-1@2026-08-01_1785586066",
+  "download_url": "https://github.com/pkgforge-dev/KPatience-AppImage/releases/download/26.04.3-1%402026-08-01_1785586066/KPatience-26.04.3-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.kde.kpat.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "localsend",
+  "name": "LocalSend",
+  "summary": "An open source cross-platform alternative to AirDrop",
+  "icon_name": "localsend",
+  "categories": [
+    "Utility",
+    "Network"
+  ],
+  "repo": "pkgforge-dev/localsend-AppImage",
+  "version": "1.17.0-3@2026-08-01_1785586137",
+  "download_url": "https://github.com/pkgforge-dev/LocalSend-AppImage/releases/download/1.17.0-3%402026-08-01_1785586137/LocalSend-1.17.0-3-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/localsend.png"
+}

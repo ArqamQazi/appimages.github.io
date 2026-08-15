@@ -1,0 +1,13 @@
+{
+  "id": "streamlink",
+  "name": "streamlink",
+  "summary": "Dummy made by quick-sharun",
+  "categories": [
+    "Utility"
+  ],
+  "icon_name": "streamlink",
+  "repo": "pkgforge-dev/Streamlink-AppImage",
+  "version": "8.4.0-1@2026-08-01_1785585971",
+  "download_url": "https://github.com/pkgforge-dev/Streamlink-AppImage/releases/download/8.4.0-1%402026-08-01_1785585971/streamlink-8.4.0-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/streamlink.svg"
+}

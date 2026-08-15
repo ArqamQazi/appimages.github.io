@@ -1,0 +1,14 @@
+{
+  "id": "net.sourceforge.extremetuxracer",
+  "name": "Extreme Tux Racer",
+  "summary": "Race a penguin down a mountain",
+  "icon_name": "etr",
+  "categories": [
+    "Game",
+    "ArcadeGame"
+  ],
+  "repo": "pkgforge-dev/ExtremeTuxRacer-AppImage",
+  "version": "0.8.4-3@2026-08-01_1785586143",
+  "download_url": "https://github.com/pkgforge-dev/ExtremeTuxRacer-AppImage/releases/download/0.8.4-3%402026-08-01_1785586143/Extreme_Tux_Racer-0.8.4-3-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/net.sourceforge.extremetuxracer.png"
+}

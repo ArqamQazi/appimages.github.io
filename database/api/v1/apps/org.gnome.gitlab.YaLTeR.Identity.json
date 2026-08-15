@@ -1,0 +1,19 @@
+{
+  "id": "org.gnome.gitlab.YaLTeR.Identity",
+  "name": "Identity",
+  "summary": "Compare images and videos",
+  "categories": [
+    "GNOME",
+    "GTK",
+    "Video",
+    "AudioVideo",
+    "Graphics",
+    "2DGraphics",
+    "Science"
+  ],
+  "icon_name": "org.gnome.gitlab.YaLTeR.Identity",
+  "repo": "pkgforge-dev/Identity-AppImage",
+  "version": "26.03-1@2026-08-01_1785585591",
+  "download_url": "https://github.com/pkgforge-dev/Identity-AppImage/releases/download/26.03-1%402026-08-01_1785585591/Identity-26.03-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.gnome.gitlab.YaLTeR.Identity.svg"
+}

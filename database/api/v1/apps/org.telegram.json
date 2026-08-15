@@ -1,0 +1,16 @@
+{
+  "id": "org.telegram",
+  "name": "Quit Telegram",
+  "summary": "New era of messaging",
+  "icon_name": "application-exit",
+  "categories": [
+    "Chat",
+    "Network",
+    "InstantMessaging",
+    "Qt"
+  ],
+  "repo": "pkgforge-dev/Telegram-AppImage",
+  "version": "7.0.6-1@2026-08-01_1785586246",
+  "download_url": "https://github.com/pkgforge-dev/Telegram-AppImage/releases/download/7.0.6-1%402026-08-01_1785586246/Telegram-7.0.6-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.telegram.png"
+}

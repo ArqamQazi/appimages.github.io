@@ -1,0 +1,15 @@
+{
+  "id": "org.kde.kdeconnect.app",
+  "name": "KDE Connect",
+  "summary": "Make all your devices one",
+  "icon_name": "kdeconnect",
+  "categories": [
+    "Qt",
+    "KDE",
+    "Network"
+  ],
+  "repo": "pkgforge-dev/kdeconnect-AppImage",
+  "version": "26.04.3-1@2026-08-01_1785586910",
+  "download_url": "https://github.com/pkgforge-dev/kdeconnect-AppImage/releases/download/26.04.3-1%402026-08-01_1785586910/KDE_Connect-26.04.3-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.kde.kdeconnect.app.svg"
+}

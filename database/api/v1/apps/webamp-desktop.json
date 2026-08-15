@@ -1,0 +1,13 @@
+{
+  "id": "webamp-desktop",
+  "name": "Webamp desktop",
+  "icon_name": "icon",
+  "summary": "Desktop version of Winamp 2.9 reimplementation in HTML5 and JS",
+  "categories": [
+    "AudioVideo"
+  ],
+  "repo": "pkgforge-dev/Webamp-Desktop-AppImage-Enhanced",
+  "version": "0.3.0@2026-07-01_1782913085",
+  "download_url": "https://github.com/pkgforge-dev/Webamp-Desktop-AppImage-Enhanced/releases/download/0.3.0%402026-07-01_1782913085/Webamp_desktop-0.3.0-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/webamp-desktop.png"
+}

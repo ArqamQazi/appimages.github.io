@@ -1,0 +1,11 @@
+{
+  "id": "BetterMediaInfo",
+  "categories": [],
+  "summary": "BetterMediaInfo is a better GUI for MediaInfo",
+  "icon_name": "BetterMediaInfo",
+  "name": "BetterMediaInfo",
+  "repo": "pkgforge-dev/BetterMediaInfo-AppImage-Enhanced",
+  "version": "1.0.0@2026-08-01_1785586295",
+  "download_url": "https://github.com/pkgforge-dev/BetterMediaInfo-AppImage-Enhanced/releases/download/1.0.0%402026-08-01_1785586295/BetterMediaInfo-1.0.0-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/BetterMediaInfo.png"
+}

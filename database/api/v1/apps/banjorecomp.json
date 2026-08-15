@@ -1,0 +1,13 @@
+{
+  "id": "banjorecomp",
+  "name": "Banjo Recompiled",
+  "icon_name": "app",
+  "categories": [
+    "Game"
+  ],
+  "summary": "Static recompilation of Banjo-Kazooie for PC.",
+  "repo": "pkgforge-dev/BanjoRecomp-AppImage",
+  "version": "1.0.1@2026-08-01_1785586265",
+  "download_url": "https://github.com/pkgforge-dev/BanjoRecomp-AppImage/releases/download/1.0.1%402026-08-01_1785586265/Banjo_Recompiled-1.0.1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/banjorecomp.png"
+}

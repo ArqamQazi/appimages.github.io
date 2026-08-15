@@ -1,0 +1,14 @@
+{
+  "id": "simutrans",
+  "name": "Simutrans",
+  "summary": "Transportation simulator",
+  "icon_name": "simutrans",
+  "categories": [
+    "Game",
+    "Simulation"
+  ],
+  "repo": "pkgforge-dev/Simutrans-AppImage",
+  "version": "124.5-2@2026-08-01_1785585874",
+  "download_url": "https://github.com/pkgforge-dev/Simutrans-AppImage/releases/download/124.5-2%402026-08-01_1785585874/Simutrans-124.5-2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/simutrans.svg"
+}

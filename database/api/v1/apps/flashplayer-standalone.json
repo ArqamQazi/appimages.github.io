@@ -1,0 +1,19 @@
+{
+  "id": "flashplayer-standalone",
+  "name": "Adobe Flash Player Standalone",
+  "summary": "Player for using content created on the Adobe Flash platform",
+  "icon_name": "flashplayer-standalone",
+  "categories": [
+    "Audio",
+    "AudioVideo",
+    "Graphics",
+    "GTK",
+    "Player",
+    "Video",
+    "Viewer"
+  ],
+  "repo": "pkgforge-dev/Adobe-Flash-Player-AppImage",
+  "version": "32.0.0.465-1@2026-08-01_1785585744",
+  "download_url": "https://github.com/pkgforge-dev/Adobe-Flash-Player-AppImage/releases/download/32.0.0.465-1%402026-08-01_1785585744/Adobe_Flash_Player_Standalone-32.0.0.465-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/flashplayer-standalone.svg"
+}

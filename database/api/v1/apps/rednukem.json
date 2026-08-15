@@ -1,0 +1,13 @@
+{
+  "id": "rednukem",
+  "name": "Rednukem",
+  "icon_name": "rednukem",
+  "categories": [
+    "Game",
+    "ActionGame"
+  ],
+  "repo": "pkgforge-dev/Rednukem-AppImage",
+  "version": "d66806847@2026-08-01_1785584796",
+  "download_url": "https://github.com/pkgforge-dev/Rednukem-AppImage/releases/download/d66806847%402026-08-01_1785584796/Rednukem-d66806847-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/rednukem.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "me.spaceinbox.swiftynotes",
+  "name": "New Window",
+  "summary": "Native GTK markdown notes with preview and CLI automation",
+  "icon_name": "me.spaceinbox.swiftynotes",
+  "categories": [
+    "Utility",
+    "TextEditor",
+    "GTK",
+    "GNOME"
+  ],
+  "repo": "pkgforge-dev/swiftynotes-AppImage",
+  "version": "1.1.6@2026-05-16_1778947603",
+  "download_url": "https://github.com/pkgforge-dev/swiftynotes-AppImage/releases/download/1.1.6%402026-05-16_1778947603/Swifty_Notes-1.1.6-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/me.spaceinbox.swiftynotes.svg"
+}

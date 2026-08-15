@@ -1,0 +1,12 @@
+{
+  "id": "RQuickShare",
+  "categories": [
+    "Development"
+  ],
+  "icon_name": "rquickshare",
+  "name": "RQuickShare",
+  "repo": "pkgforge-dev/rquickshare-AppImage-Enhanced",
+  "version": "0.11.5-2@2026-08-01_1785586273",
+  "download_url": "https://github.com/pkgforge-dev/rquickshare-AppImage-Enhanced/releases/download/0.11.5-2%402026-08-01_1785586273/RQuickShare-0.11.5-2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/RQuickShare.png"
+}

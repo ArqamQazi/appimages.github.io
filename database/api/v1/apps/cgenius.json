@@ -1,0 +1,14 @@
+{
+  "id": "cgenius",
+  "name": "Commander Genius",
+  "summary": "Play natively Commander Keen Games",
+  "icon_name": "cg",
+  "categories": [
+    "Game",
+    "ArcadeGame"
+  ],
+  "repo": "pkgforge-dev/Commander-Genius-AppImage",
+  "version": "3.6.3.r2.gfd6e11b-1@2026-08-01_1785585005",
+  "download_url": "https://github.com/pkgforge-dev/Commander-Genius-AppImage/releases/download/3.6.3.r2.gfd6e11b-1%402026-08-01_1785585005/Commander_Genius-3.6.3.r2.gfd6e11b-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/cgenius.svg"
+}

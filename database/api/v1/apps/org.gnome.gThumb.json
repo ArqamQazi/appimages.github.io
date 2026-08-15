@@ -1,0 +1,19 @@
+{
+  "id": "org.gnome.gThumb",
+  "name": "New Window",
+  "summary": "View and organize your images",
+  "categories": [
+    "GNOME",
+    "GTK",
+    "Graphics",
+    "Viewer",
+    "RasterGraphics",
+    "2DGraphics",
+    "Photography"
+  ],
+  "icon_name": "org.gnome.gThumb",
+  "repo": "pkgforge-dev/gThumb-AppImage",
+  "version": "3.12.10-4@2026-08-01_1785586259",
+  "download_url": "https://github.com/pkgforge-dev/gThumb-AppImage/releases/download/3.12.10-4%402026-08-01_1785586259/gThumb-3.12.10-4-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.gnome.gThumb.png"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "rofi",
+  "name": "Rofi",
+  "icon_name": "rofi",
+  "repo": "pkgforge-dev/rofi-AppImage",
+  "version": "a6afacb@2026-08-01_1785586274",
+  "download_url": "https://github.com/pkgforge-dev/rofi-AppImage/releases/download/a6afacb%402026-08-01_1785586274/rofi-a6afacb-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/rofi.svg"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "sdlpop",
+  "name": "SDLPoP",
+  "summary": "An open-source port of Prince of Persia",
+  "icon_name": "icon",
+  "categories": [
+    "Application",
+    "Game",
+    "ArcadeGame"
+  ],
+  "repo": "pkgforge-dev/SDLPoP-AppImage",
+  "version": "1.24rc1-1@2026-08-01_1785586286",
+  "download_url": "https://github.com/pkgforge-dev/SDLPoP-AppImage/releases/download/1.24rc1-1%402026-08-01_1785586286/SDLPoP-1.24rc1-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/sdlpop.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "dolphin-emu",
+  "icon_name": "dolphin-emu",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "name": "Dolphin Emulator",
+  "summary": "A Wii/GameCube Emulator",
+  "repo": "pkgforge-dev/Dolphin-emu-AppImage",
+  "version": "2606a@2026-08-13_1786641818",
+  "download_url": "https://github.com/pkgforge-dev/Dolphin-emu-AppImage/releases/download/2606a%402026-08-13_1786641818/Dolphin_Emulator-2606a-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/dolphin-emu.png"
+}

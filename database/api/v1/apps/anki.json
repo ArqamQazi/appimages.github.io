@@ -1,0 +1,16 @@
+{
+  "id": "anki",
+  "name": "Anki",
+  "summary": "An intelligent spaced-repetition memory training program",
+  "icon_name": "anki",
+  "categories": [
+    "Education",
+    "Languages",
+    "KDE",
+    "Qt"
+  ],
+  "repo": "pkgforge-dev/anki-AppImage",
+  "version": "26.05-1@2026-08-01_1785586154",
+  "download_url": "https://github.com/pkgforge-dev/anki-AppImage/releases/download/26.05-1%402026-08-01_1785586154/Anki-26.05-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/anki.png"
+}

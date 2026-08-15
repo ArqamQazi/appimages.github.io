@@ -1,0 +1,16 @@
+{
+  "id": "io.github.alainm23.planify",
+  "name": "Planify",
+  "summary": "Forget about forgetting things",
+  "categories": [
+    "Utility",
+    "Office",
+    "ProjectManagement",
+    "Calendar"
+  ],
+  "icon_name": "io.github.alainm23.planify",
+  "repo": "pkgforge-dev/Planify-AppImage",
+  "version": "4.19.5-1@2026-08-01_1785586287",
+  "download_url": "https://github.com/pkgforge-dev/Planify-AppImage/releases/download/4.19.5-1%402026-08-01_1785586287/Planify-4.19.5-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/io.github.alainm23.planify.svg"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "qmmp",
+  "name": "Next",
+  "summary": "Qt-based Multimedia Player",
+  "icon_name": "qmmp",
+  "categories": [
+    "AudioVideo",
+    "Player",
+    "Audio",
+    "Qt"
+  ],
+  "repo": "pkgforge-dev/Qmmp-AppImage",
+  "version": "2.3.3-1@2026-08-01_1785586258",
+  "download_url": "https://github.com/pkgforge-dev/Qmmp-AppImage/releases/download/2.3.3-1%402026-08-01_1785586258/Qmmp-2.3.3-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/qmmp.png"
+}

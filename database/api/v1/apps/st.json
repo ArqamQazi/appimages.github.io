@@ -1,0 +1,14 @@
+{
+  "id": "st",
+  "name": "st",
+  "summary": "st is a simple virtual terminal emulator for X which sucks less",
+  "icon_name": "st",
+  "categories": [
+    "System",
+    "TerminalEmulator"
+  ],
+  "repo": "pkgforge-dev/st-AppImage",
+  "version": "0.9.3-1@2026-07-01_1782914576",
+  "download_url": "https://github.com/pkgforge-dev/st-AppImage/releases/download/0.9.3-1%402026-07-01_1782914576/st-0.9.3-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/st.svg"
+}

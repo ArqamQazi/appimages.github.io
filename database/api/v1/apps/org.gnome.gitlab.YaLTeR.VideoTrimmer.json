@@ -1,0 +1,16 @@
+{
+  "id": "org.gnome.gitlab.YaLTeR.VideoTrimmer",
+  "name": "Video Trimmer",
+  "summary": "Trim videos quickly",
+  "icon_name": "org.gnome.gitlab.YaLTeR.VideoTrimmer",
+  "categories": [
+    "GNOME",
+    "GTK",
+    "Video",
+    "AudioVideo"
+  ],
+  "repo": "pkgforge-dev/Video-Trimmer-AppImage",
+  "version": "26.03-1@2026-08-01_1785586101",
+  "download_url": "https://github.com/pkgforge-dev/Video-Trimmer-AppImage/releases/download/26.03-1%402026-08-01_1785586101/Video_Trimmer-26.03-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.gnome.gitlab.YaLTeR.VideoTrimmer.svg"
+}

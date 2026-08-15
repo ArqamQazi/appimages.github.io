@@ -1,0 +1,15 @@
+{
+  "id": "OpenLara",
+  "name": "OpenLara",
+  "summary": "Classic Tomb Raider open-source engine",
+  "icon_name": "icon0",
+  "categories": [
+    "Game",
+    "Action",
+    "Adventure"
+  ],
+  "repo": "pkgforge-dev/OpenLara-AppImage",
+  "version": "3b268ca4b@2026-08-01_1785586302",
+  "download_url": "https://github.com/pkgforge-dev/OpenLara-AppImage/releases/download/3b268ca4b%402026-08-01_1785586302/OpenLara-3b268ca4b-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/OpenLara.png"
+}

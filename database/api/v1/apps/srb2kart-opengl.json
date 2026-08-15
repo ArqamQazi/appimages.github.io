@@ -1,0 +1,14 @@
+{
+  "id": "srb2kart-opengl",
+  "name": "Sonic Robo Blast 2 Kart (OpenGL)",
+  "summary": "Classic styled kart racer",
+  "icon_name": "srb2kart",
+  "categories": [
+    "Game",
+    "ArcadeGame"
+  ],
+  "repo": "pkgforge-dev/SRB2Kart-AppImage",
+  "version": "1.6-2@2026-08-01_1785586104",
+  "download_url": "https://github.com/pkgforge-dev/SRB2Kart-AppImage/releases/download/1.6-2%402026-08-01_1785586104/SRB2Kart-1.6-2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/srb2kart-opengl.png"
+}

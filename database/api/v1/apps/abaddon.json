@@ -1,0 +1,14 @@
+{
+  "id": "abaddon",
+  "name": "abaddon",
+  "summary": "Alternative Discord client using GTK instead of Electron",
+  "icon_name": "abaddon",
+  "categories": [
+    "Network",
+    "InstantMessaging"
+  ],
+  "repo": "pkgforge-dev/Abaddon-AppImage",
+  "version": "0.2.4-1@2026-08-01_1785586354",
+  "download_url": "https://github.com/pkgforge-dev/Abaddon-AppImage/releases/download/0.2.4-1%402026-08-01_1785586354/abaddon-0.2.4-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/abaddon.svg"
+}

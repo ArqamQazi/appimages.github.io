@@ -1,0 +1,16 @@
+{
+  "id": "org.kde.kdenlive",
+  "name": "Kdenlive",
+  "summary": "Nonlinear video editor by KDE",
+  "icon_name": "kdenlive",
+  "categories": [
+    "Qt",
+    "KDE",
+    "AudioVideo",
+    "AudioVideoEditing"
+  ],
+  "repo": "pkgforge-dev/kdenlive-AppImage-Enhanced",
+  "version": "26.04.3-1@2026-08-01_1785585916",
+  "download_url": "https://github.com/pkgforge-dev/kdenlive-AppImage-Enhanced/releases/download/26.04.3-1%402026-08-01_1785585916/Kdenlive-26.04.3-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.kde.kdenlive.png"
+}

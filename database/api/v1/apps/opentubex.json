@@ -1,0 +1,13 @@
+{
+  "id": "opentubex",
+  "name": "OpenTubeX",
+  "icon_name": "opentubex",
+  "summary": "A private YouTube client",
+  "categories": [
+    "Network"
+  ],
+  "repo": "OpenTubeX/OpenTubeX",
+  "version": "v0.31.3-beta",
+  "download_url": "https://github.com/OpenTubeX/OpenTubeX/releases/download/v0.31.3-beta/opentubex-0.31.3-beta-amd64.AppImage",
+  "icon_url": "/database/icons/opentubex.svg"
+}

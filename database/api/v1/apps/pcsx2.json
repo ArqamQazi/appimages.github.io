@@ -1,0 +1,14 @@
+{
+  "id": "pcsx2",
+  "name": "PCSX2",
+  "summary": "PlayStation 2 emulator",
+  "icon_name": "pcsx2",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/PCSX2-AppImage-Enhanced",
+  "version": "2.7.511.r0.g779d5c4-1@2026-08-01_1785578606",
+  "download_url": "https://github.com/pkgforge-dev/PCSX2-AppImage-Enhanced/releases/download/2.7.511.r0.g779d5c4-1%402026-08-01_1785578606/PCSX2-2.7.511.r0.g779d5c4-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/pcsx2.png"
+}

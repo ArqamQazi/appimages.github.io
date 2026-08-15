@@ -1,0 +1,16 @@
+{
+  "id": "io.element.Element",
+  "name": "Element",
+  "summary": "Feature-rich client for Matrix",
+  "icon_name": "io.element.Element",
+  "categories": [
+    "Network",
+    "InstantMessaging",
+    "Chat",
+    "IRCClient"
+  ],
+  "repo": "pkgforge-dev/Element-Desktop-AppImage",
+  "version": "1.12.24@2026-08-01_1785586374",
+  "download_url": "https://github.com/pkgforge-dev/Element-Desktop-AppImage/releases/download/1.12.24%402026-08-01_1785586374/Element-1.12.24-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/io.element.Element.png"
+}

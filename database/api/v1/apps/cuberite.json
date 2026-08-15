@@ -1,0 +1,13 @@
+{
+  "id": "cuberite",
+  "name": "Cuberite",
+  "icon_name": "icon_256",
+  "categories": [
+    "Game",
+    "Server"
+  ],
+  "repo": "pkgforge-dev/Cuberite-AppImage",
+  "version": "r135@2026-08-01_1785584973",
+  "download_url": "https://github.com/pkgforge-dev/Cuberite-AppImage/releases/download/r135%402026-08-01_1785584973/Cuberite-r445-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/cuberite.png"
+}

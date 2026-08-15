@@ -1,0 +1,15 @@
+{
+  "id": "vokoscreenNG",
+  "name": "vokoscreenNG",
+  "summary": "Easy to use desktop recorder",
+  "icon_name": "vokoscreenNG",
+  "categories": [
+    "AudioVideo",
+    "Player",
+    "Recorder"
+  ],
+  "repo": "pkgforge-dev/vokoscreenNG-AppImage",
+  "version": "4.10.0-1@2026-08-01_1785586241",
+  "download_url": "https://github.com/pkgforge-dev/vokoscreenNG-AppImage/releases/download/4.10.0-1%402026-08-01_1785586241/vokoscreenNG-4.10.0-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/vokoscreenNG.png"
+}

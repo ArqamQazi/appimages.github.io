@@ -1,0 +1,14 @@
+{
+  "id": "ghostship",
+  "name": "Ghostship",
+  "summary": "A yet another definitive unofficial port of Super Mario 64",
+  "icon_name": "ghostship",
+  "categories": [
+    "Game",
+    "Retro"
+  ],
+  "repo": "pkgforge-dev/Ghostship-AppImage-Enhanced",
+  "version": "1.0.2@2026-05-22_1779458639",
+  "download_url": "https://github.com/pkgforge-dev/Ghostship-AppImage-Enhanced/releases/download/1.0.2%402026-05-22_1779458639/Ghostship-1.0.2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/ghostship.png"
+}

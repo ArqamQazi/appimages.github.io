@@ -1,0 +1,14 @@
+{
+  "id": "Defold",
+  "name": "Defold",
+  "summary": "Defold is a completely free to use game engine for development of desktop, mobile and web games.",
+  "icon_name": "Defold",
+  "categories": [
+    "IDE",
+    "Development"
+  ],
+  "repo": "pkgforge-dev/Defold-AppImage",
+  "version": "1.12.4@2026-06-22_1782145707",
+  "download_url": "https://github.com/pkgforge-dev/Defold-AppImage/releases/download/1.12.4%402026-06-22_1782145707/Defold-1.12.4-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/Defold.png"
+}

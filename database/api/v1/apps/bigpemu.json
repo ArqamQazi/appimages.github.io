@@ -1,0 +1,13 @@
+{
+  "id": "bigpemu",
+  "name": "BigPEmu",
+  "icon_name": "bigpemu-icon",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/BigPEmu-AppImage",
+  "version": "1.221@2026-07-01_1782914735",
+  "download_url": "https://github.com/pkgforge-dev/BigPEmu-AppImage/releases/download/1.221%402026-07-01_1782914735/BigPEmu-1.221-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/bigpemu.png"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "org.octave.Octave",
+  "name": "GNU Octave",
+  "summary": "Interactive programming environment for numerical computations",
+  "icon_name": "octave",
+  "categories": [
+    "Education",
+    "Science",
+    "Math"
+  ],
+  "repo": "pkgforge-dev/GNU-Octave-AppImage",
+  "version": "11.3.0-1@2026-08-14_1786666823",
+  "download_url": "https://github.com/pkgforge-dev/GNU-Octave-AppImage/releases/download/11.3.0-1%402026-08-14_1786666823/GNU_Octave-11.3.0-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.octave.Octave.png"
+}

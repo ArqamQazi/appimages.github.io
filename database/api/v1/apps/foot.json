@@ -1,0 +1,14 @@
+{
+  "id": "foot",
+  "icon_name": "foot",
+  "categories": [
+    "System",
+    "TerminalEmulator"
+  ],
+  "name": "Foot",
+  "summary": "A wayland native terminal emulator",
+  "repo": "pkgforge-dev/foot-AppImage",
+  "version": "1.27.0-2@2026-08-01_1785585928",
+  "download_url": "https://github.com/pkgforge-dev/foot-AppImage/releases/download/1.27.0-2%402026-08-01_1785585928/Foot-1.27.0-2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/foot.svg"
+}

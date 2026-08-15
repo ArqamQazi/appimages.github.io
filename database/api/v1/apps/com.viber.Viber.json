@@ -1,0 +1,15 @@
+{
+  "id": "com.viber.Viber",
+  "name": "Viber",
+  "summary": "Viber VoIP and messenger",
+  "icon_name": "viber",
+  "categories": [
+    "Network",
+    "InstantMessaging",
+    "P2P"
+  ],
+  "repo": "pkgforge-dev/Viber-AppImage-Enhanced",
+  "version": "27.3.0.2-1@2026-07-01_1782915443",
+  "download_url": "https://github.com/pkgforge-dev/Viber-AppImage-Enhanced/releases/download/27.3.0.2-1%402026-07-01_1782915443/Viber-27.3.0.2-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/com.viber.Viber.svg"
+}

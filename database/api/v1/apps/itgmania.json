@@ -1,0 +1,14 @@
+{
+  "id": "itgmania",
+  "name": "ITGmania",
+  "icon_name": "/opt/itgmania/Data/logo.svg",
+  "categories": [
+    "Game",
+    "ArcadeGame"
+  ],
+  "summary": "A cross-platform rhythm video game.",
+  "repo": "pkgforge-dev/ITGmania-AppImage",
+  "version": "1.3.0-1@2026-08-01_1785586169",
+  "download_url": "https://github.com/pkgforge-dev/ITGmania-AppImage/releases/download/1.3.0-1%402026-08-01_1785586169/ITGmania-1.3.0-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/itgmania.svg"
+}

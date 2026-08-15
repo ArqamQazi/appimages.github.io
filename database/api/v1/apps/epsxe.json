@@ -1,0 +1,13 @@
+{
+  "id": "epsxe",
+  "name": "ePSXe",
+  "summary": "Enhanced PSX emulator",
+  "icon_name": "/usr/share/pixmaps/epsxe.png",
+  "categories": [
+    "Game"
+  ],
+  "repo": "pkgforge-dev/ePSXe-AppImage",
+  "version": "2.0.5@2026-07-23_1784826422",
+  "download_url": "https://github.com/pkgforge-dev/ePSXe-AppImage/releases/download/2.0.5%402026-07-23_1784826422/ePSXe-2.0.5-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/epsxe.png"
+}

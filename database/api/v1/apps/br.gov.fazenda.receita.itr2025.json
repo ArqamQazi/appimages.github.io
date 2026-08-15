@@ -1,0 +1,14 @@
+{
+  "id": "br.gov.fazenda.receita.itr2025",
+  "name": "ITR 2025",
+  "summary": "Declare seu imposto dos seus im\u00f3veis rurais (Ano-calend\u00e1rio 2025)",
+  "icon_name": "br.gov.fazenda.receita.itr2025",
+  "categories": [
+    "Office",
+    "Network"
+  ],
+  "repo": "pkgforge-dev/ITR2025-AppImage",
+  "version": "1.7@2026-06-13_1781348892",
+  "download_url": "https://github.com/pkgforge-dev/ITR2025-AppImage/releases/download/1.7%402026-06-13_1781348892/ITR_2025-1.7-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/br.gov.fazenda.receita.itr2025.png"
+}

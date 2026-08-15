@@ -1,0 +1,15 @@
+{
+  "id": "drally",
+  "name": "dRally",
+  "summary": "\"A port of Death Rally (1996)\"",
+  "icon_name": "drally",
+  "categories": [
+    "Game",
+    "Action",
+    "Racing"
+  ],
+  "repo": "pkgforge-dev/dRally-AppImage",
+  "version": "920d85a7f@2026-07-01_1782905535",
+  "download_url": "https://github.com/pkgforge-dev/dRally-AppImage/releases/download/920d85a7f%402026-07-01_1782905535/dRally-920d85a7f-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/drally.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "freetube",
+  "name": "FreeTube",
+  "icon_name": "freetube",
+  "summary": "A private YouTube client",
+  "categories": [
+    "Network"
+  ],
+  "repo": "pkgforge-dev/FreeTube-Appimage-Enhanced",
+  "version": "0.25.1-beta@2026-08-01_1785586198",
+  "download_url": "https://github.com/pkgforge-dev/FreeTube-Appimage-Enhanced/releases/download/0.25.1-beta%402026-08-01_1785586198/FreeTube-0.25.1-beta-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/freetube.svg"
+}

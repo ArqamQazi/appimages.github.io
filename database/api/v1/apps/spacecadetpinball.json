@@ -1,0 +1,13 @@
+{
+  "id": "spacecadetpinball",
+  "name": "SpaceCadetPinball",
+  "summary": "Reverse engineered port of \"3D Pinball for Windows \u2013 Space Cadet\" to Linux",
+  "icon_name": "Icon_128x128.png",
+  "categories": [
+    "Game"
+  ],
+  "repo": "pkgforge-dev/spacecadetpinball-AppImage",
+  "version": "2.1.0@2026-08-11_1786482748",
+  "download_url": "https://github.com/pkgforge-dev/spacecadetpinball-AppImage/releases/download/2.1.0%402026-08-11_1786482748/SpaceCadetPinball-2.1.0-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/spacecadetpinball.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "io.github.revisto.drum-machine",
+  "name": "Drum Machine",
+  "icon_name": "io.github.revisto.drum-machine",
+  "categories": [
+    "AudioVideo",
+    "Audio",
+    "Music"
+  ],
+  "repo": "pkgforge-dev/Drum-Machine-AppImage",
+  "version": "2.2.0-1@2026-08-14_1786735999",
+  "download_url": "https://github.com/pkgforge-dev/Drum-Machine-AppImage/releases/download/2.2.0-1%402026-08-14_1786735999/Drum_Machine-2.2.0-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/io.github.revisto.drum-machine.svg"
+}

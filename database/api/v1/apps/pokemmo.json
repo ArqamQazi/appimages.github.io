@@ -1,0 +1,16 @@
+{
+  "id": "pokemmo",
+  "name": "PokeMMO",
+  "summary": "MMO based on the Pok\u00e9mon Universe",
+  "icon_name": "pokemmo-launcher",
+  "categories": [
+    "Game",
+    "AdventureGame",
+    "Emulator",
+    "RolePlaying"
+  ],
+  "repo": "pkgforge-dev/PokeMMO-AppImage",
+  "version": "1.4.8-2@2026-07-22_1784722436",
+  "download_url": "https://github.com/pkgforge-dev/PokeMMO-AppImage/releases/download/1.4.8-2%402026-07-22_1784722436/PokeMMO-1.4.8-2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/pokemmo.png"
+}

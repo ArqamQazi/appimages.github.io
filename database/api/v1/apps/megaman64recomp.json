@@ -1,0 +1,13 @@
+{
+  "id": "megaman64recomp",
+  "name": "Mega Man 64 Recompiled",
+  "icon_name": "512",
+  "categories": [
+    "Game"
+  ],
+  "summary": "Static recompilation of Mega Man 64 for PC.",
+  "repo": "pkgforge-dev/MegaMan64Recomp-AppImage",
+  "version": "0.9.1@2026-08-01_1785586323",
+  "download_url": "https://github.com/pkgforge-dev/MegaMan64Recomp-AppImage/releases/download/0.9.1%402026-08-01_1785586323/Mega_Man_64_Recompiled-0.9.1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/megaman64recomp.png"
+}

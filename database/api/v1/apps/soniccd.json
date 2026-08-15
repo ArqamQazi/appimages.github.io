@@ -1,0 +1,12 @@
+{
+  "id": "soniccd",
+  "name": "Sonic CD",
+  "icon_name": "RSDKv3",
+  "categories": [
+    "Game"
+  ],
+  "repo": "pkgforge-dev/RSDKv3-AppImage",
+  "version": "r723.b9c93a6-1@2026-08-01_1785584491",
+  "download_url": "https://github.com/pkgforge-dev/RSDKv3-AppImage/releases/download/r723.b9c93a6-1%402026-08-01_1785584491/Sonic_CD-r723.b9c93a6-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/soniccd.png"
+}

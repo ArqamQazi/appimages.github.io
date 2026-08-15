@@ -1,0 +1,14 @@
+{
+  "id": "arx-libertatis",
+  "name": "Arx Libertatis",
+  "summary": "Cross-platform port of Arx Fatalis, a first-person role-playing game",
+  "icon_name": "arx-libertatis",
+  "categories": [
+    "Game",
+    "RolePlaying"
+  ],
+  "repo": "pkgforge-dev/Arx-Libertatis-AppImage",
+  "version": "1.2.1-2@2026-08-04_1785887168",
+  "download_url": "https://github.com/pkgforge-dev/Arx-Libertatis-AppImage/releases/download/1.2.1-2%402026-08-04_1785887168/Arx_Libertatis-1.2.1-2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/arx-libertatis.png"
+}

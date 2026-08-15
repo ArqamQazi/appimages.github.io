@@ -1,0 +1,13 @@
+{
+  "id": "protontricks",
+  "name": "Protontricks",
+  "summary": "A simple wrapper that does winetricks things for Proton enabled games",
+  "categories": [
+    "Utility"
+  ],
+  "icon_name": "wine",
+  "repo": "pkgforge-dev/Protontricks-AppImage",
+  "version": "1.14.1-1@2026-08-01_1785586024",
+  "download_url": "https://github.com/pkgforge-dev/Protontricks-AppImage/releases/download/1.14.1-1%402026-08-01_1785586024/Protontricks-1.14.1-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/protontricks.svg"
+}

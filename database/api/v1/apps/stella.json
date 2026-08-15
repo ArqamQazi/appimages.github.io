@@ -1,0 +1,14 @@
+{
+  "id": "stella",
+  "name": "Stella",
+  "summary": "A multi-platform Atari 2600 emulator",
+  "icon_name": "stella",
+  "categories": [
+    "Emulator",
+    "Game"
+  ],
+  "repo": "pkgforge-dev/Stella-AppImage",
+  "version": "7.0-1@2026-08-01_1785586169",
+  "download_url": "https://github.com/pkgforge-dev/Stella-AppImage/releases/download/7.0-1%402026-08-01_1785586169/Stella-7.0-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/stella.png"
+}

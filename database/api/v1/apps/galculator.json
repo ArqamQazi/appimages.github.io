@@ -1,0 +1,13 @@
+{
+  "id": "galculator",
+  "name": "Galculator",
+  "summary": "Perform simple and scientific calculations",
+  "icon_name": "galculator",
+  "categories": [
+    "Utility"
+  ],
+  "repo": "pkgforge-dev/Galculator-AppImage",
+  "version": "2.1.4-10@2026-07-01_1782914566",
+  "download_url": "https://github.com/pkgforge-dev/Galculator-AppImage/releases/download/2.1.4-10%402026-07-01_1782914566/Galculator-2.1.4-10-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/galculator.svg"
+}

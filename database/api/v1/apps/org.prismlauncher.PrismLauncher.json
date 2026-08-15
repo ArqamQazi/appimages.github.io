@@ -1,0 +1,17 @@
+{
+  "id": "org.prismlauncher.PrismLauncher",
+  "name": "Prism Launcher",
+  "summary": "Discover, manage, and play Minecraft instances",
+  "icon_name": "org.prismlauncher.PrismLauncher",
+  "categories": [
+    "Game",
+    "ActionGame",
+    "AdventureGame",
+    "Simulation",
+    "PackageManager"
+  ],
+  "repo": "pkgforge-dev/PrismLauncher-AppImage-Enhanced",
+  "version": "11.0.3-2@2026-08-01_1785585993",
+  "download_url": "https://github.com/pkgforge-dev/PrismLauncher-AppImage-Enhanced/releases/download/11.0.3-2%402026-08-01_1785585993/Prism_Launcher-11.0.3-2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.prismlauncher.PrismLauncher.svg"
+}

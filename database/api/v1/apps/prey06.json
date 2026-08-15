@@ -1,0 +1,16 @@
+{
+  "id": "prey06",
+  "name": "Prey 2006",
+  "summary": "\"Prey 2006 SDK integrated with Doom 3 GPL release\"",
+  "icon_name": "prey",
+  "categories": [
+    "Application",
+    "Game",
+    "Shooting",
+    "FPS"
+  ],
+  "repo": "pkgforge-dev/Prey2006-AppImage",
+  "version": "3ef7957ec@2026-05-01_1777638780",
+  "download_url": "https://github.com/pkgforge-dev/Prey2006-AppImage/releases/download/3ef7957ec%402026-05-01_1777638780/Prey_2006-3ef7957ec-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/prey06.png"
+}

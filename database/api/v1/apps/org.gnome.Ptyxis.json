@@ -1,0 +1,16 @@
+{
+  "id": "org.gnome.Ptyxis",
+  "name": "Preferences",
+  "summary": "A container-oriented terminal for GNOME",
+  "icon_name": "org.gnome.Ptyxis",
+  "categories": [
+    "GNOME",
+    "GTK",
+    "System",
+    "TerminalEmulator"
+  ],
+  "repo": "pkgforge-dev/Ptyxis-AppImage",
+  "version": "50.1-1@2026-08-01_1785586279",
+  "download_url": "https://github.com/pkgforge-dev/Ptyxis-AppImage/releases/download/50.1-1%402026-08-01_1785586279/Ptyxis-50.1-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.gnome.Ptyxis.svg"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "yamagi-quake2",
+  "name": "Yamagi Quake II",
+  "icon_name": "Quake2.svg",
+  "categories": [
+    "Game",
+    "Shooter"
+  ],
+  "repo": "pkgforge-dev/Yamagi-Quake-II-AppImage",
+  "version": "8.70-1@2026-08-01_1785585722",
+  "download_url": "https://github.com/pkgforge-dev/Yamagi-Quake-II-AppImage/releases/download/8.70-1%402026-08-01_1785585722/Yamagi_Quake_II-8.70-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/yamagi-quake2.svg"
+}

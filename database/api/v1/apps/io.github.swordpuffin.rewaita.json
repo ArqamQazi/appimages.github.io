@@ -1,0 +1,12 @@
+{
+  "id": "io.github.swordpuffin.rewaita",
+  "name": "Rewaita",
+  "icon_name": "io.github.swordpuffin.rewaita",
+  "categories": [
+    "Utility"
+  ],
+  "repo": "pkgforge-dev/Rewaita-AppImage",
+  "version": "1.1.6-1@2026-08-14_1786735855",
+  "download_url": "https://github.com/pkgforge-dev/Rewaita-AppImage/releases/download/1.1.6-1%402026-08-14_1786735855/Rewaita-1.1.6-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/io.github.swordpuffin.rewaita.svg"
+}

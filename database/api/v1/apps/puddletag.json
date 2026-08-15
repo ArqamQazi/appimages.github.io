@@ -1,0 +1,14 @@
+{
+  "id": "puddletag",
+  "name": "puddletag",
+  "icon_name": "puddletag",
+  "categories": [
+    "AudioVideo",
+    "Audio",
+    "Qt"
+  ],
+  "repo": "pkgforge-dev/puddletag-AppImage",
+  "version": "2.5.0.r37.gda6fd53-1@2026-08-01_1785586300",
+  "download_url": "https://github.com/pkgforge-dev/puddletag-AppImage/releases/download/2.5.0.r37.gda6fd53-1%402026-08-01_1785586300/puddletag-2.5.0.r37.gda6fd53-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/puddletag.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "Cromite",
+  "name": "Open a New Private Window",
+  "icon_name": "Cromite",
+  "categories": [
+    "Application",
+    "Network",
+    "WebBrowser"
+  ],
+  "repo": "pkgforge-dev/Cromite-AppImage",
+  "version": "v148.0.7778.168@2026-08-12_1786533018",
+  "download_url": "https://github.com/pkgforge-dev/Cromite-AppImage/releases/download/v148.0.7778.168%402026-08-12_1786533018/Cromite-v148.0.7778.168-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/Cromite.png"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "audacity",
+  "name": "Audacity",
+  "summary": "Record and edit audio files",
+  "icon_name": "audacity",
+  "categories": [
+    "AudioVideo",
+    "Audio",
+    "AudioVideoEditing"
+  ],
+  "repo": "pkgforge-dev/Audacity-AppImage-Enhanced",
+  "version": "3.7.8-2@2026-08-01_1785585821",
+  "download_url": "https://github.com/pkgforge-dev/Audacity-AppImage-Enhanced/releases/download/3.7.8-2%402026-08-01_1785585821/Audacity-3.7.8-2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/audacity.svg"
+}

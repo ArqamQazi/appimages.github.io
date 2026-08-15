@@ -1,0 +1,13 @@
+{
+  "id": "oxicord",
+  "name": "oxicord",
+  "summary": "Dummy made by quick-sharun",
+  "categories": [
+    "Utility"
+  ],
+  "icon_name": "oxicord",
+  "repo": "pkgforge-dev/Oxicord-AppImage",
+  "version": "0.1.9-4@2026-08-01_1785586251",
+  "download_url": "https://github.com/pkgforge-dev/Oxicord-AppImage/releases/download/0.1.9-4%402026-08-01_1785586251/oxicord-0.1.9-4-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/oxicord.png"
+}

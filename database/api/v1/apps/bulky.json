@@ -1,0 +1,15 @@
+{
+  "id": "bulky",
+  "name": "File Renamer",
+  "summary": "Rename files and directories",
+  "icon_name": "bulky",
+  "categories": [
+    "GTK",
+    "Utility",
+    "Core"
+  ],
+  "repo": "pkgforge-dev/Bulky-AppImage",
+  "version": "4.2-1@2026-08-01_1785585282",
+  "download_url": "https://github.com/pkgforge-dev/Bulky-AppImage/releases/download/4.2-1%402026-08-01_1785585282/Bulky-4.2-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/bulky.svg"
+}

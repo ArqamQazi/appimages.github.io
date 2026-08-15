@@ -1,0 +1,14 @@
+{
+  "id": "darkplaces-git",
+  "icon_name": "darkplaces",
+  "categories": [
+    "Game",
+    "ActionGame"
+  ],
+  "name": "Darkplaces",
+  "summary": "Play Quake with the Darkplaces engine",
+  "repo": "pkgforge-dev/DarkPlaces-AppImage",
+  "version": "r10781.d93f9c42-1@2026-08-01_1785586336",
+  "download_url": "https://github.com/pkgforge-dev/DarkPlaces-AppImage/releases/download/r10781.d93f9c42-1%402026-08-01_1785586336/Darkplaces-r10781.d93f9c42-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/darkplaces-git.png"
+}

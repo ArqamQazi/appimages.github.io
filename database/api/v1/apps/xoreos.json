@@ -1,0 +1,15 @@
+{
+  "id": "xoreos",
+  "name": "xoreos",
+  "summary": "\"A reimplementation of BioWare's Aurora engine\"",
+  "icon_name": "xoreos",
+  "categories": [
+    "Game",
+    "Action",
+    "Adventure"
+  ],
+  "repo": "pkgforge-dev/xoreos-AppImage",
+  "version": "89c99d2a9@2026-04-22_1776858149",
+  "download_url": "https://github.com/pkgforge-dev/xoreos-AppImage/releases/download/89c99d2a9%402026-04-22_1776858149/xoreos-89c99d2a9-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/xoreos.png"
+}

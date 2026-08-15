@@ -1,0 +1,14 @@
+{
+  "id": "brave-origin",
+  "name": "New Incognito Window",
+  "summary": "Access the Internet",
+  "icon_name": "brave-origin",
+  "categories": [
+    "Network",
+    "WebBrowser"
+  ],
+  "repo": "pkgforge-dev/Brave-Origin-AppImage",
+  "version": "1.93.134-1@2026-08-12_1786522814",
+  "download_url": "https://github.com/pkgforge-dev/Brave-Origin-AppImage/releases/download/1.93.134-1%402026-08-12_1786522814/Brave_Origin-1.93.134-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/brave-origin.png"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "wipeout-rewrite",
+  "name": "wipEout Rewrite",
+  "summary": "A re-implementation of the 1995 PSX game WipEout",
+  "icon_name": "wipeout",
+  "categories": [
+    "Game",
+    "Racing",
+    "Action"
+  ],
+  "repo": "pkgforge-dev/wipEout-Rewrite-AppImage",
+  "version": "399799d28@2026-08-01_1785585241",
+  "download_url": "https://github.com/pkgforge-dev/wipEout-Rewrite-AppImage/releases/download/399799d28%402026-08-01_1785585241/wipEout_Rewrite-399799d28-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/wipeout-rewrite.png"
+}

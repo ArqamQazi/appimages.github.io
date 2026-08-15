@@ -1,0 +1,15 @@
+{
+  "id": "openclaw",
+  "name": "OpenClaw",
+  "summary": "Reimplementation of Captain Claw (1997) platformer",
+  "icon_name": "openclaw",
+  "categories": [
+    "Game",
+    "Platform",
+    "Adventure"
+  ],
+  "repo": "pkgforge-dev/OpenClaw-AppImage",
+  "version": "5ee5740ca@2026-07-01_1782914771",
+  "download_url": "https://github.com/pkgforge-dev/OpenClaw-AppImage/releases/download/5ee5740ca%402026-07-01_1782914771/OpenClaw-5ee5740ca-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/openclaw.png"
+}

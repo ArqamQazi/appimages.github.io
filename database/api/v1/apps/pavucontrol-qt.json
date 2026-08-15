@@ -1,0 +1,17 @@
+{
+  "id": "pavucontrol-qt",
+  "icon_name": "multimedia-volume-control",
+  "categories": [
+    "Qt",
+    "AudioVideo",
+    "Audio",
+    "Settings",
+    "DesktopSettings"
+  ],
+  "name": "PulseAudio Volume Control",
+  "summary": "Adjust volume levels and select audio devices",
+  "repo": "pkgforge-dev/pavucontrol-qt-AppImage",
+  "version": "2.4.0-1@2026-08-01_1785586127",
+  "download_url": "https://github.com/pkgforge-dev/pavucontrol-qt-AppImage/releases/download/2.4.0-1%402026-08-01_1785586127/pavucontrol-qt-2.4.0-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/pavucontrol-qt.svg"
+}

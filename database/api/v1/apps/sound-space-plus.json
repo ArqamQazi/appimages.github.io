@@ -1,0 +1,13 @@
+{
+  "id": "sound-space-plus",
+  "name": "Sound Space Plus",
+  "summary": "Rhythm-based aim game",
+  "categories": [
+    "Game"
+  ],
+  "icon_name": "icon",
+  "repo": "pkgforge-dev/sound-space-plus-AppImage",
+  "version": "jun21-2026@2026-07-05_1783214518",
+  "download_url": "https://github.com/pkgforge-dev/sound-space-plus-AppImage/releases/download/jun21-2026%402026-07-05_1783214518/Sound_Space_Plus-jun21-2026-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/sound-space-plus.png"
+}

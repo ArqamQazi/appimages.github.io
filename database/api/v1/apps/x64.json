@@ -1,0 +1,14 @@
+{
+  "id": "x64",
+  "name": "VICE",
+  "summary": "Commodore 64 emulator",
+  "icon_name": "CBM_Logo",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/VICE-AppImage",
+  "version": "3.10-2@2026-08-01_1785585964",
+  "download_url": "https://github.com/pkgforge-dev/VICE-AppImage/releases/download/3.10-2%402026-08-01_1785585964/VICE-3.10-3-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/x64.svg"
+}

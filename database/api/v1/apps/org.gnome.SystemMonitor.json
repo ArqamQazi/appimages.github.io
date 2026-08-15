@@ -1,0 +1,16 @@
+{
+  "id": "org.gnome.SystemMonitor",
+  "name": "System Monitor",
+  "summary": "View current processes and monitor system state",
+  "icon_name": "org.gnome.SystemMonitor",
+  "categories": [
+    "GNOME",
+    "GTK",
+    "System",
+    "Monitor"
+  ],
+  "repo": "pkgforge-dev/Gnome-System-Monitor-AppImage",
+  "version": "50.0-1@2026-08-01_1785585744",
+  "download_url": "https://github.com/pkgforge-dev/Gnome-System-Monitor-AppImage/releases/download/50.0-1%402026-08-01_1785585744/System_Monitor-50.0-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.gnome.SystemMonitor.svg"
+}

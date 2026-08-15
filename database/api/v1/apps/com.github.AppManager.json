@@ -1,0 +1,15 @@
+{
+  "id": "com.github.AppManager",
+  "name": "AppManager",
+  "summary": "Install and uninstall AppImage applications via drag and drop",
+  "categories": [
+    "GNOME",
+    "GTK",
+    "Utility"
+  ],
+  "icon_name": "com.github.AppManager",
+  "repo": "kem-a/AppManager",
+  "version": "v3.7.3",
+  "download_url": "https://github.com/kem-a/AppManager/releases/download/v3.7.3/AppManager-3.7.3-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/com.github.AppManager.svg"
+}

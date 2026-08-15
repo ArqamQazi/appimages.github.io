@@ -1,0 +1,13 @@
+{
+  "id": "com.bilingify.readest",
+  "categories": [
+    "Office"
+  ],
+  "summary": "Your online library",
+  "icon_name": "readest",
+  "name": "Readest",
+  "repo": "pkgforge-dev/Readest-AppImage-Enhanced",
+  "version": "0.11.20-1@2026-08-04_1785883311",
+  "download_url": "https://github.com/pkgforge-dev/Readest-AppImage-Enhanced/releases/download/0.11.20-1%402026-08-04_1785883311/Readest-0.11.20-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/com.bilingify.readest.png"
+}

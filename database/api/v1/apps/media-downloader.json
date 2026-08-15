@@ -1,0 +1,14 @@
+{
+  "id": "media-downloader",
+  "categories": [
+    "AudioVideo",
+    "Recorder"
+  ],
+  "name": "Media Downloader",
+  "summary": "Downloads Online Media Files",
+  "icon_name": "media-downloader",
+  "repo": "pkgforge-dev/Media-Downloader-AppImage",
+  "version": "5.6.3-1@2026-08-01_1785585815",
+  "download_url": "https://github.com/pkgforge-dev/Media-Downloader-AppImage/releases/download/5.6.3-1%402026-08-01_1785585815/Media_Downloader-5.6.3-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/media-downloader.png"
+}

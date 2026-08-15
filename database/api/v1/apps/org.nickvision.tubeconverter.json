@@ -1,0 +1,14 @@
+{
+  "id": "org.nickvision.tubeconverter",
+  "name": "Parabolic",
+  "summary": "Download web video and audio",
+  "icon_name": "org.nickvision.tubeconverter",
+  "categories": [
+    "AudioVideo",
+    "Network"
+  ],
+  "repo": "pkgforge-dev/Parabolic-AppImage",
+  "version": "2026.5.0-1@2026-08-01_1785585826",
+  "download_url": "https://github.com/pkgforge-dev/Parabolic-AppImage/releases/download/2026.5.0-1%402026-08-01_1785585826/Parabolic-2026.5.0-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.nickvision.tubeconverter.svg"
+}

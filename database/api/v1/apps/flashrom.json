@@ -1,0 +1,13 @@
+{
+  "id": "flashrom",
+  "name": "flashrom",
+  "summary": "Dummy made by quick-sharun",
+  "categories": [
+    "Utility"
+  ],
+  "icon_name": "flashrom",
+  "repo": "pkgforge-dev/Flashrom-AppImage",
+  "version": "1.7.0-1@2026-08-01_1785585970",
+  "download_url": "https://github.com/pkgforge-dev/Flashrom-AppImage/releases/download/1.7.0-1%402026-08-01_1785585970/flashrom-1.7.0-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/flashrom.png"
+}

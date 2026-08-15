@@ -1,0 +1,16 @@
+{
+  "id": "freedink",
+  "name": "DFArc Mod Manager",
+  "summary": "Humorous top-down adventure & role-playing game",
+  "icon_name": "freedink",
+  "categories": [
+    "Game",
+    "AdventureGame",
+    "ActionGame",
+    "RolePlaying"
+  ],
+  "repo": "pkgforge-dev/GNU-FreeDink-AppImage",
+  "version": "109.6-2@2026-08-01_1785586150",
+  "download_url": "https://github.com/pkgforge-dev/GNU-FreeDink-AppImage/releases/download/109.6-2%402026-08-01_1785586150/FreeDink-109.6-2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/freedink.svg"
+}

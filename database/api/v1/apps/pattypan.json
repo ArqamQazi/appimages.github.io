@@ -1,0 +1,13 @@
+{
+  "id": "pattypan",
+  "name": "Pattypan",
+  "summary": "Tool that simplifies Wikimedia Commons batch file uploading",
+  "icon_name": "pattypan",
+  "categories": [
+    "Utility"
+  ],
+  "repo": "pkgforge-dev/Pattypan-AppImage",
+  "version": "v26.02@2026-05-15_1778856962",
+  "download_url": "https://github.com/pkgforge-dev/Pattypan-AppImage/releases/download/v26.02%402026-05-15_1778856962/Pattypan-v26.02-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/pattypan.png"
+}

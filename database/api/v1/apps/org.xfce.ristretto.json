@@ -1,0 +1,15 @@
+{
+  "id": "org.xfce.ristretto",
+  "name": "Ristretto Image Viewer",
+  "summary": "Look at your images easily",
+  "icon_name": "org.xfce.ristretto",
+  "categories": [
+    "GTK",
+    "Graphics",
+    "Viewer"
+  ],
+  "repo": "pkgforge-dev/Ristretto-AppImage",
+  "version": "0.14.0-1@2026-08-01_1785585604",
+  "download_url": "https://github.com/pkgforge-dev/Ristretto-AppImage/releases/download/0.14.0-1%402026-08-01_1785585604/Ristretto-0.14.0-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.xfce.ristretto.png"
+}

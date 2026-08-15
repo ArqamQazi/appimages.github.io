@@ -1,0 +1,16 @@
+{
+  "id": "com.github.ryonakano.reco",
+  "name": "Reco",
+  "summary": "Focus on recording",
+  "categories": [
+    "Audio",
+    "AudioVideo",
+    "Utility",
+    "Recorder"
+  ],
+  "icon_name": "com.github.ryonakano.reco",
+  "repo": "pkgforge-dev/Reco-AppImage",
+  "version": "5.2.1-1@2026-08-01_1785586182",
+  "download_url": "https://github.com/pkgforge-dev/Reco-AppImage/releases/download/5.2.1-1%402026-08-01_1785586182/Reco-5.2.1-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/com.github.ryonakano.reco.svg"
+}

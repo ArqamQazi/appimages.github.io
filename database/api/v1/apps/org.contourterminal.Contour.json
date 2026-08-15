@@ -1,0 +1,15 @@
+{
+  "id": "org.contourterminal.Contour",
+  "icon_name": "org.contourterminal.Contour",
+  "categories": [
+    "Qt",
+    "System",
+    "TerminalEmulator"
+  ],
+  "name": "Open a New Window",
+  "summary": "Command line access",
+  "repo": "pkgforge-dev/contour-AppImage",
+  "version": "0.6.3.8249-2@2026-07-22_1784722450",
+  "download_url": "https://github.com/pkgforge-dev/contour-AppImage/releases/download/0.6.3.8249-2%402026-07-22_1784722450/Contour-0.6.3.8249-2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.contourterminal.Contour.png"
+}

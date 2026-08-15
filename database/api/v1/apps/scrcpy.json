@@ -1,0 +1,14 @@
+{
+  "id": "scrcpy",
+  "name": "scrcpy",
+  "summary": "Display and control your Android device",
+  "icon_name": "scrcpy",
+  "categories": [
+    "Utility",
+    "RemoteAccess"
+  ],
+  "repo": "pkgforge-dev/scrcpy-AppImage",
+  "version": "v4.1@2026-08-01_1785586335",
+  "download_url": "https://github.com/pkgforge-dev/scrcpy-AppImage/releases/download/v4.1%402026-08-01_1785586335/scrcpy-v4.1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/scrcpy.png"
+}

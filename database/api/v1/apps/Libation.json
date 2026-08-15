@@ -1,0 +1,14 @@
+{
+  "id": "Libation",
+  "name": "Libation",
+  "icon_name": "libation",
+  "summary": "Liberate your Audiobooks",
+  "categories": [
+    "Audio",
+    "AudioVideo"
+  ],
+  "repo": "pkgforge-dev/Libation-AppImage",
+  "version": "13.7.0-1@2026-08-01_1785585843",
+  "download_url": "https://github.com/pkgforge-dev/Libation-AppImage/releases/download/13.7.0-1%402026-08-01_1785585843/Libation-13.7.0-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/Libation.svg"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "SnowboardKids2Recompiled",
+  "name": "Snowboard Kids 2 Recompiled",
+  "icon_name": "512",
+  "categories": [
+    "Game"
+  ],
+  "repo": "pkgforge-dev/SnowboardKids2Recomp-AppImage",
+  "version": "2.0.0%2Balpha1@2026-08-01_1785586160",
+  "download_url": "https://github.com/pkgforge-dev/SnowboardKids2Recomp-AppImage/releases/download/2.0.0%252Balpha1%402026-08-01_1785586160/Snowboard_Kids_2_Recompiled-2.0.0.2Balpha1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/SnowboardKids2Recompiled.png"
+}

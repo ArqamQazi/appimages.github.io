@@ -1,0 +1,15 @@
+{
+  "id": "REDRIVER2",
+  "name": "REDRIVER2",
+  "summary": "Driver 2 Playstation game reverse engineering effort",
+  "icon_name": "REDRIVER2",
+  "categories": [
+    "Game",
+    "Action",
+    "Racing"
+  ],
+  "repo": "pkgforge-dev/REDRIVER2-AppImage",
+  "version": "b2d885742@2026-08-01_1785585908",
+  "download_url": "https://github.com/pkgforge-dev/REDRIVER2-AppImage/releases/download/b2d885742%402026-08-01_1785585908/REDRIVER2-b2d885742-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/REDRIVER2.png"
+}

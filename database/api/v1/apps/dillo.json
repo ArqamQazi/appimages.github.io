@@ -1,0 +1,14 @@
+{
+  "id": "dillo",
+  "name": "Dillo",
+  "summary": "Fast and small graphical web browser",
+  "icon_name": "dillo",
+  "categories": [
+    "Network",
+    "WebBrowser"
+  ],
+  "repo": "pkgforge-dev/Dillo-AppImage",
+  "version": "3.3.0-1@2026-08-12_1786523166",
+  "download_url": "https://github.com/pkgforge-dev/Dillo-AppImage/releases/download/3.3.0-1%402026-08-12_1786523166/Dillo-3.3.0-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/dillo.png"
+}

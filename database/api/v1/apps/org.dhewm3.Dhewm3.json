@@ -1,0 +1,14 @@
+{
+  "id": "org.dhewm3.Dhewm3",
+  "summary": "dhewm 3 is a Doom 3 GPL source port",
+  "categories": [
+    "Game",
+    "Shooter"
+  ],
+  "icon_name": "org.dhewm3.Dhewm3",
+  "name": "Dhewm3",
+  "repo": "pkgforge-dev/dhewm3-AppImage",
+  "version": "1.5.5.r0.g455b88e-1@2026-08-01_1785586274",
+  "download_url": "https://github.com/pkgforge-dev/dhewm3-AppImage/releases/download/1.5.5.r0.g455b88e-1%402026-08-01_1785586274/Dhewm3-1.5.5.r0.g455b88e-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.dhewm3.Dhewm3.svg"
+}

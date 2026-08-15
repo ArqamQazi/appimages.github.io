@@ -1,0 +1,18 @@
+{
+  "id": "com.github.themix_project.Oomox",
+  "name": "Themix/Oomox theme designer",
+  "summary": "GUI for generating different color variations of Arc, Materia, Oomox themes (GTK2, GTK3, Cinnamon, GNOME, MATE, Openbox, Xfwm), ArchDroid, Gnome-Colors, Numix, Papirus, Suru++ icons, and terminal palettes. Have a hack for HiDPI in GTK2.",
+  "icon_name": "com.github.themix_project.Oomox",
+  "categories": [
+    "GNOME",
+    "GTK",
+    "Settings",
+    "DesktopSettings",
+    "X-XFCE-SettingsDialog",
+    "X-XFCE-PersonalSettings"
+  ],
+  "repo": "pkgforge-dev/Themix-GUI-AppImage",
+  "version": "1.15.1.r309.gc5745b40-1@2026-08-01_1785586361",
+  "download_url": "https://github.com/pkgforge-dev/Themix-GUI-AppImage/releases/download/1.15.1.r309.gc5745b40-1%402026-08-01_1785586361/Themix-1.15.1.r309.gc5745b40-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/com.github.themix_project.Oomox.svg"
+}

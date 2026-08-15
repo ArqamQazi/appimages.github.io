@@ -1,0 +1,14 @@
+{
+  "id": "supertux2",
+  "name": "SuperTux 2",
+  "summary": "Play a classic 2D platform game",
+  "icon_name": "supertux2",
+  "categories": [
+    "Game",
+    "ArcadeGame"
+  ],
+  "repo": "pkgforge-dev/SuperTux-AppImage-Enhanced",
+  "version": "0.7.0-1@2026-07-01_1782913233",
+  "download_url": "https://github.com/pkgforge-dev/SuperTux-AppImage-Enhanced/releases/download/0.7.0-1%402026-07-01_1782913233/SuperTux_2-0.7.0-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/supertux2.svg"
+}

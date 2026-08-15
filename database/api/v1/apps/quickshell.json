@@ -1,0 +1,13 @@
+{
+  "id": "quickshell",
+  "name": "quickshell",
+  "summary": "Dummy made by quick-sharun",
+  "categories": [
+    "Utility"
+  ],
+  "icon_name": "quickshell",
+  "repo": "pkgforge-dev/Quickshell-AppImage",
+  "version": "0.3.0-2@2026-08-01_1785586204",
+  "download_url": "https://github.com/pkgforge-dev/Quickshell-AppImage/releases/download/0.3.0-2%402026-08-01_1785586204/quickshell-0.3.0-2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/quickshell.svg"
+}

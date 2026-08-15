@@ -1,0 +1,17 @@
+{
+  "id": "org.kde.ktorrent",
+  "name": "KTorrent",
+  "icon_name": "ktorrent",
+  "summary": "A BitTorrent program by KDE",
+  "categories": [
+    "Qt",
+    "KDE",
+    "Network",
+    "FileTransfer",
+    "P2P"
+  ],
+  "repo": "pkgforge-dev/KTorrent-AppImage",
+  "version": "26.04.3-1@2026-08-01_1785586125",
+  "download_url": "https://github.com/pkgforge-dev/KTorrent-AppImage/releases/download/26.04.3-1%402026-08-01_1785586125/KTorrent-26.04.3-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.kde.ktorrent.png"
+}

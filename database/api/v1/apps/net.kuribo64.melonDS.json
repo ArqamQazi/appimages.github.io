@@ -1,0 +1,14 @@
+{
+  "id": "net.kuribo64.melonDS",
+  "name": "melonDS",
+  "summary": "A fast and accurate Nintendo DS emulator.",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "icon_name": "net.kuribo64.melonDS",
+  "repo": "pkgforge-dev/melonDS-AppImage-Enhanced",
+  "version": "1.1-2@2026-08-01_1785586317",
+  "download_url": "https://github.com/pkgforge-dev/melonDS-AppImage-Enhanced/releases/download/1.1-2%402026-08-01_1785586317/melonDS-1.1-2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/net.kuribo64.melonDS.png"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "org.kde.haruna",
+  "name": "Haruna",
+  "summary": "Open source media player built with Qt/QML and libmpv",
+  "icon_name": "haruna",
+  "categories": [
+    "Qt",
+    "KDE",
+    "AudioVideo",
+    "Player",
+    "Video",
+    "TV"
+  ],
+  "repo": "pkgforge-dev/Haruna-AppImage",
+  "version": "1.8.1-1@2026-08-01_1785586346",
+  "download_url": "https://github.com/pkgforge-dev/Haruna-AppImage/releases/download/1.8.1-1%402026-08-01_1785586346/Haruna-1.8.1-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.kde.haruna.png"
+}

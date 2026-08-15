@@ -1,0 +1,13 @@
+{
+  "id": "org.kartkrew.RingRacers",
+  "name": "Dr. Robotnik's Ring Racers",
+  "summary": "This is Racing at the Next Level",
+  "icon_name": "org.kartkrew.RingRacers",
+  "categories": [
+    "Game"
+  ],
+  "repo": "pkgforge-dev/Dr-Robotniks-Ring-Racers-AppImage",
+  "version": "2.4-2@2026-08-01_1785586245",
+  "download_url": "https://github.com/pkgforge-dev/Dr-Robotniks-Ring-Racers-AppImage/releases/download/2.4-2%402026-08-01_1785586245/Dr._Robotnik.s_Ring_Racers-2.4-2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.kartkrew.RingRacers.png"
+}

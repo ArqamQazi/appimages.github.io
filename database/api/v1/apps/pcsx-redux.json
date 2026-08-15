@@ -1,0 +1,13 @@
+{
+  "id": "pcsx-redux",
+  "name": "PCSX-Redux",
+  "icon_name": "pcsx-redux",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/PCSX-Redux-AppImage-Enhanced",
+  "version": "r7370.3e10093a-1@2026-08-01_1785584896",
+  "download_url": "https://github.com/pkgforge-dev/PCSX-Redux-AppImage-Enhanced/releases/download/r7370.3e10093a-1%402026-08-01_1785584896/PCSX-Redux-r7370.3e10093a-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/pcsx-redux.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "quantumlauncher",
+  "name": "Quantum Launcher",
+  "summary": "A simple, fast and powerful Minecraft launcher.",
+  "icon_name": "quantumlauncher",
+  "categories": [
+    "Game",
+    "Application"
+  ],
+  "repo": "pkgforge-dev/QuantumLauncher-AppImage-Enhanced",
+  "version": "0.5.1-2@2026-08-01_1785585029",
+  "download_url": "https://github.com/pkgforge-dev/QuantumLauncher-AppImage-Enhanced/releases/download/0.5.1-2%402026-08-01_1785585029/QuantumLauncher-0.5.1-2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/quantumlauncher.png"
+}

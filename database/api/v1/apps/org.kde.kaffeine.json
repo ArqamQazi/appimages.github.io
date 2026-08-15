@@ -1,0 +1,15 @@
+{
+  "id": "org.kde.kaffeine",
+  "name": "Kaffeine",
+  "categories": [
+    "Qt",
+    "KDE",
+    "AudioVideo",
+    "Player"
+  ],
+  "icon_name": "kaffeine",
+  "repo": "pkgforge-dev/kaffeine-AppImage",
+  "version": "2.0.19-4@2026-08-01_1785586249",
+  "download_url": "https://github.com/pkgforge-dev/kaffeine-AppImage/releases/download/2.0.19-4%402026-08-01_1785586249/Kaffeine-2.0.19-4-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.kde.kaffeine.svg"
+}

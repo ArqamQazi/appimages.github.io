@@ -1,0 +1,18 @@
+{
+  "id": "info.bibletime.BibleTime",
+  "summary": "An easy to use bible study tool",
+  "icon_name": "info.bibletime.BibleTime",
+  "name": "BibleTime 3.2.0-dirty",
+  "categories": [
+    "X-Bible",
+    "X-Religion",
+    "Literature",
+    "Education",
+    "Dictionary",
+    "Qt"
+  ],
+  "repo": "pkgforge-dev/BibleTime-AppImage",
+  "version": "3.2.0-3@2026-08-01_1785586188",
+  "download_url": "https://github.com/pkgforge-dev/BibleTime-AppImage/releases/download/3.2.0-3%402026-08-01_1785586188/BibleTime-3.2.0-3-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/info.bibletime.BibleTime.svg"
+}

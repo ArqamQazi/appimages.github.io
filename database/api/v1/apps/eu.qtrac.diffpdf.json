@@ -1,0 +1,14 @@
+{
+  "id": "eu.qtrac.diffpdf",
+  "icon_name": "diffpdf",
+  "name": "DiffPDF",
+  "summary": "DiffPDF is used to compare two PDF files.",
+  "categories": [
+    "Qt",
+    "Office"
+  ],
+  "repo": "pkgforge-dev/DiffPDF-AppImage",
+  "version": "2.1.3.1-5@2026-08-01_1785586013",
+  "download_url": "https://github.com/pkgforge-dev/DiffPDF-AppImage/releases/download/2.1.3.1-5%402026-08-01_1785586013/DiffPDF-2.1.3.1-5-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/eu.qtrac.diffpdf.png"
+}

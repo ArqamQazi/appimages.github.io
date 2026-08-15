@@ -1,0 +1,14 @@
+{
+  "id": "blender",
+  "name": "Blender",
+  "summary": "3D modeling, animation, rendering and post-production",
+  "icon_name": "blender",
+  "categories": [
+    "Graphics",
+    "3DGraphics"
+  ],
+  "repo": "pkgforge-dev/Blender-AppImage",
+  "version": "5.2.0-2@2026-08-01_1785586062",
+  "download_url": "https://github.com/pkgforge-dev/Blender-AppImage/releases/download/5.2.0-2%402026-08-01_1785586062/Blender-5.2.0-2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/blender.svg"
+}

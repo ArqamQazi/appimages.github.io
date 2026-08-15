@@ -1,0 +1,13 @@
+{
+  "id": "se.sjoerd.Graphs",
+  "name": "Style Editor",
+  "icon_name": "se.sjoerd.Graphs",
+  "categories": [
+    "Education",
+    "Science"
+  ],
+  "repo": "pkgforge-dev/Graphs-AppImage",
+  "version": "2.0.5-1@2026-08-14_1786735949",
+  "download_url": "https://github.com/pkgforge-dev/Graphs-AppImage/releases/download/2.0.5-1%402026-08-14_1786735949/Graphs-2.0.5-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/se.sjoerd.Graphs.svg"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Stirling-PDF",
+  "name": "Open PDF File",
+  "summary": "Locally hosted web application that allows you to perform various operations on PDF files",
+  "icon_name": "Stirling-PDF",
+  "categories": [
+    "Office",
+    "Graphics",
+    "Utility"
+  ],
+  "repo": "pkgforge-dev/Stirling-PDF-AppImage",
+  "version": "v2.14.2@2026-08-01_1785585687",
+  "download_url": "https://github.com/pkgforge-dev/Stirling-PDF-AppImage/releases/download/v2.14.2%402026-08-01_1785585687/Stirling-PDF-v2.14.2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/Stirling-PDF.png"
+}

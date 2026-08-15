@@ -1,0 +1,15 @@
+{
+  "id": "openxray",
+  "categories": [
+    "Game",
+    "Shooting",
+    "FPS"
+  ],
+  "icon_name": "openxray_soc",
+  "name": "OpenXRay",
+  "summary": "S.T.A.L.K.E.R.: Shadow of Chernobyl (Powered by OpenXRay)",
+  "repo": "pkgforge-dev/OpenXRay-AppImage",
+  "version": "29030f81b@2026-08-01_1785585584",
+  "download_url": "https://github.com/pkgforge-dev/OpenXRay-AppImage/releases/download/29030f81b%402026-08-01_1785585584/OpenXRay-29030f81b-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/openxray.png"
+}

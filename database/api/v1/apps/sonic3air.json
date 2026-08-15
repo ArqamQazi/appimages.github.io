@@ -1,0 +1,10 @@
+{
+  "id": "sonic3air",
+  "name": "Sonic 3 A.I.R.",
+  "summary": "A fan-made remaster of Sonic 3 & Knuckles",
+  "icon_name": "icon",
+  "repo": "pkgforge-dev/Sonic-3-AIR-AppImage",
+  "version": "v26.03.28.0@2026-08-01_1785585759",
+  "download_url": "https://github.com/pkgforge-dev/Sonic-3-AIR-AppImage/releases/download/v26.03.28.0%402026-08-01_1785585759/Sonic_3_A.I.R.-v26.03.28.0-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/sonic3air.png"
+}

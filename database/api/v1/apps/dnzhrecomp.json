@@ -1,0 +1,15 @@
+{
+  "id": "dnzhrecomp",
+  "name": "DNZH Recompiled",
+  "summary": "A native port of Duke Nukem Zero Hour, statically recompiled",
+  "icon_name": "512",
+  "categories": [
+    "Game",
+    "Action",
+    "Shooting"
+  ],
+  "repo": "pkgforge-dev/DNZHRecomp-AppImage",
+  "version": "0.0.3@2026-06-01_1780332196",
+  "download_url": "https://github.com/pkgforge-dev/DNZHRecomp-AppImage/releases/download/0.0.3%402026-06-01_1780332196/DNZH_Recompiled-0.0.3-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/dnzhrecomp.png"
+}

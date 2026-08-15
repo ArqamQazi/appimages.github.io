@@ -1,0 +1,13 @@
+{
+  "id": "unityhub",
+  "name": "Unity Hub",
+  "icon_name": "unityhub",
+  "summary": "The Official Unity Hub",
+  "categories": [
+    "Development"
+  ],
+  "repo": "pkgforge-dev/UnityHub-AppImage",
+  "version": "3.19.5-1@2026-08-01_1785586031",
+  "download_url": "https://github.com/pkgforge-dev/UnityHub-AppImage/releases/download/3.19.5-1%402026-08-01_1785586031/Unity_Hub-3.19.5-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/unityhub.png"
+}

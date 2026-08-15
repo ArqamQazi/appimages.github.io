@@ -1,0 +1,14 @@
+{
+  "id": "d2x-rebirth",
+  "name": "Descent 2",
+  "summary": "DXX-Rebirth source port of Descent 2: Counterstrike from 1996...",
+  "icon_name": "d2x-rebirth",
+  "categories": [
+    "Game",
+    "ActionGame"
+  ],
+  "repo": "pkgforge-dev/D2X-Rebirth-AppImage",
+  "version": "e1ff42e16@2026-08-01_1785584900",
+  "download_url": "https://github.com/pkgforge-dev/D2X-Rebirth-AppImage/releases/download/e1ff42e16%402026-08-01_1785584900/D2X-Rebirth-e1ff42e16-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/d2x-rebirth.svg"
+}

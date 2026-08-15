@@ -1,0 +1,16 @@
+{
+  "id": "flacon",
+  "icon_name": "flacon",
+  "categories": [
+    "Qt",
+    "AudioVideo",
+    "Audio",
+    "AudioVideoEditing"
+  ],
+  "name": "Flacon",
+  "summary": "Extracts audio tracks from an audio CD image to separate tracks.",
+  "repo": "pkgforge-dev/Flacon-AppImage-Enhanced",
+  "version": "13.0.2-1@2026-08-01_1785586133",
+  "download_url": "https://github.com/pkgforge-dev/Flacon-AppImage-Enhanced/releases/download/13.0.2-1%402026-08-01_1785586133/Flacon-13.0.2-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/flacon.svg"
+}

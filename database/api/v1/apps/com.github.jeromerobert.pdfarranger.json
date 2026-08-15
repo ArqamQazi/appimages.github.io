@@ -1,0 +1,13 @@
+{
+  "id": "com.github.jeromerobert.pdfarranger",
+  "name": "New Window",
+  "summary": "Merge, shuffle, and crop PDFs",
+  "icon_name": "com.github.jeromerobert.pdfarranger",
+  "categories": [
+    "Office"
+  ],
+  "repo": "pkgforge-dev/PDF-Arranger-AppImage",
+  "version": "1.14.0-1@2026-08-01_1785579507",
+  "download_url": "https://github.com/pkgforge-dev/PDF-Arranger-AppImage/releases/download/1.14.0-1%402026-08-01_1785579507/PDF_Arranger-1.14.0-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/com.github.jeromerobert.pdfarranger.png"
+}

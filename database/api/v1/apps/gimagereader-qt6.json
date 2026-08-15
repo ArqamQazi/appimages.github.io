@@ -1,0 +1,14 @@
+{
+  "id": "gimagereader-qt6",
+  "name": "gImageReader",
+  "icon_name": "gimagereader",
+  "categories": [
+    "Graphics",
+    "OCR",
+    "Scanning"
+  ],
+  "repo": "pkgforge-dev/gImageReader-AppImage",
+  "version": "3.4.3-3@2026-08-01_1785585944",
+  "download_url": "https://github.com/pkgforge-dev/gImageReader-AppImage/releases/download/3.4.3-3%402026-08-01_1785585944/gImageReader-3.4.3-3-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/gimagereader-qt6.png"
+}

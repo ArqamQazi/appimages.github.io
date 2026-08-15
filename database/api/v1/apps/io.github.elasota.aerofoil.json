@@ -1,0 +1,13 @@
+{
+  "id": "io.github.elasota.aerofoil",
+  "categories": [
+    "Game"
+  ],
+  "summary": "A modern port of Glider PRO, the classic Macintosh paper airplane game",
+  "icon_name": "io.github.elasota.aerofoil",
+  "name": "Aerofoil",
+  "repo": "pkgforge-dev/Aerofoil-AppImage",
+  "version": "1.1.2.r83.geccf2cf-1@2026-08-01_1785585986",
+  "download_url": "https://github.com/pkgforge-dev/Aerofoil-AppImage/releases/download/1.1.2.r83.geccf2cf-1%402026-08-01_1785585986/Aerofoil-1.1.2.r83.geccf2cf-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/io.github.elasota.aerofoil.svg"
+}

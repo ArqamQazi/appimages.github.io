@@ -1,0 +1,14 @@
+{
+  "id": "lightzone",
+  "name": "LightZone",
+  "summary": "Post-processing software for digital photos",
+  "icon_name": "lightzone",
+  "categories": [
+    "Graphics",
+    "2DGraphics"
+  ],
+  "repo": "pkgforge-dev/LightZone-AppImage",
+  "version": "5.0.0beta3-1@2026-05-22_1779457497",
+  "download_url": "https://github.com/pkgforge-dev/LightZone-AppImage/releases/download/5.0.0beta3-1%402026-05-22_1779457497/LightZone-5.0.0beta3-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/lightzone.png"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "veracrypt",
+  "name": "VeraCrypt",
+  "summary": "Create and mount VeraCrypt encrypted volumes",
+  "icon_name": "veracrypt",
+  "categories": [
+    "Security",
+    "Utility",
+    "Filesystem"
+  ],
+  "repo": "pkgforge-dev/VeraCrypt-AppImage",
+  "version": "1.26.24-3@2026-08-01_1785585939",
+  "download_url": "https://github.com/pkgforge-dev/VeraCrypt-AppImage/releases/download/1.26.24-3%402026-08-01_1785585939/VeraCrypt-1.26.24-3-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/veracrypt.png"
+}

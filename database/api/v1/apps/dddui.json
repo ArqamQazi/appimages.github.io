@@ -1,0 +1,12 @@
+{
+  "id": "dddui",
+  "name": "dddui",
+  "summary": "Dummy made by quick-sharun",
+  "categories": [
+    "Utility"
+  ],
+  "icon_name": "dddui",
+  "repo": "pkgforge-dev/tachoparser-AppImage",
+  "version": "749b030-1@2026-08-01_1785586206",
+  "download_url": "https://github.com/pkgforge-dev/tachoparser-AppImage/releases/download/749b030-1%402026-08-01_1785586206/tachoparser-749b030-1-anylinux-x86_64.AppImage"
+}

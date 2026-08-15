@@ -1,0 +1,17 @@
+{
+  "id": "net.odamex.Odamex.Launcher",
+  "name": "Odalaunch",
+  "summary": "A server browser to find and play DOOM games online!",
+  "categories": [
+    "Amusement",
+    "Game",
+    "ActionGame",
+    "AdventureGame",
+    "ArcadeGame"
+  ],
+  "icon_name": "net.odamex.Odamex.Launcher",
+  "repo": "pkgforge-dev/Odamex-AppImage",
+  "version": "12.2.1-1@2026-08-01_1785586370",
+  "download_url": "https://github.com/pkgforge-dev/Odamex-AppImage/releases/download/12.2.1-1%402026-08-01_1785586370/Odamex-12.2.1-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/net.odamex.Odamex.Launcher.png"
+}

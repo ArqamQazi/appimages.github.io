@@ -1,0 +1,13 @@
+{
+  "id": "io.github.giantpinkrobots.varia",
+  "name": "Varia",
+  "summary": "Download files, videos and torrents",
+  "icon_name": "io.github.giantpinkrobots.varia",
+  "categories": [
+    "Network"
+  ],
+  "repo": "pkgforge-dev/Varia-AppImage",
+  "version": "2026.8.5-1@2026-08-14_1786735996",
+  "download_url": "https://github.com/pkgforge-dev/Varia-AppImage/releases/download/2026.8.5-1%402026-08-14_1786735996/Varia-2026.8.5-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/io.github.giantpinkrobots.varia.svg"
+}

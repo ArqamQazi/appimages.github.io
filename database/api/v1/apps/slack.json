@@ -1,0 +1,16 @@
+{
+  "id": "slack",
+  "name": "Slack",
+  "summary": "Slack Desktop",
+  "icon_name": "slack",
+  "categories": [
+    "GNOME",
+    "GTK",
+    "Network",
+    "InstantMessaging"
+  ],
+  "repo": "pkgforge-dev/Slack-AppImage",
+  "version": "4.51.180-1@2026-08-01_1785585281",
+  "download_url": "https://github.com/pkgforge-dev/Slack-AppImage/releases/download/4.51.180-1%402026-08-01_1785585281/Slack-4.51.180-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/slack.png"
+}

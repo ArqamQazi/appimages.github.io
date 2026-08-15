@@ -1,0 +1,17 @@
+{
+  "id": "com.github.neithern.g4music",
+  "name": "Gapless",
+  "summary": "Play your music elegantly",
+  "icon_name": "com.github.neithern.g4music",
+  "categories": [
+    "GNOME",
+    "GTK",
+    "Music",
+    "Audio",
+    "AudioVideo"
+  ],
+  "repo": "pkgforge-dev/Gapless-AppImage",
+  "version": "4.6.2-1@2026-08-01_1785586036",
+  "download_url": "https://github.com/pkgforge-dev/Gapless-AppImage/releases/download/4.6.2-1%402026-08-01_1785586036/Gapless-4.6.2-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/com.github.neithern.g4music.svg"
+}

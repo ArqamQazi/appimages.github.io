@@ -1,0 +1,13 @@
+{
+  "id": "dreamm",
+  "name": "DREAMM",
+  "icon_name": "dreamm",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/DREAMM-AppImage",
+  "version": "4.0@2026-07-01_1782913732",
+  "download_url": "https://github.com/pkgforge-dev/DREAMM-AppImage/releases/download/4.0%402026-07-01_1782913732/DREAMM-4.0-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/dreamm.png"
+}

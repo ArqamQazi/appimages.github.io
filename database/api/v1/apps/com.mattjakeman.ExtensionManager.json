@@ -1,0 +1,14 @@
+{
+  "id": "com.mattjakeman.ExtensionManager",
+  "name": "Extension Manager",
+  "icon_name": "com.mattjakeman.ExtensionManager",
+  "categories": [
+    "GTK",
+    "Utility"
+  ],
+  "summary": "Manage GNOME Shell Extensions",
+  "repo": "pkgforge-dev/Extension-Manager-AppImage",
+  "version": "0.6.5-1@2026-08-01_1785586247",
+  "download_url": "https://github.com/pkgforge-dev/Extension-Manager-AppImage/releases/download/0.6.5-1%402026-08-01_1785586247/Extension_Manager-0.6.5-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/com.mattjakeman.ExtensionManager.svg"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "uefitool",
+  "name": "UEFITool",
+  "summary": "UEFI firmware image viewer and editor",
+  "icon_name": "uefitool",
+  "categories": [
+    "Development",
+    "System",
+    "Utility",
+    "HardwareSettings",
+    "Electronics",
+    "Engineering"
+  ],
+  "repo": "pkgforge-dev/UEFITool-AppImage",
+  "version": "A74-1@2026-08-01_1785586126",
+  "download_url": "https://github.com/pkgforge-dev/UEFITool-AppImage/releases/download/A74-1%402026-08-01_1785586126/UEFITool-A74-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/uefitool.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "claude",
+  "name": "claude",
+  "summary": "Dummy made by quick-sharun",
+  "categories": [
+    "Utility"
+  ],
+  "icon_name": "claude",
+  "repo": "pkgforge-dev/claude-code-AppImage",
+  "version": "2.1.228@2026-08-12_1786522275",
+  "download_url": "https://github.com/pkgforge-dev/claude-code-AppImage/releases/download/2.1.228%402026-08-12_1786522275/claude-2.1.228-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/claude.png"
+}

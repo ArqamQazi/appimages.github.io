@@ -1,0 +1,14 @@
+{
+  "id": "org.kicad.kicad",
+  "icon_name": "kicad",
+  "categories": [
+    "Science",
+    "Electronics"
+  ],
+  "name": "KiCad",
+  "summary": "Suite of tools for schematic design and circuit board layout",
+  "repo": "pkgforge-dev/KiCad-AppImage",
+  "version": "10.0.5-1@2026-08-01_1785585890",
+  "download_url": "https://github.com/pkgforge-dev/KiCad-AppImage/releases/download/10.0.5-1%402026-08-01_1785585890/KiCad-10.0.5-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.kicad.kicad.png"
+}

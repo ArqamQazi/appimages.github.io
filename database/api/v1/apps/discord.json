@@ -1,0 +1,14 @@
+{
+  "id": "discord",
+  "name": "Discord",
+  "summary": "All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.",
+  "icon_name": "discord",
+  "categories": [
+    "Network",
+    "InstantMessaging"
+  ],
+  "repo": "pkgforge-dev/Discord-AppImage",
+  "version": "1.0.151-1@2026-08-01_1785586358",
+  "download_url": "https://github.com/pkgforge-dev/Discord-AppImage/releases/download/1.0.151-1%402026-08-01_1785586358/Discord-1.0.151-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/discord.png"
+}

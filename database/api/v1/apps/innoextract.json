@@ -1,0 +1,13 @@
+{
+  "id": "innoextract",
+  "name": "innoextract",
+  "icon_name": "icon_128",
+  "summary": "\"A tool to extract installers created by Inno Setup\"",
+  "categories": [
+    "System"
+  ],
+  "repo": "pkgforge-dev/innoextract-AppImage",
+  "version": "1.9-16@2026-08-01_1785586273",
+  "download_url": "https://github.com/pkgforge-dev/innoextract-AppImage/releases/download/1.9-16%402026-08-01_1785586273/innoextract-1.9-16-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/innoextract.png"
+}

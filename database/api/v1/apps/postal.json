@@ -1,0 +1,16 @@
+{
+  "id": "postal",
+  "name": "POSTAL",
+  "summary": "Postal quirky FPS shooter",
+  "icon_name": "postal",
+  "categories": [
+    "Application",
+    "Game",
+    "Shooting",
+    "Mature"
+  ],
+  "repo": "pkgforge-dev/POSTAL-AppImage",
+  "version": "adb5a30c1@2026-08-01_1785586003",
+  "download_url": "https://github.com/pkgforge-dev/POSTAL-AppImage/releases/download/adb5a30c1%402026-08-01_1785586003/POSTAL-adb5a30c1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/postal.png"
+}

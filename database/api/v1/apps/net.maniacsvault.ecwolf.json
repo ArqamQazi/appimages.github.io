@@ -1,0 +1,14 @@
+{
+  "id": "net.maniacsvault.ecwolf",
+  "name": "ECWolf",
+  "summary": "\"Advanced source port for Wolfenstein 3D engine games\"",
+  "icon_name": "ecwolf",
+  "categories": [
+    "Game",
+    "Shooter"
+  ],
+  "repo": "pkgforge-dev/ECWolf-AppImage",
+  "version": "1.4.2-1@2026-08-01_1785585703",
+  "download_url": "https://github.com/pkgforge-dev/ECWolf-AppImage/releases/download/1.4.2-1%402026-08-01_1785585703/ECWolf-1.4.2-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/net.maniacsvault.ecwolf.png"
+}

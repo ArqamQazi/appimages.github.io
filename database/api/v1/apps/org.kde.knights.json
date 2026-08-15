@@ -1,0 +1,15 @@
+{
+  "id": "org.kde.knights",
+  "name": "Knights",
+  "icon_name": "knights",
+  "categories": [
+    "Qt",
+    "KDE",
+    "Game",
+    "BoardGame"
+  ],
+  "repo": "pkgforge-dev/Knights-AppImage",
+  "version": "26.04.3-1@2026-08-01_1785586354",
+  "download_url": "https://github.com/pkgforge-dev/Knights-AppImage/releases/download/26.04.3-1%402026-08-01_1785586354/Knights-26.04.3-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.kde.knights.png"
+}

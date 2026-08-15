@@ -1,0 +1,14 @@
+{
+  "id": "Cemu",
+  "name": "Cemu",
+  "icon_name": "info.cemu.Cemu",
+  "summary": "Software to emulate Wii U games and applications on PC",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/Cemu-AppImage-Enhanced",
+  "version": "2.6-4@2026-02-01_1769935971",
+  "download_url": "https://github.com/pkgforge-dev/Cemu-AppImage-Enhanced/releases/download/2.6-4%402026-02-01_1769935971/Cemu-2.6-4-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/Cemu.png"
+}

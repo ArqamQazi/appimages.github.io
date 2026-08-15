@@ -1,0 +1,13 @@
+{
+  "id": "com.clownacy.clownmdemu",
+  "icon_name": "clownmdemu",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "name": "ClownMDEmu",
+  "repo": "pkgforge-dev/ClownMDEmu-AppImage-Enhanced",
+  "version": "1.6.11@2026-08-01_1785585554",
+  "download_url": "https://github.com/pkgforge-dev/ClownMDEmu-AppImage-Enhanced/releases/download/1.6.11%402026-08-01_1785585554/ClownMDEmu-1.6.11-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/com.clownacy.clownmdemu.svg"
+}

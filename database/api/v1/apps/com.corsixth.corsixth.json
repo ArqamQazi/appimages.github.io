@@ -1,0 +1,14 @@
+{
+  "id": "com.corsixth.corsixth",
+  "name": "CorsixTH",
+  "summary": "Open source clone of Theme Hospital",
+  "icon_name": "corsix-th",
+  "categories": [
+    "Game",
+    "Simulation"
+  ],
+  "repo": "pkgforge-dev/CorsixTH-AppImage-Enhanced",
+  "version": "v0.70.0@2026-08-05_1785918659",
+  "download_url": "https://github.com/pkgforge-dev/CorsixTH-AppImage-Enhanced/releases/download/v0.70.0%402026-08-05_1785918659/CorsixTH-v0.70.0-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/com.corsixth.corsixth.svg"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "webcord",
+  "name": "WebCord",
+  "summary": "A Discord made with the Electron API.",
+  "icon_name": "webcord",
+  "categories": [
+    "Network",
+    "InstantMessaging"
+  ],
+  "repo": "pkgforge-dev/WebCord-AppImage-Enhanced",
+  "version": "4.14.0@2026-08-01_1785586361",
+  "download_url": "https://github.com/pkgforge-dev/WebCord-AppImage-Enhanced/releases/download/4.14.0%402026-08-01_1785586361/WebCord-4.14.0-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/webcord.png"
+}

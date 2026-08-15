@@ -1,0 +1,15 @@
+{
+  "id": "org.scummvm.scummvm",
+  "name": "ScummVM",
+  "summary": "Interpreter for numerous adventure games and RPGs",
+  "icon_name": "org.scummvm.scummvm",
+  "categories": [
+    "Game",
+    "AdventureGame",
+    "RolePlaying"
+  ],
+  "repo": "pkgforge-dev/ScummVM-AppImage",
+  "version": "2026.3.0-1@2026-08-11_1786487672",
+  "download_url": "https://github.com/pkgforge-dev/ScummVM-AppImage/releases/download/2026.3.0-1%402026-08-11_1786487672/ScummVM-2026.3.0-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.scummvm.scummvm.svg"
+}

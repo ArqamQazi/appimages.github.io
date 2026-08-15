@@ -1,0 +1,13 @@
+{
+  "id": "simplex-simplex",
+  "name": "simplex",
+  "summary": "simplex",
+  "icon_name": "/opt/simplex/lib/simplex.png",
+  "categories": [
+    "Unknown"
+  ],
+  "repo": "pkgforge-dev/SimpleX-Chat-AppImage-Enhanced",
+  "version": "v7.0.0@2026-08-01_1785586192",
+  "download_url": "https://github.com/pkgforge-dev/SimpleX-Chat-AppImage-Enhanced/releases/download/v7.0.0%402026-08-01_1785586192/simplex-v7.0.0-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/simplex-simplex.png"
+}

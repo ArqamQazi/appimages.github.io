@@ -1,0 +1,14 @@
+{
+  "id": "tuxfootball",
+  "name": "Tux Football",
+  "summary": "A fun arcade-style 2D football game, very reminsicent of Sensible Soccer and Kick Off",
+  "icon_name": "tuxfootball",
+  "categories": [
+    "Game",
+    "ArcadeGame"
+  ],
+  "repo": "pkgforge-dev/Tux-Football-AppImage",
+  "version": "0.3.1-1@2026-07-01_1782914535",
+  "download_url": "https://github.com/pkgforge-dev/Tux-Football-AppImage/releases/download/0.3.1-1%402026-07-01_1782914535/Tux_Football-0.3.1-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/tuxfootball.png"
+}

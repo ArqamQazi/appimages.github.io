@@ -1,0 +1,14 @@
+{
+  "id": "vcmiclient",
+  "name": "VCMI Client",
+  "summary": "Open engine for Heroes of Might and Magic 3",
+  "icon_name": "vcmiclient",
+  "categories": [
+    "Game",
+    "StrategyGame"
+  ],
+  "repo": "pkgforge-dev/vcmi-AppImage",
+  "version": "1.7.4-1.1@2026-08-01_1785586072",
+  "download_url": "https://github.com/pkgforge-dev/vcmi-AppImage/releases/download/1.7.4-1.1%402026-08-01_1785586072/VCMI_Client-1.7.4-1.1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/vcmiclient.svg"
+}

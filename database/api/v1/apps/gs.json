@@ -1,0 +1,13 @@
+{
+  "id": "gs",
+  "name": "gs",
+  "summary": "Dummy made by quick-sharun",
+  "categories": [
+    "Utility"
+  ],
+  "icon_name": "gs",
+  "repo": "pkgforge-dev/Ghostscript-AppImage",
+  "version": "10.07.1-1@2026-08-01_1785585730",
+  "download_url": "https://github.com/pkgforge-dev/Ghostscript-AppImage/releases/download/10.07.1-1%402026-08-01_1785585730/gs-10.07.1-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/gs.png"
+}

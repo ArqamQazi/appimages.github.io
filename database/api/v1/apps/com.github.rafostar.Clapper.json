@@ -1,0 +1,18 @@
+{
+  "id": "com.github.rafostar.Clapper",
+  "name": "New Window",
+  "summary": "Play videos and music",
+  "categories": [
+    "GTK",
+    "GNOME",
+    "AudioVideo",
+    "Player",
+    "Video",
+    "TV"
+  ],
+  "icon_name": "com.github.rafostar.Clapper",
+  "repo": "pkgforge-dev/Clapper-AppImage",
+  "version": "0.10.0-1@2026-08-01_1785585185",
+  "download_url": "https://github.com/pkgforge-dev/Clapper-AppImage/releases/download/0.10.0-1%402026-08-01_1785585185/Clapper-0.10.0-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/com.github.rafostar.Clapper.svg"
+}

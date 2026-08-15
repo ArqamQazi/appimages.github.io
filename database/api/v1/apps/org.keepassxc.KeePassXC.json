@@ -1,0 +1,15 @@
+{
+  "id": "org.keepassxc.KeePassXC",
+  "name": "KeePassXC",
+  "summary": "Community-driven port of the Windows application \u201cKeePass Password Safe\u201d",
+  "icon_name": "keepassxc",
+  "categories": [
+    "Utility",
+    "Security",
+    "Qt"
+  ],
+  "repo": "pkgforge-dev/KeePassXC-AppImage-Enhanced",
+  "version": "2.7.12-3@2026-06-22_1782145042",
+  "download_url": "https://github.com/pkgforge-dev/KeePassXC-AppImage-Enhanced/releases/download/2.7.12-3%402026-06-22_1782145042/KeePassXC-2.7.12-3-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.keepassxc.KeePassXC.png"
+}

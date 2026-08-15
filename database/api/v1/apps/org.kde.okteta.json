@@ -1,0 +1,15 @@
+{
+  "id": "org.kde.okteta",
+  "name": "Okteta",
+  "icon_name": "okteta",
+  "categories": [
+    "Qt",
+    "KDE",
+    "Utility",
+    "X-KDE-Utilities-File"
+  ],
+  "repo": "pkgforge-dev/okteta-AppImage",
+  "version": "0.26.27-1@2026-08-01_1785586229",
+  "download_url": "https://github.com/pkgforge-dev/Okteta-AppImage/releases/download/0.26.27-1%402026-08-01_1785586229/Okteta-0.26.27-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.kde.okteta.png"
+}

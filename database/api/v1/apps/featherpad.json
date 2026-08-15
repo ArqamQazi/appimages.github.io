@@ -1,0 +1,15 @@
+{
+  "id": "featherpad",
+  "name": "Standalone Window",
+  "summary": "Lightweight Qt text editor",
+  "icon_name": "featherpad",
+  "categories": [
+    "Qt",
+    "Utility",
+    "TextEditor"
+  ],
+  "repo": "pkgforge-dev/FeatherPad-AppImage",
+  "version": "1.6.3-1@2026-08-01_1785586258",
+  "download_url": "https://github.com/pkgforge-dev/FeatherPad-AppImage/releases/download/1.6.3-1%402026-08-01_1785586258/FeatherPad-1.6.3-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/featherpad.svg"
+}

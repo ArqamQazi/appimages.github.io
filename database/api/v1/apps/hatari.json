@@ -1,0 +1,14 @@
+{
+  "id": "hatari",
+  "name": "Hatari",
+  "summary": "Emulator for Atari ST/STE/TT/Falcon computers",
+  "icon_name": "hatari",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/Hatari-AppImage",
+  "version": "2.6.1-1@2026-08-01_1785579999",
+  "download_url": "https://github.com/pkgforge-dev/Hatari-AppImage/releases/download/2.6.1-1%402026-08-01_1785579999/Hatari-2.6.1-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/hatari.svg"
+}

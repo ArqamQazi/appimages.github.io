@@ -1,0 +1,14 @@
+{
+  "id": "xsnow",
+  "name": "Start without menu",
+  "summary": "Snow, Santa and birds on your desktop",
+  "icon_name": "xsnow",
+  "categories": [
+    "Game",
+    "Simulation"
+  ],
+  "repo": "pkgforge-dev/Xsnow-AppImage",
+  "version": "3.9.0-1@2026-08-01_1785586136",
+  "download_url": "https://github.com/pkgforge-dev/Xsnow-AppImage/releases/download/3.9.0-1%402026-08-01_1785586136/xsnow-3.9.0-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/xsnow.svg"
+}

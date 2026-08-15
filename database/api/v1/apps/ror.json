@@ -1,0 +1,15 @@
+{
+  "id": "ror",
+  "name": "RoR",
+  "summary": "\"Open-source, soft-body physics sandbox\"",
+  "icon_name": "rorlogo",
+  "categories": [
+    "Game",
+    "Racing",
+    "Sandbox"
+  ],
+  "repo": "pkgforge-dev/Rigs-of-Rods-AppImage",
+  "version": "2026.01@2026-08-01_1785586226",
+  "download_url": "https://github.com/pkgforge-dev/Rigs-of-Rods-AppImage/releases/download/2026.01%402026-08-01_1785586226/RoR-2026.01-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/ror.png"
+}

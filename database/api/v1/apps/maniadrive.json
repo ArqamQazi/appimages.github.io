@@ -1,0 +1,14 @@
+{
+  "id": "maniadrive",
+  "name": "ManiaDrive",
+  "summary": "Car game with physics",
+  "icon_name": "maniadrive",
+  "categories": [
+    "Game",
+    "Racing"
+  ],
+  "repo": "pkgforge-dev/ManiaDrive-AppImage",
+  "version": "1.3custom@2026-07-01_1782914571",
+  "download_url": "https://github.com/pkgforge-dev/ManiaDrive-AppImage/releases/download/1.3custom%402026-07-01_1782914571/ManiaDrive-1.3custom-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/maniadrive.png"
+}

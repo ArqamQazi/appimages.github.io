@@ -1,0 +1,13 @@
+{
+  "id": "bmherorecomp",
+  "name": "Bomberman Hero Recompiled",
+  "icon_name": "app",
+  "categories": [
+    "Game"
+  ],
+  "summary": "Static recompilation of Bomberman Hero for PC.",
+  "repo": "pkgforge-dev/BMHeroRecomp-AppImage-Enhanced",
+  "version": "0.7.1@2026-08-01_1785584844",
+  "download_url": "https://github.com/pkgforge-dev/BMHeroRecomp-AppImage-Enhanced/releases/download/0.7.1%402026-08-01_1785584844/Bomberman_Hero_Recompiled-0.7.1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/bmherorecomp.png"
+}

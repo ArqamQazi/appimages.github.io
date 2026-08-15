@@ -1,0 +1,14 @@
+{
+  "id": "iris-emu",
+  "name": "Iris",
+  "summary": "Experimental PlayStation 2 Emulator",
+  "icon_name": "iris-emu",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/Iris-AppImage-Enhanced",
+  "version": "0.20a-1@2026-08-01_1785585776",
+  "download_url": "https://github.com/pkgforge-dev/Iris-AppImage-Enhanced/releases/download/0.20a-1%402026-08-01_1785585776/Iris-0.20a-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/iris-emu.png"
+}

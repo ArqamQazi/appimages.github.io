@@ -1,0 +1,16 @@
+{
+  "id": "gimp",
+  "name": "GNU Image Manipulation Program",
+  "summary": "Create images and edit photographs",
+  "icon_name": "gimp",
+  "categories": [
+    "Graphics",
+    "2DGraphics",
+    "RasterGraphics",
+    "GTK"
+  ],
+  "repo": "pkgforge-dev/GIMP-and-PhotoGIMP-AppImage",
+  "version": "3.2.4-2@2026-08-01_1785584913",
+  "download_url": "https://github.com/pkgforge-dev/GIMP-and-PhotoGIMP-AppImage/releases/download/3.2.4-2%402026-08-01_1785584913/GIMP-3.2.4-2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/gimp.png"
+}

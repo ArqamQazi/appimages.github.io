@@ -1,0 +1,15 @@
+{
+  "id": "sanicball",
+  "name": "Sanicball",
+  "summary": "An extraordinarily fast racing game",
+  "icon_name": "sanicball",
+  "categories": [
+    "Game",
+    "Racing",
+    "Simulation"
+  ],
+  "repo": "pkgforge-dev/Sanicball-AppImage",
+  "version": "0.8.2@2026-07-01_1782914519",
+  "download_url": "https://github.com/pkgforge-dev/Sanicball-AppImage/releases/download/0.8.2%402026-07-01_1782914519/Sanicball-0.8.2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/sanicball.png"
+}

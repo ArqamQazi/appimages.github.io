@@ -1,0 +1,14 @@
+{
+  "id": "CatacombGL",
+  "name": "CatacombGL",
+  "summary": "\"A source port with OpenGL graphics for Catacomb 3D (1991), The Catacomb Abyss (1992), The Catacomb Armageddon (1992) and The Catacomb Apocalypse (1993)\"",
+  "icon_name": "CatacombGL",
+  "categories": [
+    "Game",
+    "ActionGame"
+  ],
+  "repo": "pkgforge-dev/CatacombGL-AppImage",
+  "version": "0.5.7-beta@2026-08-01_1785586278",
+  "download_url": "https://github.com/pkgforge-dev/CatacombGL-AppImage/releases/download/0.5.7-beta%402026-08-01_1785586278/CatacombGL-0.5.7-beta-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/CatacombGL.png"
+}

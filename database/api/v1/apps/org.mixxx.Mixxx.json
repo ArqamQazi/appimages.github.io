@@ -1,0 +1,20 @@
+{
+  "id": "org.mixxx.Mixxx",
+  "name": "Mixxx",
+  "summary": "Play music files and perform live DJ mixes with tempo sync, looping and effects.",
+  "icon_name": "mixxx",
+  "categories": [
+    "Qt",
+    "AudioVideo",
+    "Audio",
+    "Midi",
+    "Mixer",
+    "Player",
+    "Recorder",
+    "Sequencer"
+  ],
+  "repo": "pkgforge-dev/Mixxx-AppImage",
+  "version": "2.5.6-4@2026-08-01_1785586175",
+  "download_url": "https://github.com/pkgforge-dev/Mixxx-AppImage/releases/download/2.5.6-4%402026-08-01_1785586175/Mixxx-2.5.6-4-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.mixxx.Mixxx.svg"
+}

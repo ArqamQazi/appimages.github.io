@@ -1,0 +1,15 @@
+{
+  "id": "soh",
+  "name": "Ship of Harkinian",
+  "summary": "An unofficial port of The Legend of Zelda: Ocarina of Time",
+  "icon_name": "soh",
+  "categories": [
+    "Game",
+    "Retro",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/soh-AppImage-Enhanced",
+  "version": "9.2.3-1@2026-08-01_1785586212",
+  "download_url": "https://github.com/pkgforge-dev/soh-AppImage-Enhanced/releases/download/9.2.3-1%402026-08-01_1785586212/Ship_of_Harkinian-9.2.3-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/soh.png"
+}

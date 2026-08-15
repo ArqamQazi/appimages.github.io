@@ -1,0 +1,15 @@
+{
+  "id": "mate-calc",
+  "name": "MATE Calculator",
+  "summary": "Perform arithmetic, scientific or financial calculations",
+  "icon_name": "accessories-calculator",
+  "categories": [
+    "GTK",
+    "Utility",
+    "Calculator"
+  ],
+  "repo": "pkgforge-dev/MATE-Calculator-AppImage",
+  "version": "1.28.0-3@2026-07-14_1784071660",
+  "download_url": "https://github.com/pkgforge-dev/MATE-Calculator-AppImage/releases/download/1.28.0-3%402026-07-14_1784071660/MATE_Calculator-1.28.0-3-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/mate-calc.png"
+}

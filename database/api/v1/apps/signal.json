@@ -1,0 +1,14 @@
+{
+  "id": "signal",
+  "name": "Signal",
+  "summary": "Signal - Private Messenger",
+  "icon_name": "signal-desktop",
+  "categories": [
+    "Network",
+    "InstantMessaging"
+  ],
+  "repo": "pkgforge-dev/Signal-AppImage-Enhanced",
+  "version": "8.21.0-1@2026-08-01_1785586145",
+  "download_url": "https://github.com/pkgforge-dev/Signal-AppImage-Enhanced/releases/download/8.21.0-1%402026-08-01_1785586145/Signal-8.21.0-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/signal.png"
+}

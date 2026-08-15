@@ -1,0 +1,13 @@
+{
+  "id": "touchHLE",
+  "name": "touchHLE",
+  "icon_name": "icon",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/TouchHLE-AppImage",
+  "version": "v0.2.3@2026-08-01_1785585847",
+  "download_url": "https://github.com/pkgforge-dev/TouchHLE-AppImage/releases/download/v0.2.3%402026-08-01_1785585847/touchHLE-v0.2.3-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/touchHLE.png"
+}

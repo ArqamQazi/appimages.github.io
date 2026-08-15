@@ -1,0 +1,12 @@
+{
+  "id": "daggerfall",
+  "name": "Daggerfall",
+  "icon_name": "/opt/daggerfall-unity/engine/DaggerfallUnity_Data/Resources/UnityPlayer.png",
+  "categories": [
+    "Game"
+  ],
+  "repo": "pkgforge-dev/Daggerfall-Unity-AppImage",
+  "version": "1.1.1-1@2026-08-01_1785586235",
+  "download_url": "https://github.com/pkgforge-dev/Daggerfall-Unity-AppImage/releases/download/1.1.1-1%402026-08-01_1785586235/Daggerfall-1.1.1-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/daggerfall.png"
+}

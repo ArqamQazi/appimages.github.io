@@ -1,0 +1,14 @@
+{
+  "id": "mednafen",
+  "icon_name": "mednafen",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "name": "Mednafen Emulator",
+  "summary": "A multi-system Emulator",
+  "repo": "pkgforge-dev/mednafen-appimage",
+  "version": "1.32.1@2026-08-09_1786298295",
+  "download_url": "https://github.com/pkgforge-dev/mednafen-appimage/releases/download/1.32.1%402026-08-09_1786298295/Mednafen_Emulator-1.32.1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/mednafen.png"
+}

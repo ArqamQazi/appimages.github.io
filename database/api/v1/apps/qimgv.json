@@ -1,0 +1,15 @@
+{
+  "id": "qimgv",
+  "name": "qimgv",
+  "summary": "Qt image viewer",
+  "icon_name": "qimgv",
+  "categories": [
+    "Qt",
+    "Graphics",
+    "Viewer"
+  ],
+  "repo": "pkgforge-dev/Qimgv-AppImage",
+  "version": "v1.0.2@2026-08-07_1786090869",
+  "download_url": "https://github.com/pkgforge-dev/Qimgv-AppImage/releases/download/v1.0.2%402026-08-07_1786090869/qimgv-v1.0.2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/qimgv.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "spek",
+  "name": "Spek",
+  "summary": "View spectrograms of your audio files",
+  "icon_name": "spek",
+  "categories": [
+    "AudioVideo",
+    "Audio"
+  ],
+  "repo": "pkgforge-dev/Spek-AppImage",
+  "version": "0.8.5-3@2026-08-01_1785585891",
+  "download_url": "https://github.com/pkgforge-dev/Spek-AppImage/releases/download/0.8.5-3%402026-08-01_1785585891/Spek-0.8.5-3-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/spek.svg"
+}

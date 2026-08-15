@@ -1,0 +1,14 @@
+{
+  "id": "zelda64recomp",
+  "name": "Zelda 64 Recompiled",
+  "summary": "A native port of the N64 Legend of Zelda games, statically recompiled",
+  "icon_name": "512",
+  "categories": [
+    "Game",
+    "Adventure"
+  ],
+  "repo": "pkgforge-dev/Zelda64Recomp-AppImage",
+  "version": "1.2.2@2026-08-01_1785585982",
+  "download_url": "https://github.com/pkgforge-dev/Zelda64Recomp-AppImage/releases/download/1.2.2%402026-08-01_1785585982/Zelda_64_Recompiled-1.2.2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/zelda64recomp.png"
+}

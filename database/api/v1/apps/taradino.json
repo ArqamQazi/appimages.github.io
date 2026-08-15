@@ -1,0 +1,14 @@
+{
+  "id": "taradino",
+  "name": "Taradino",
+  "summary": "SDL2 port of Rise of the Triad",
+  "icon_name": "taradino",
+  "categories": [
+    "Game",
+    "ActionGame"
+  ],
+  "repo": "pkgforge-dev/Taradino-AppImage",
+  "version": "2b4ea3c6c@2026-08-01_1785585967",
+  "download_url": "https://github.com/pkgforge-dev/Taradino-AppImage/releases/download/2b4ea3c6c%402026-08-01_1785585967/Taradino-2b4ea3c6c-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/taradino.svg"
+}

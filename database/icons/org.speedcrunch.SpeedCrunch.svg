@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 512 512"
+     width="512"
+     height="512">
+
+  <defs>
+    <!-- subtle modern background -->
+    <radialGradient id="bgGlow" cx="35%" cy="28%" r="85%">
+      <stop offset="0%" stop-color="#8fc4e8"/>
+      <stop offset="55%" stop-color="#67aad8"/>
+      <stop offset="100%" stop-color="#4f95c6"/>
+    </radialGradient>
+
+    <!-- soft top-left sheen -->
+    <linearGradient id="bgSheen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.14"/>
+      <stop offset="35%" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- subtle inner ring -->
+    <linearGradient id="innerRing" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.08"/>
+    </linearGradient>
+  </defs>
+
+  <!-- base background -->
+  <rect x="32" y="32" width="448" height="448" rx="110" fill="url(#bgGlow)"/>
+
+  <!-- subtle sheen overlay -->
+  <rect x="32" y="32" width="448" height="448" rx="110" fill="url(#bgSheen)"/>
+
+  <!-- hairline inner ring -->
+  <rect x="40" y="40" width="432" height="432" rx="102"
+        fill="none"
+        stroke="url(#innerRing)"
+        stroke-width="2"/>
+
+  <!-- Row 1 -->
+  <path fill="#ffffff"
+        d="M144 80
+           A16 16 0 0 1 160 64
+           H208
+           V128
+           H144
+           Z"/>
+
+  <rect x="224" y="64" width="64" height="64" fill="#ffffff"/>
+
+  <path fill="#ffffff"
+        d="M304 64
+           H352
+           A16 16 0 0 1 368 80
+           V128
+           H304
+           Z"/>
+
+  <!-- Row 2 -->
+  <rect x="144" y="144" width="64" height="64" fill="#ffffff"/>
+
+  <!-- Row 3 -->
+  <path fill="#ffffff"
+        d="M144 224
+           H208
+           V288
+           H160
+           A16 16 0 0 1 144 272
+           Z"/>
+
+  <rect x="224" y="224" width="64" height="64" fill="#ffffff"/>
+
+  <path fill="#ffffff"
+        d="M304 224
+           H352
+           A16 16 0 0 1 368 240
+           V288
+           H304
+           Z"/>
+
+  <!-- Row 4 -->
+  <rect x="304" y="304" width="64" height="64" fill="#ffffff"/>
+
+  <!-- Row 5 -->
+  <path fill="#ffffff"
+        d="M144 384
+           H208
+           V448
+           H160
+           A16 16 0 0 1 144 432
+           Z"/>
+
+  <rect x="224" y="384" width="64" height="64" fill="#ffffff"/>
+
+  <path fill="#ffffff"
+        d="M304 384
+           H368
+           V432
+           A16 16 0 0 1 352 448
+           H304
+           Z"/>
+</svg>

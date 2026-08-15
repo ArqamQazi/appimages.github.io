@@ -1,0 +1,14 @@
+{
+  "id": "spaghettikart",
+  "name": "SpaghettiKart",
+  "summary": "An unofficial port of Mario Kart 64",
+  "icon_name": "spaghettikart",
+  "categories": [
+    "Game",
+    "Retro"
+  ],
+  "repo": "pkgforge-dev/SpaghettiKart-AppImage-Enhanced",
+  "version": "1.0.0@2026-08-01_1785585750",
+  "download_url": "https://github.com/pkgforge-dev/SpaghettiKart-AppImage-Enhanced/releases/download/1.0.0%402026-08-01_1785585750/SpaghettiKart-1.0.0-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/spaghettikart.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "io.github.diegopvlk.Cine",
+  "name": "New Window",
+  "summary": "Play your videos",
+  "icon_name": "io.github.diegopvlk.Cine",
+  "categories": [
+    "AudioVideo",
+    "Video",
+    "Player",
+    "GNOME",
+    "GTK"
+  ],
+  "repo": "pkgforge-dev/Cine-AppImage",
+  "version": "v1.8.1@2026-08-01_1785585982",
+  "download_url": "https://github.com/pkgforge-dev/Cine-AppImage/releases/download/v1.8.1%402026-08-01_1785585982/Cine-v1.8.1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/io.github.diegopvlk.Cine.svg"
+}

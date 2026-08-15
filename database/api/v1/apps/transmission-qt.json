@@ -1,0 +1,16 @@
+{
+  "id": "transmission-qt",
+  "name": "Start Transmission Minimized",
+  "summary": "Download and share files over BitTorrent",
+  "icon_name": "transmission-qt",
+  "categories": [
+    "Network",
+    "FileTransfer",
+    "P2P",
+    "Qt"
+  ],
+  "repo": "pkgforge-dev/transmission-qt-AppImage",
+  "version": "4.1.3-2@2026-08-01_1785585961",
+  "download_url": "https://github.com/pkgforge-dev/transmission-qt-AppImage/releases/download/4.1.3-2%402026-08-01_1785585961/Transmission_Qt-4.1.3-2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/transmission-qt.svg"
+}

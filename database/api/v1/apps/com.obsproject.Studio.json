@@ -1,0 +1,14 @@
+{
+  "id": "com.obsproject.Studio",
+  "name": "OBS Studio",
+  "summary": "Free and Open Source Streaming/Recording Software",
+  "icon_name": "com.obsproject.Studio",
+  "categories": [
+    "AudioVideo",
+    "Recorder"
+  ],
+  "repo": "pkgforge-dev/OBS-Studio-AppImage",
+  "version": "32.1.2-7@2026-08-01_1785585195",
+  "download_url": "https://github.com/pkgforge-dev/OBS-Studio-AppImage/releases/download/32.1.2-7%402026-08-01_1785585195/OBS_Studio-32.1.2-7-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/com.obsproject.Studio.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "org.gnome.TextEditor",
+  "categories": [
+    "GNOME",
+    "GTK",
+    "Utility",
+    "TextEditor"
+  ],
+  "name": "New Window",
+  "summary": "View and edit text files",
+  "icon_name": "org.gnome.TextEditor",
+  "repo": "pkgforge-dev/Gnome-Text-Editor-AppImage",
+  "version": "50.1-1@2026-08-01_1785586187",
+  "download_url": "https://github.com/pkgforge-dev/Gnome-Text-Editor-AppImage/releases/download/50.1-1%402026-08-01_1785586187/Text_Editor-50.1-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.gnome.TextEditor.svg"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "org.qt-project.qtcreator",
+  "name": "Qt Creator",
+  "icon_name": "QtProject-qtcreator",
+  "categories": [
+    "Development",
+    "IDE",
+    "Qt"
+  ],
+  "repo": "pkgforge-dev/QtCreator-AppImage",
+  "version": "20.0.1-1@2026-08-12_1786577589",
+  "download_url": "https://github.com/pkgforge-dev/QtCreator-AppImage/releases/download/20.0.1-1%402026-08-12_1786577589/Qt_Creator-20.0.1-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.qt-project.qtcreator.png"
+}

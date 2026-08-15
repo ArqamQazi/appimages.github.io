@@ -1,0 +1,14 @@
+{
+  "id": "nestopia",
+  "name": "Nestopia",
+  "summary": "Accurate NES Emulator",
+  "icon_name": "nestopia",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/Nestopia-AppImage",
+  "version": "1.53.2-1@2026-08-01_1785586211",
+  "download_url": "https://github.com/pkgforge-dev/Nestopia-AppImage/releases/download/1.53.2-1%402026-08-01_1785586211/Nestopia-1.53.2-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/nestopia.svg"
+}

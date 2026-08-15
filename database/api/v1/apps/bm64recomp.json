@@ -1,0 +1,13 @@
+{
+  "id": "bm64recomp",
+  "name": "Bomberman 64 Recompiled",
+  "icon_name": "512",
+  "categories": [
+    "Game"
+  ],
+  "summary": "Static recompilation of Bomberman 64 for PC.",
+  "repo": "pkgforge-dev/BM64Recomp-AppImage-Enhanced",
+  "version": "1.0.0@2026-08-01_1785586241",
+  "download_url": "https://github.com/pkgforge-dev/BM64Recomp-AppImage-Enhanced/releases/download/1.0.0%402026-08-01_1785586241/Bomberman_64_Recompiled-1.0.0-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/bm64recomp.png"
+}

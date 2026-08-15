@@ -1,0 +1,14 @@
+{
+  "id": "org.Q-FRC.QDash",
+  "name": "QDash",
+  "summary": "Reliable, high-performance dashboard for FRC.",
+  "icon_name": "org.Q-FRC.QDash",
+  "categories": [
+    "Education",
+    "Utility"
+  ],
+  "repo": "QFRC/QDash",
+  "version": "2026.4.0",
+  "download_url": "https://git.crueter.xyz/QFRC/QDash/releases/download/2026.4.0/QDash-Linux-2026.4.0-amd64-gcc-standard.AppImage",
+  "icon_url": "/database/icons/org.Q-FRC.QDash.svg"
+}

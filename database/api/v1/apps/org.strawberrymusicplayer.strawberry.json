@@ -1,0 +1,16 @@
+{
+  "id": "org.strawberrymusicplayer.strawberry",
+  "name": "Next",
+  "summary": "Plays music",
+  "icon_name": "strawberry",
+  "categories": [
+    "AudioVideo",
+    "Player",
+    "Qt",
+    "Audio"
+  ],
+  "repo": "pkgforge-dev/strawberry-AppImage",
+  "version": "1.2.26-1@2026-08-01_1785585795",
+  "download_url": "https://github.com/pkgforge-dev/strawberry-AppImage/releases/download/1.2.26-1%402026-08-01_1785585795/strawberry-1.2.26-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.strawberrymusicplayer.strawberry.png"
+}

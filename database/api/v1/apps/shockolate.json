@@ -1,0 +1,15 @@
+{
+  "id": "shockolate",
+  "name": "Shockolate",
+  "summary": "\"Source port of the original System Shock\"",
+  "icon_name": "shockolate",
+  "categories": [
+    "Game",
+    "FPS",
+    "Action"
+  ],
+  "repo": "pkgforge-dev/Shockolate-AppImage",
+  "version": "4cc3d07df@2026-08-01_1785586121",
+  "download_url": "https://github.com/pkgforge-dev/Shockolate-AppImage/releases/download/4cc3d07df%402026-08-01_1785586121/Shockolate-4cc3d07df-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/shockolate.png"
+}

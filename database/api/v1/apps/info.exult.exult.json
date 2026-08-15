@@ -1,0 +1,14 @@
+{
+  "id": "info.exult.exult",
+  "name": "Exult",
+  "summary": "Exult Ultima VII Engine",
+  "icon_name": "info.exult.exult",
+  "categories": [
+    "Game",
+    "RolePlaying"
+  ],
+  "repo": "pkgforge-dev/Exult-AppImage",
+  "version": "1.12.1-1@2026-08-01_1785586225",
+  "download_url": "https://github.com/pkgforge-dev/Exult-AppImage/releases/download/1.12.1-1%402026-08-01_1785586225/Exult-1.12.1-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/info.exult.exult.svg"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "openmsx",
+  "name": "openMSX",
+  "summary": "The MSX emulator that aims for perfection",
+  "icon_name": "/usr/share/openmsx/icons/openMSX-logo-256.png",
+  "categories": [
+    "Emulator",
+    "GTK",
+    "Game"
+  ],
+  "repo": "pkgforge-dev/openMSX-AppImage",
+  "version": "21.0-1@2026-08-01_1785585922",
+  "download_url": "https://github.com/pkgforge-dev/openMSX-AppImage/releases/download/21.0-1%402026-08-01_1785585922/openMSX-21.0-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/openmsx.png"
+}

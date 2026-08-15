@@ -1,0 +1,14 @@
+{
+  "id": "org.nickvision.tagger",
+  "name": "Tagger",
+  "summary": "Tag your music",
+  "icon_name": "org.nickvision.tagger",
+  "categories": [
+    "AudioVideo",
+    "Audio"
+  ],
+  "repo": "pkgforge-dev/Tagger-AppImage",
+  "version": "2024.6.0-3@2026-05-22_1779457989",
+  "download_url": "https://github.com/pkgforge-dev/Tagger-AppImage/releases/download/2024.6.0-3%402026-05-22_1779457989/Tagger-2024.6.0-3-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.nickvision.tagger.svg"
+}

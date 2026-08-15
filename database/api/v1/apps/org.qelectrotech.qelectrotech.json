@@ -1,0 +1,18 @@
+{
+  "id": "org.qelectrotech.qelectrotech",
+  "name": "QElectroTech",
+  "icon_name": "qelectrotech",
+  "categories": [
+    "Graphics",
+    "Qt",
+    "VectorGraphics",
+    "Science",
+    "Electricity",
+    "Engineering"
+  ],
+  "summary": "Edit electrical diagrams.",
+  "repo": "pkgforge-dev/QElectroTech-AppImage",
+  "version": "0.100-1@2026-08-01_1785586019",
+  "download_url": "https://github.com/pkgforge-dev/QElectroTech-AppImage/releases/download/0.100-1%402026-08-01_1785586019/QElectroTech-0.100-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.qelectrotech.qelectrotech.png"
+}

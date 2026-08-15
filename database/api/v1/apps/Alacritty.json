@@ -1,0 +1,14 @@
+{
+  "id": "Alacritty",
+  "icon_name": "Alacritty",
+  "categories": [
+    "System",
+    "TerminalEmulator"
+  ],
+  "name": "New Terminal",
+  "summary": "A fast, cross-platform, OpenGL terminal emulator",
+  "repo": "pkgforge-dev/alacritty-AppImage",
+  "version": "v0.17.0@2026-08-01_1785586362",
+  "download_url": "https://github.com/pkgforge-dev/alacritty-AppImage/releases/download/v0.17.0%402026-08-01_1785586362/Alacritty-v0.17.0-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/Alacritty.svg"
+}

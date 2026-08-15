@@ -1,0 +1,16 @@
+{
+  "id": "easytag",
+  "name": "EasyTAG",
+  "summary": "Edit audio file metadata",
+  "icon_name": "easytag",
+  "categories": [
+    "GTK",
+    "AudioVideo",
+    "AudioVideoEditing",
+    "Audio"
+  ],
+  "repo": "pkgforge-dev/EasyTAG-AppImage",
+  "version": "2.4.3-17@2026-08-01_1785585196",
+  "download_url": "https://github.com/pkgforge-dev/EasyTAG-AppImage/releases/download/2.4.3-17%402026-08-01_1785585196/EasyTAG-2.4.3-17-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/easytag.png"
+}

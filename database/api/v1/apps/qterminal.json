@@ -1,0 +1,15 @@
+{
+  "id": "qterminal",
+  "icon_name": "utilities-terminal",
+  "categories": [
+    "Qt",
+    "System",
+    "TerminalEmulator"
+  ],
+  "name": "Drop-down Terminal",
+  "summary": "Terminal emulator",
+  "repo": "pkgforge-dev/QTerminal-AppImage",
+  "version": "2.4.0-1@2026-08-01_1785585193",
+  "download_url": "https://github.com/pkgforge-dev/QTerminal-AppImage/releases/download/2.4.0-1%402026-08-01_1785585193/QTerminal-2.4.0-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/qterminal.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "riseup-vpn",
+  "name": "RiseupVPN",
+  "summary": "Easy VPN by riseup",
+  "icon_name": "riseup-vpn",
+  "categories": [
+    "Network",
+    "Application"
+  ],
+  "repo": "pkgforge-dev/Riseup-VPN-AppImage",
+  "version": "0.25.8@2026-08-03_1785742364",
+  "download_url": "https://github.com/pkgforge-dev/Riseup-VPN-AppImage/releases/download/0.25.8%402026-08-03_1785742364/RiseupVPN-0.25.8-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/riseup-vpn.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "org.kde.neochat",
+  "name": "NeoChat",
+  "summary": "Chat on Matrix",
+  "icon_name": "org.kde.neochat",
+  "categories": [
+    "Network",
+    "InstantMessaging"
+  ],
+  "repo": "pkgforge-dev/NeoChat-AppImage",
+  "version": "26.04.3-1@2026-08-01_1785585944",
+  "download_url": "https://github.com/pkgforge-dev/NeoChat-AppImage/releases/download/26.04.3-1%402026-08-01_1785585944/NeoChat-26.04.3-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.kde.neochat.svg"
+}

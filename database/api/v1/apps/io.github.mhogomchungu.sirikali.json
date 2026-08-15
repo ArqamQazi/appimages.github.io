@@ -1,0 +1,16 @@
+{
+  "id": "io.github.mhogomchungu.sirikali",
+  "summary": "Manage Encrypted Volumes Hosted In Folders",
+  "icon_name": "sirikali",
+  "name": "SiriKali",
+  "categories": [
+    "Security",
+    "Utility",
+    "Qt",
+    "X-MandrivaLinux-System-FileTools"
+  ],
+  "repo": "pkgforge-dev/SiriKali-AppImage",
+  "version": "1.8.6-1@2026-08-01_1785586370",
+  "download_url": "https://github.com/pkgforge-dev/SiriKali-AppImage/releases/download/1.8.6-1%402026-08-01_1785586370/SiriKali-1.8.6-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/io.github.mhogomchungu.sirikali.png"
+}

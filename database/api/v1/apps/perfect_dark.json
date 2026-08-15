@@ -1,0 +1,14 @@
+{
+  "id": "perfect_dark",
+  "name": "Perfect Dark",
+  "summary": "\"PC port of Perfect Dark\"",
+  "icon_name": "io.github.fgsfdsfgs.perfect_dark",
+  "categories": [
+    "Game",
+    "Action"
+  ],
+  "repo": "pkgforge-dev/Perfect-Dark-AppImage",
+  "version": "514bf7aff@2026-08-01_1785586204",
+  "download_url": "https://github.com/pkgforge-dev/Perfect-Dark-AppImage/releases/download/514bf7aff%402026-08-01_1785586204/Perfect_Dark-514bf7aff-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/perfect_dark.png"
+}

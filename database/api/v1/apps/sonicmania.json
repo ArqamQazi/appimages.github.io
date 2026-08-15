@@ -1,0 +1,12 @@
+{
+  "id": "sonicmania",
+  "name": "Sonic Mania",
+  "icon_name": "RSDKv5",
+  "categories": [
+    "Game"
+  ],
+  "repo": "pkgforge-dev/Sonic-Mania-Decompilation-AppImage",
+  "version": "9dc699428@2026-08-14_1786728235",
+  "download_url": "https://github.com/pkgforge-dev/Sonic-Mania-Decompilation-AppImage/releases/download/9dc699428%402026-08-14_1786728235/Sonic_Mania-9dc699428-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/sonicmania.png"
+}

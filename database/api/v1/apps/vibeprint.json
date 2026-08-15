@@ -1,0 +1,14 @@
+{
+  "id": "vibeprint",
+  "name": "Vibeprint Studio",
+  "summary": "Automatically layout and print images in a ICC aware environment",
+  "icon_name": "vibeprint-studio",
+  "categories": [
+    "Office",
+    "Printing"
+  ],
+  "repo": "pkgforge-dev/Vibeprint-Studio-AppImage",
+  "version": "fd77237b4@2026-08-01_1785586105",
+  "download_url": "https://github.com/pkgforge-dev/Vibeprint-Studio-AppImage/releases/download/fd77237b4%402026-08-01_1785586105/Vibeprint_Studio-fd77237b4-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/vibeprint.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "antigravity",
+  "name": "Antigravity",
+  "summary": "Experience liftoff",
+  "icon_name": "antigravity",
+  "categories": [
+    "Development",
+    "Utility"
+  ],
+  "repo": "pkgforge-dev/Antigravity-AppImage",
+  "version": "2.6.0@2026-08-08_1786175659",
+  "download_url": "https://github.com/pkgforge-dev/Antigravity-AppImage/releases/download/2.6.0%402026-08-08_1786175659/Antigravity-2.6.0-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/antigravity.png"
+}

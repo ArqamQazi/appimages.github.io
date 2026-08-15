@@ -1,0 +1,15 @@
+{
+  "id": "com.github.Rosalie241.RMG",
+  "name": "Rosalie's Mupen GUI",
+  "summary": "An easy to use and cross-platform mupen64plus front-end written in C++ & Qt",
+  "icon_name": "com.github.Rosalie241.RMG",
+  "categories": [
+    "Game",
+    "Emulator",
+    "Qt"
+  ],
+  "repo": "pkgforge-dev/RMG-AppImage-Enhanced",
+  "version": "0.9.0-1@2026-08-01_1785586196",
+  "download_url": "https://github.com/pkgforge-dev/RMG-AppImage-Enhanced/releases/download/0.9.0-1%402026-08-01_1785586196/RMG-0.9.0-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/com.github.Rosalie241.RMG.svg"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "com.gitlab.guillermop.MasterKey",
+  "name": "Master Key",
+  "summary": "A password manager",
+  "icon_name": "com.gitlab.guillermop.MasterKey",
+  "categories": [
+    "Security",
+    "Utility",
+    "GTK"
+  ],
+  "repo": "pkgforge-dev/masterkey-AppImage",
+  "version": "v1.9.1@2026-07-20_1784570600",
+  "download_url": "https://github.com/pkgforge-dev/masterkey-AppImage/releases/download/v1.9.1%402026-07-20_1784570600/Master_Key-v1.9.1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/com.gitlab.guillermop.MasterKey.svg"
+}

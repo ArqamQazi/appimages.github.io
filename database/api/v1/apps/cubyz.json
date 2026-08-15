@@ -1,0 +1,13 @@
+{
+  "id": "cubyz",
+  "categories": [
+    "Game"
+  ],
+  "name": "Cubyz",
+  "summary": "Open source voxel sandbox game",
+  "icon_name": "cubyz",
+  "repo": "pkgforge-dev/Cubyz-AppImage",
+  "version": "0.3.0-1@2026-08-01_1785584908",
+  "download_url": "https://github.com/pkgforge-dev/Cubyz-AppImage/releases/download/0.3.0-1%402026-08-01_1785584908/Cubyz-0.3.0-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/cubyz.png"
+}

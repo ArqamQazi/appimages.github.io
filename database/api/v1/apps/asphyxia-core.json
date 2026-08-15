@@ -1,0 +1,13 @@
+{
+  "id": "asphyxia-core",
+  "name": "asphyxia-core",
+  "summary": "Dummy made by quick-sharun",
+  "categories": [
+    "Utility"
+  ],
+  "icon_name": "asphyxia-core",
+  "repo": "pkgforge-dev/Asphyxia-CORE-AppImage",
+  "version": "v1.60b@2026-08-01_1785586299",
+  "download_url": "https://github.com/pkgforge-dev/Asphyxia-CORE-AppImage/releases/download/v1.60b%402026-08-01_1785586299/asphyxia-core-v1.60b-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/asphyxia-core.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "com.belmoussaoui.Authenticator",
+  "name": "Authenticator",
+  "summary": "Generate two-factor codes",
+  "categories": [
+    "GNOME",
+    "GTK",
+    "Security",
+    "Utility"
+  ],
+  "icon_name": "com.belmoussaoui.Authenticator",
+  "repo": "pkgforge-dev/Authenticator-AppImage",
+  "version": "4.6.2-2@2026-08-01_1785586168",
+  "download_url": "https://github.com/pkgforge-dev/Authenticator-AppImage/releases/download/4.6.2-2%402026-08-01_1785586168/Authenticator-4.6.2-2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/com.belmoussaoui.Authenticator.svg"
+}

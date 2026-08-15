@@ -1,0 +1,15 @@
+{
+  "id": "io.github.seadve.Mousai",
+  "name": "Mousai",
+  "summary": "Identify songs in seconds",
+  "categories": [
+    "GNOME",
+    "GTK",
+    "Utility"
+  ],
+  "icon_name": "io.github.seadve.Mousai",
+  "repo": "pkgforge-dev/Mousai-AppImage",
+  "version": "0.7.10-1@2026-08-01_1785586229",
+  "download_url": "https://github.com/pkgforge-dev/Mousai-AppImage/releases/download/0.7.10-1%402026-08-01_1785586229/Mousai-0.7.10-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/io.github.seadve.Mousai.svg"
+}

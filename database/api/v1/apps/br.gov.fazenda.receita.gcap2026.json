@@ -1,0 +1,14 @@
+{
+  "id": "br.gov.fazenda.receita.gcap2026",
+  "name": "GCAP 2026",
+  "summary": "Declare seus ganhos de capital (Ano-calend\u00e1rio 2026)",
+  "icon_name": "br.gov.fazenda.receita.gcap2026",
+  "categories": [
+    "Office",
+    "Network"
+  ],
+  "repo": "pkgforge-dev/GCAP2026-AppImage",
+  "version": "1.2@2026-07-27_1785182338",
+  "download_url": "https://github.com/pkgforge-dev/GCAP2026-AppImage/releases/download/1.2%402026-07-27_1785182338/GCAP_2026-1.2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/br.gov.fazenda.receita.gcap2026.png"
+}

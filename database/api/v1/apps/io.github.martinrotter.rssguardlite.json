@@ -1,0 +1,16 @@
+{
+  "id": "io.github.martinrotter.rssguardlite",
+  "name": "RSS Guard Lite",
+  "summary": "Simple, yet powerful news feed reader (without web browser)",
+  "icon_name": "io.github.martinrotter.rssguardlite",
+  "categories": [
+    "Feed",
+    "News",
+    "Network",
+    "Qt"
+  ],
+  "repo": "martinrotter/rssguard",
+  "version": "5.2.3",
+  "download_url": "https://github.com/martinrotter/rssguard/releases/download/5.2.3/rssguard-5.2.3-text-qt5-linux64.AppImage",
+  "icon_url": "/database/icons/io.github.martinrotter.rssguardlite.png"
+}

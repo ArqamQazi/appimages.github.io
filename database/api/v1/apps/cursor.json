@@ -1,0 +1,15 @@
+{
+  "id": "cursor",
+  "name": "New Empty Window",
+  "summary": "The AI Code Editor.",
+  "icon_name": "co.anysphere.cursor",
+  "categories": [
+    "TextEditor",
+    "Development",
+    "IDE"
+  ],
+  "repo": "pkgforge-dev/Cursor-AppImage-enhanced",
+  "version": "3.14.7@2026-08-01_1785586046",
+  "download_url": "https://github.com/pkgforge-dev/Cursor-AppImage-Enhanced/releases/download/3.14.7%402026-08-01_1785586046/Cursor-3.14.7-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/cursor.png"
+}

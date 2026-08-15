@@ -1,0 +1,14 @@
+{
+  "id": "org.luanti.luanti",
+  "name": "Luanti",
+  "summary": "Block-based multiplayer game platform",
+  "icon_name": "luanti",
+  "categories": [
+    "Game",
+    "Simulation"
+  ],
+  "repo": "pkgforge-dev/Luanti-AppImage",
+  "version": "5.16.1-1@2026-08-01_1785586120",
+  "download_url": "https://github.com/pkgforge-dev/Luanti-AppImage/releases/download/5.16.1-1%402026-08-01_1785586120/Luanti-5.16.1-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.luanti.luanti.png"
+}

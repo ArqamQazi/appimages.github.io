@@ -1,0 +1,14 @@
+{
+  "id": "snes9x-gtk",
+  "name": "Snes9x",
+  "summary": "A Super\u00a0Nintendo emulator",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "icon_name": "snes9x",
+  "repo": "pkgforge-dev/Snes9x-AppImage-Enhanced",
+  "version": "1.63-1@2026-08-01_1785586216",
+  "download_url": "https://github.com/pkgforge-dev/Snes9x-AppImage-Enhanced/releases/download/1.63-1%402026-08-01_1785586216/Snes9x-1.63-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/snes9x-gtk.png"
+}

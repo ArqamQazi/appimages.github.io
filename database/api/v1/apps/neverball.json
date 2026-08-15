@@ -1,0 +1,14 @@
+{
+  "id": "neverball",
+  "name": "Neverball",
+  "summary": "A 3D arcade game with a ball",
+  "icon_name": "neverball",
+  "categories": [
+    "Game",
+    "ArcadeGame"
+  ],
+  "repo": "pkgforge-dev/Neverball-AppImage",
+  "version": "1.6.0-5@2026-08-05_1785919321",
+  "download_url": "https://github.com/pkgforge-dev/Neverball-AppImage/releases/download/1.6.0-5%402026-08-05_1785919321/Neverball-1.6.0-5-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/neverball.png"
+}

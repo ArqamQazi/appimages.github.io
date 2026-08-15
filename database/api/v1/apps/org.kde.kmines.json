@@ -1,0 +1,16 @@
+{
+  "id": "org.kde.kmines",
+  "name": "KMines",
+  "icon_name": "kmines",
+  "summary": "Minesweeper-like Game",
+  "categories": [
+    "Qt",
+    "KDE",
+    "Game",
+    "StrategyGame"
+  ],
+  "repo": "pkgforge-dev/KMines-AppImage",
+  "version": "26.04.3-1@2026-07-22_1784722521",
+  "download_url": "https://github.com/pkgforge-dev/KMines-AppImage/releases/download/26.04.3-1%402026-07-22_1784722521/KMines-26.04.3-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.kde.kmines.png"
+}

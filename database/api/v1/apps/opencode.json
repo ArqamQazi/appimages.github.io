@@ -1,0 +1,13 @@
+{
+  "id": "opencode",
+  "name": "opencode",
+  "summary": "Dummy made by quick-sharun",
+  "categories": [
+    "Utility"
+  ],
+  "icon_name": "opencode",
+  "repo": "pkgforge-dev/opencode-cli-AppImage",
+  "version": "v1.18.15@2026-08-08_1786175418",
+  "download_url": "https://github.com/pkgforge-dev/opencode-cli-AppImage/releases/download/v1.18.15%402026-08-08_1786175418/opencode-v1.18.15-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/opencode.png"
+}

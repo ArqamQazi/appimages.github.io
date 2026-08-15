@@ -1,0 +1,15 @@
+{
+  "id": "duckstation",
+  "name": "DuckStation",
+  "summary": "PlayStation emulator",
+  "icon_name": "duckstation",
+  "categories": [
+    "Game",
+    "Emulator",
+    "Qt"
+  ],
+  "repo": "pkgforge-dev/DuckStation-GPL-AppImage-Enhanced",
+  "version": "0.1.7465-7@2026-05-01_1777674496",
+  "download_url": "https://github.com/pkgforge-dev/DuckStation-GPL-AppImage-Enhanced/releases/download/0.1.7465-7%402026-05-01_1777674496/DuckStation-0.1.7465-7-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/duckstation.png"
+}

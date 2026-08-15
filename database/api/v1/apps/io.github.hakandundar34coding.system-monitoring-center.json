@@ -1,0 +1,14 @@
+{
+  "id": "io.github.hakandundar34coding.system-monitoring-center",
+  "name": "System Monitoring Center",
+  "summary": "Multi-featured system monitor",
+  "icon_name": "io.github.hakandundar34coding.system-monitoring-center",
+  "categories": [
+    "System",
+    "Utility"
+  ],
+  "repo": "pkgforge-dev/system-monitoring-center-AppImage",
+  "version": "3.4.1-1@2026-07-01_1782914674",
+  "download_url": "https://github.com/pkgforge-dev/system-monitoring-center-AppImage/releases/download/3.4.1-1%402026-07-01_1782914674/System_Monitoring_Center-3.4.1-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/io.github.hakandundar34coding.system-monitoring-center.svg"
+}

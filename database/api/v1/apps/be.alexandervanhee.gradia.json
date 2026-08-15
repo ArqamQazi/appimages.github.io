@@ -1,0 +1,13 @@
+{
+  "id": "be.alexandervanhee.gradia",
+  "name": "Take Fullscreen Screenshot",
+  "summary": "Make your images ready for the world",
+  "icon_name": "camera-photo",
+  "categories": [
+    "Graphics"
+  ],
+  "repo": "pkgforge-dev/Gradia-AppImage",
+  "version": "1.13.0-3@2026-08-14_1786736035",
+  "download_url": "https://github.com/pkgforge-dev/Gradia-AppImage/releases/download/1.13.0-3%402026-08-14_1786736035/Gradia-1.13.0-3-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/be.alexandervanhee.gradia.svg"
+}

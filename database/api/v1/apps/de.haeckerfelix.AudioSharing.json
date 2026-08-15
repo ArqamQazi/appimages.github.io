@@ -1,0 +1,15 @@
+{
+  "id": "de.haeckerfelix.AudioSharing",
+  "name": "Audio Sharing",
+  "icon_name": "de.haeckerfelix.AudioSharing",
+  "categories": [
+    "GNOME",
+    "GTK",
+    "Audio",
+    "AudioVideo"
+  ],
+  "repo": "pkgforge-dev/Audio-Sharing-AppImage",
+  "version": "0.2.4-4@2026-08-01_1785576882",
+  "download_url": "https://github.com/pkgforge-dev/Audio-Sharing-AppImage/releases/download/0.2.4-4%402026-08-01_1785576882/Audio_Sharing-0.2.4-4-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/de.haeckerfelix.AudioSharing.svg"
+}

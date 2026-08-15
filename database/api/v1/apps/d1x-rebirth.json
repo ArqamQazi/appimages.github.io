@@ -1,0 +1,14 @@
+{
+  "id": "d1x-rebirth",
+  "name": "D1X-Rebirth",
+  "summary": "DXX-Rebirth source port of Descent: First Strike (1995)",
+  "icon_name": "d1x-rebirth",
+  "categories": [
+    "Game",
+    "ActionGame"
+  ],
+  "repo": "pkgforge-dev/D1X-Rebirth-AppImage",
+  "version": "e1ff42e16@2026-08-01_1785586244",
+  "download_url": "https://github.com/pkgforge-dev/D1X-Rebirth-AppImage/releases/download/e1ff42e16%402026-08-01_1785586244/D1X-Rebirth-e1ff42e16-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/d1x-rebirth.svg"
+}

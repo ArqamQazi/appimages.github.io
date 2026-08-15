@@ -1,0 +1,14 @@
+{
+  "id": "br.gov.fazenda.receita.gcap2025",
+  "name": "GCAP 2025",
+  "summary": "Declare seus ganhos de capital (Ano-calend\u00e1rio 2025)",
+  "icon_name": "br.gov.fazenda.receita.gcap2025",
+  "categories": [
+    "Office",
+    "Network"
+  ],
+  "repo": "pkgforge-dev/GCAP2025-AppImage",
+  "version": "1.6@2026-06-06_1780706767",
+  "download_url": "https://github.com/pkgforge-dev/GCAP2025-AppImage/releases/download/1.6%402026-06-06_1780706767/GCAP_2025-1.6-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/br.gov.fazenda.receita.gcap2025.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "whatsdesk",
+  "name": "whatsdesk",
+  "icon_name": "whatsdesk",
+  "summary": "unofficial whatsapp client for linux",
+  "categories": [
+    "Network"
+  ],
+  "repo": "pkgforge-dev/WhatsDesk-AppImage",
+  "version": "1e6bf41f5@2026-08-01_1785586186",
+  "download_url": "https://github.com/pkgforge-dev/WhatsDesk-AppImage/releases/download/1e6bf41f5%402026-08-01_1785586186/whatsdesk-1e6bf41f5-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/whatsdesk.png"
+}

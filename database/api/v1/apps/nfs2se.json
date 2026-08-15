@@ -1,0 +1,13 @@
+{
+  "id": "nfs2se",
+  "name": "Need For Speed II SE",
+  "summary": "Cross-platform port of the Need For Speed\u2122 II SE game with 3D acceleration and TCP protocol!",
+  "icon_name": "nfs2se",
+  "categories": [
+    "Game"
+  ],
+  "repo": "pkgforge-dev/NFSIISE-AppImage",
+  "version": "19ef0b943@2026-08-05_1785890459",
+  "download_url": "https://github.com/pkgforge-dev/NFSIISE-AppImage/releases/download/19ef0b943%402026-08-05_1785890459/Need_For_Speed_II_SE-19ef0b943-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/nfs2se.png"
+}

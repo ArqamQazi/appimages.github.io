@@ -1,0 +1,13 @@
+{
+  "id": "uad-ng",
+  "name": "Universal Android Debloater Next Generation",
+  "summary": "Tool for debloating Android",
+  "categories": [
+    "Utility"
+  ],
+  "icon_name": "uad-ng",
+  "repo": "pkgforge-dev/uad-ng-AppImage",
+  "version": "v1.2.0@2026-08-01_1785585174",
+  "download_url": "https://github.com/pkgforge-dev/uad-ng-AppImage/releases/download/v1.2.0%402026-08-01_1785585174/Universal_Android_Debloater_Next_Generation-v1.2.0-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/uad-ng.png"
+}

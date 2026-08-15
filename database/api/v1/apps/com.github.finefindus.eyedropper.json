@@ -1,0 +1,18 @@
+{
+  "id": "com.github.finefindus.eyedropper",
+  "name": "Eyedropper",
+  "summary": "Pick and format colors",
+  "categories": [
+    "GNOME",
+    "GTK",
+    "Development",
+    "Graphics",
+    "Utility",
+    "WebDevelopment"
+  ],
+  "icon_name": "com.github.finefindus.eyedropper",
+  "repo": "pkgforge-dev/Eyedropper-AppImage",
+  "version": "2.2.1-1@2026-08-01_1785585296",
+  "download_url": "https://github.com/pkgforge-dev/Eyedropper-AppImage/releases/download/2.2.1-1%402026-08-01_1785585296/Eyedropper-2.2.1-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/com.github.finefindus.eyedropper.svg"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "no.bragefuglseth.Keypunch",
+  "name": "Keypunch",
+  "summary": "Practice your typing skills",
+  "icon_name": "no.bragefuglseth.Keypunch",
+  "categories": [
+    "Education"
+  ],
+  "repo": "pkgforge-dev/Keypunch-AppImage",
+  "version": "v7.0@2026-08-11_1786470103",
+  "download_url": "https://github.com/pkgforge-dev/Keypunch-AppImage/releases/download/v7.0%402026-08-11_1786470103/Keypunch-v7.0-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/no.bragefuglseth.Keypunch.svg"
+}

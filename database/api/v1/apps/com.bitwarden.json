@@ -1,0 +1,14 @@
+{
+  "id": "com.bitwarden",
+  "name": "Bitwarden",
+  "icon_name": "com.bitwarden.desktop",
+  "summary": "A secure and free password manager for all of your devices.",
+  "categories": [
+    "System",
+    "Security"
+  ],
+  "repo": "pkgforge-dev/Bitwarden-AppImage-Enhanced",
+  "version": "v2026.7.0@2026-08-01_1785584851",
+  "download_url": "https://github.com/pkgforge-dev/Bitwarden-AppImage-Enhanced/releases/download/v2026.7.0%402026-08-01_1785584851/Bitwarden-v2026.7.0-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/com.bitwarden.png"
+}

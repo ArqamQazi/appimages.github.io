@@ -1,0 +1,13 @@
+{
+  "id": "gcstar",
+  "name": "GCstar Collections Manager",
+  "summary": "Manage your collections of movies, games, books, music and more",
+  "icon_name": "gcstar",
+  "categories": [
+    "Office"
+  ],
+  "repo": "pkgforge-dev/GCstar-AppImage",
+  "version": "1.8.0-3@2026-08-01_1785584889",
+  "download_url": "https://github.com/pkgforge-dev/GCstar-AppImage/releases/download/1.8.0-3%402026-08-01_1785584889/GCstar-1.8.0-3-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/gcstar.png"
+}

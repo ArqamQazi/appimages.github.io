@@ -1,0 +1,14 @@
+{
+  "id": "sViewMP",
+  "name": "sView",
+  "summary": "Stereoscopic Media Player",
+  "icon_name": "sview",
+  "categories": [
+    "AudioVideo",
+    "Player"
+  ],
+  "repo": "pkgforge-dev/sView-AppImage",
+  "version": "26_07@2026-08-09_1786297684",
+  "download_url": "https://github.com/pkgforge-dev/sView-AppImage/releases/download/26_07%402026-08-09_1786297684/sView-26_07-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/sViewMP.png"
+}

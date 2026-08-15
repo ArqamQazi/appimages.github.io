@@ -1,0 +1,15 @@
+{
+  "id": "org.xfce.Catfish",
+  "name": "Catfish File Search",
+  "summary": "Search the file system",
+  "categories": [
+    "GNOME",
+    "GTK",
+    "Utility"
+  ],
+  "icon_name": "org.xfce.catfish",
+  "repo": "pkgforge-dev/Catfish-AppImage",
+  "version": "4.20.1-2@2026-08-01_1785586139",
+  "download_url": "https://github.com/pkgforge-dev/Catfish-AppImage/releases/download/4.20.1-2%402026-08-01_1785586139/Catfish_File_Search-4.20.1-2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.xfce.Catfish.svg"
+}

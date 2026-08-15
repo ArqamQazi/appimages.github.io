@@ -1,0 +1,14 @@
+{
+  "id": "mame",
+  "name": "MAME\u2122 Arcade Emulator",
+  "summary": "Play vintage arcade games using the MAME\u2122 emulator",
+  "icon_name": "mame",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/MAME-AppImage",
+  "version": "0.289-1@2026-08-13_1786645108",
+  "download_url": "https://github.com/pkgforge-dev/MAME-AppImage/releases/download/0.289-1%402026-08-13_1786645108/MAME-0.289-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/mame.svg"
+}

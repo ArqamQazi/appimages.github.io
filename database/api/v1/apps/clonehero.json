@@ -1,0 +1,13 @@
+{
+  "id": "clonehero",
+  "name": "Clone Hero",
+  "summary": "A clone of Guitar Hero and Rockband-like games",
+  "icon_name": "clonehero.png",
+  "categories": [
+    "Game"
+  ],
+  "repo": "pkgforge-dev/CloneHero-AppImage",
+  "version": "v1.1.0.6142-final@2026-08-01_1785585798",
+  "download_url": "https://github.com/pkgforge-dev/CloneHero-AppImage/releases/download/v1.1.0.6142-final%402026-08-01_1785585798/Clone_Hero-v1.1.0.6142-final-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/clonehero.png"
+}

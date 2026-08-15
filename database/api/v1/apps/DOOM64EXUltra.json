@@ -1,0 +1,13 @@
+{
+  "id": "DOOM64EXUltra",
+  "categories": [
+    "Game"
+  ],
+  "icon_name": "DOOM64EXUltra",
+  "name": "DOOM64EXUltra",
+  "summary": "\"A fork of DOOM64EX+ with new stuff and fixes\"",
+  "repo": "pkgforge-dev/DOOM64EXUltra-AppImage",
+  "version": "ac890ce59@2026-08-01_1785586286",
+  "download_url": "https://github.com/pkgforge-dev/DOOM64EXUltra-AppImage/releases/download/ac890ce59%402026-08-01_1785586286/DOOM64EXUltra-ac890ce59-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/DOOM64EXUltra.png"
+}

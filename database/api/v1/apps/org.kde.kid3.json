@@ -1,0 +1,17 @@
+{
+  "id": "org.kde.kid3",
+  "name": "Kid3",
+  "icon_name": "kid3",
+  "summary": "Edit audio file metadata",
+  "categories": [
+    "Qt",
+    "KDE",
+    "AudioVideo",
+    "Audio",
+    "AudioVideoEditing"
+  ],
+  "repo": "pkgforge-dev/Kid3-AppImage",
+  "version": "3.10.1-1@2026-08-01_1785585943",
+  "download_url": "https://github.com/pkgforge-dev/Kid3-AppImage/releases/download/3.10.1-1%402026-08-01_1785585943/Kid3-3.10.1-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.kde.kid3.png"
+}

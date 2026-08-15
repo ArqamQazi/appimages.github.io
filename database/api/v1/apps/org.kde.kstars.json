@@ -1,0 +1,17 @@
+{
+  "id": "org.kde.kstars",
+  "icon_name": "kstars",
+  "summary": "Desktop Planetarium",
+  "name": "KStars",
+  "categories": [
+    "Qt",
+    "KDE",
+    "Education",
+    "Science",
+    "Astronomy"
+  ],
+  "repo": "pkgforge-dev/KStars-AppImage",
+  "version": "3.8.3-2@2026-08-01_1785585042",
+  "download_url": "https://github.com/pkgforge-dev/KStars-AppImage/releases/download/3.8.3-2%402026-08-01_1785585042/KStars-3.8.3-2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.kde.kstars.png"
+}

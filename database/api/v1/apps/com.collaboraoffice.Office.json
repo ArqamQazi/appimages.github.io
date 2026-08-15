@@ -1,0 +1,15 @@
+{
+  "id": "com.collaboraoffice.Office",
+  "icon_name": "com.collaboraoffice.Office.startcenter",
+  "categories": [
+    "Office",
+    "X-Red-Hat-Base",
+    "X-SuSE-Core-Office"
+  ],
+  "name": "Drawing",
+  "summary": "Launch applications to create text documents, spreadsheets, presentations, drawings, or open recently used documents.",
+  "repo": "pkgforge-dev/CollaboraOffice-AppImage",
+  "version": "25.04.9.2-1@2026-05-01_1777639060",
+  "download_url": "https://github.com/pkgforge-dev/CollaboraOffice-AppImage/releases/download/25.04.9.2-1%402026-05-01_1777639060/Collabora_Office-25.04.9.2-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/com.collaboraoffice.Office.png"
+}

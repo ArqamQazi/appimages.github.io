@@ -1,0 +1,16 @@
+{
+  "id": "org.gnome.Shotwell",
+  "name": "Manage Different Profiles In Shotwell",
+  "summary": "Organize your photos",
+  "icon_name": "org.gnome.Shotwell",
+  "categories": [
+    "Graphics",
+    "Photography",
+    "GNOME",
+    "GTK"
+  ],
+  "repo": "pkgforge-dev/Shotwell-AppImage",
+  "version": "0.32.17-1@2026-08-01_1785585455",
+  "download_url": "https://github.com/pkgforge-dev/Shotwell-AppImage/releases/download/0.32.17-1%402026-08-01_1785585455/Shotwell-0.32.17-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.gnome.Shotwell.png"
+}

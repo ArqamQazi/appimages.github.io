@@ -1,0 +1,14 @@
+{
+  "id": "io.github.fabiangreffrath.Doom",
+  "name": "Crispy Doom",
+  "icon_name": "crispy-doom",
+  "summary": "Limit-removing enhanced-resolution Doom source port",
+  "categories": [
+    "Game",
+    "ActionGame"
+  ],
+  "repo": "pkgforge-dev/Crispy-Doom-AppImage",
+  "version": "7.1-2@2026-08-01_1785586239",
+  "download_url": "https://github.com/pkgforge-dev/Crispy-Doom-AppImage/releases/download/7.1-2%402026-08-01_1785586239/Crispy_Doom-7.1-2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/io.github.fabiangreffrath.Doom.png"
+}

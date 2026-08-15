@@ -1,0 +1,14 @@
+{
+  "id": "io.github.cxong.cdogs-sdl",
+  "name": "C-Dogs SDL",
+  "categories": [
+    "Game",
+    "ActionGame"
+  ],
+  "summary": "Classic overhead run-and-gun game",
+  "icon_name": "io.github.cxong.cdogs-sdl",
+  "repo": "pkgforge-dev/C-Dogs_SDL-AppImage",
+  "version": "2.4.0-1@2026-08-01_1785585989",
+  "download_url": "https://github.com/pkgforge-dev/C-Dogs_SDL-AppImage/releases/download/2.4.0-1%402026-08-01_1785585989/C-Dogs_SDL-2.4.0-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/io.github.cxong.cdogs-sdl.png"
+}

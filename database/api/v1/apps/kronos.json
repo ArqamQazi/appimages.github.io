@@ -1,0 +1,15 @@
+{
+  "id": "kronos",
+  "name": "Kronos (Qt port)",
+  "summary": "Sega Saturn emulator",
+  "icon_name": "kronos",
+  "categories": [
+    "KDE",
+    "Qt",
+    "Game"
+  ],
+  "repo": "pkgforge-dev/Kronos-AppImage",
+  "version": "2.7.0-2@2026-08-01_1785586206",
+  "download_url": "https://github.com/pkgforge-dev/Kronos-AppImage/releases/download/2.7.0-2%402026-08-01_1785586206/Kronos-2.7.0-2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/kronos.png"
+}

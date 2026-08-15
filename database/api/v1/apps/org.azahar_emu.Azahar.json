@@ -1,0 +1,14 @@
+{
+  "id": "org.azahar_emu.Azahar",
+  "name": "Azahar",
+  "summary": "Nintendo 3DS video game console emulator",
+  "icon_name": "org.azahar_emu.Azahar",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/Azahar-AppImage-Enhanced",
+  "version": "2125.1.3@2026-08-01_1785586204",
+  "download_url": "https://github.com/pkgforge-dev/Azahar-AppImage-Enhanced/releases/download/2125.1.3%402026-08-01_1785586204/Azahar-2125.1.3-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.azahar_emu.Azahar.png"
+}

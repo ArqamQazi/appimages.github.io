@@ -1,0 +1,14 @@
+{
+  "id": "org.servo.Servo",
+  "name": "Open a New Window",
+  "summary": "Browse the Web",
+  "icon_name": "servo",
+  "categories": [
+    "Network",
+    "WebBrowser"
+  ],
+  "repo": "pkgforge-dev/servo-AppImage",
+  "version": "0.4.0@2026-08-01_1785586052",
+  "download_url": "https://github.com/pkgforge-dev/servo-AppImage/releases/download/0.4.0%402026-08-01_1785586052/Servo-0.4.0-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.servo.Servo.png"
+}

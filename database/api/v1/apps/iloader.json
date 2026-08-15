@@ -1,0 +1,13 @@
+{
+  "id": "iloader",
+  "categories": [
+    "Utility"
+  ],
+  "summary": "User-friendly sideloader",
+  "icon_name": "iloader",
+  "name": "iloader",
+  "repo": "pkgforge-dev/iloader-AppImage-Enhanced",
+  "version": "v2.2.10@2026-08-01_1785584692",
+  "download_url": "https://github.com/pkgforge-dev/iloader-AppImage-Enhanced/releases/download/v2.2.10%402026-08-01_1785584692/iloader-v2.2.10-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/iloader.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "polybar",
+  "name": "polybar",
+  "summary": "Dummy made by quick-sharun",
+  "categories": [
+    "Utility"
+  ],
+  "icon_name": "polybar",
+  "repo": "pkgforge-dev/polybar-AppImage",
+  "version": "3.7.2.r29.gf99e0b1c-1@2026-07-27_1785149014",
+  "download_url": "https://github.com/pkgforge-dev/Polybar-AppImage/releases/download/3.7.2.r29.gf99e0b1c-1%402026-07-27_1785149014/polybar-3.7.2.r29.gf99e0b1c-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/polybar.png"
+}

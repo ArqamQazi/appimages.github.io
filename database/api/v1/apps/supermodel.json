@@ -1,0 +1,15 @@
+{
+  "id": "supermodel",
+  "name": "Supermodel",
+  "summary": "\"Sega Model 3 arcade emulator\"",
+  "icon_name": "Real3D_Logo",
+  "categories": [
+    "Game",
+    "Emulation",
+    "Arcade"
+  ],
+  "repo": "pkgforge-dev/Supermodel-AppImage",
+  "version": "r1293.24d2ffc-1@2026-08-01_1785586047",
+  "download_url": "https://github.com/pkgforge-dev/Supermodel-AppImage/releases/download/r1293.24d2ffc-1%402026-08-01_1785586047/Supermodel-r1293.24d2ffc-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/supermodel.png"
+}

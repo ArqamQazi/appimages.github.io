@@ -1,0 +1,16 @@
+{
+  "id": "org.clementine_player.Clementine",
+  "name": "Next",
+  "summary": "Plays music and last.fm streams",
+  "icon_name": "org.clementine_player.Clementine",
+  "categories": [
+    "AudioVideo",
+    "Player",
+    "Qt",
+    "Audio"
+  ],
+  "repo": "pkgforge-dev/Clementine-AppImage",
+  "version": "1.4.1+79+g841f3251d-1@2026-08-01_1785586149",
+  "download_url": "https://github.com/pkgforge-dev/Clementine-AppImage/releases/download/1.4.1%2B79%2Bg841f3251d-1%402026-08-01_1785586149/Clementine-1.4.1%2B79%2Bg841f3251d-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.clementine_player.Clementine.png"
+}

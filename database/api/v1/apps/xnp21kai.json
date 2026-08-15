@@ -1,0 +1,14 @@
+{
+  "id": "xnp21kai",
+  "name": "Neko Project II kai",
+  "summary": "PC-9821 Emulator IA-32",
+  "icon_name": "np2",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/Neko-Project-II-Kai-AppImage",
+  "version": "0.86.rev.22.230.gcbadd75-1@2026-04-07_1775526753",
+  "download_url": "https://github.com/pkgforge-dev/Neko-Project-II-Kai-AppImage/releases/download/0.86.rev.22.230.gcbadd75-1%402026-04-07_1775526753/Neko_Project_II_kai-0.86.rev.22.230.gcbadd75-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/xnp21kai.svg"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "org.freac.freac",
+  "name": "fre:ac",
+  "summary": "A free audio converter",
+  "icon_name": "org.freac.freac",
+  "categories": [
+    "AudioVideo",
+    "Audio"
+  ],
+  "repo": "pkgforge-dev/freac-AppImage-Enhanced",
+  "version": "1.1.7-2@2026-08-01_1785586167",
+  "download_url": "https://github.com/pkgforge-dev/freac-AppImage-Enhanced/releases/download/1.1.7-2%402026-08-01_1785586167/fre_ac-1.1.7-2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.freac.freac.png"
+}

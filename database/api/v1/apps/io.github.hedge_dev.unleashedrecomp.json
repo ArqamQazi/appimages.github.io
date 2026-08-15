@@ -1,0 +1,13 @@
+{
+  "id": "io.github.hedge_dev.unleashedrecomp",
+  "name": "Unleashed Recompiled",
+  "icon_name": "io.github.hedge_dev.unleashedrecomp",
+  "categories": [
+    "Game"
+  ],
+  "summary": "Static recompilation of Sonic Unleashed.",
+  "repo": "pkgforge-dev/UnleashedRecomp-AppImage",
+  "version": "v1.0.3@2026-07-01_1782904341",
+  "download_url": "https://github.com/pkgforge-dev/UnleashedRecomp-AppImage/releases/download/v1.0.3%402026-07-01_1782904341/Unleashed_Recompiled-v1.0.3-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/io.github.hedge_dev.unleashedrecomp.png"
+}

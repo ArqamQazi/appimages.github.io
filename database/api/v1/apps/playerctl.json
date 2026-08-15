@@ -1,0 +1,12 @@
+{
+  "id": "playerctl",
+  "name": "playerctl",
+  "summary": "Dummy made by quick-sharun",
+  "categories": [
+    "Utility"
+  ],
+  "icon_name": "playerctl",
+  "repo": "pkgforge-dev/playerctl-AppImage",
+  "version": "2.4.1@2026-07-07_1783390136",
+  "download_url": "https://github.com/pkgforge-dev/playerctl-AppImage/releases/download/2.4.1%402026-07-07_1783390136/playerctl-2.4.1-anylinux-x86_64.AppImage"
+}

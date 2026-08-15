@@ -1,0 +1,16 @@
+{
+  "id": "io.github.xiaoyifang.goldendict_ng",
+  "categories": [
+    "Office",
+    "Dictionary",
+    "Education",
+    "Qt"
+  ],
+  "name": "GoldenDict-ng",
+  "summary": "A feature-rich dictionary lookup program",
+  "icon_name": "goldendict",
+  "repo": "pkgforge-dev/GoldenDict-ng-AppImage",
+  "version": "26.6.2-1@2026-08-01_1785586103",
+  "download_url": "https://github.com/pkgforge-dev/GoldenDict-ng-AppImage/releases/download/26.6.2-1%402026-08-01_1785586103/GoldenDict-ng-26.6.2-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/io.github.xiaoyifang.goldendict_ng.png"
+}

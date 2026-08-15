@@ -1,0 +1,14 @@
+{
+  "id": "org.nxengine.nxengine_evo",
+  "name": "Cave Story (NXEngine Evo)",
+  "summary": "Rewrite of the jump-and-run platformer masterpiece Doukutsu Monogatari",
+  "categories": [
+    "Game",
+    "ActionGame"
+  ],
+  "icon_name": "org.nxengine.nxengine_evo",
+  "repo": "pkgforge-dev/NXEngine-evo-AppImage-Enhanced",
+  "version": "2.6.5.1.r76.g1f093d1-1@2026-07-01_1782913522",
+  "download_url": "https://github.com/pkgforge-dev/NXEngine-evo-AppImage-Enhanced/releases/download/2.6.5.1.r76.g1f093d1-1%402026-07-01_1782913522/Cave_Story_NX-evo-2.6.5.1.r76.g1f093d1-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.nxengine.nxengine_evo.png"
+}

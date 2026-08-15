@@ -1,0 +1,15 @@
+{
+  "id": "org.kde.filelight",
+  "name": "Filelight",
+  "icon_name": "filelight",
+  "summary": "Show disk usage and delete unused files",
+  "categories": [
+    "Qt",
+    "KDE",
+    "Utility"
+  ],
+  "repo": "pkgforge-dev/Filelight-AppImage",
+  "version": "26.04.3-1@2026-08-01_1785585621",
+  "download_url": "https://github.com/pkgforge-dev/Filelight-AppImage/releases/download/26.04.3-1%402026-08-01_1785585621/Filelight-26.04.3-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.kde.filelight.png"
+}

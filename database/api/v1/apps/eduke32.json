@@ -1,0 +1,14 @@
+{
+  "id": "eduke32",
+  "name": "EDuke32",
+  "summary": "Advanced Duke Nukem 3D engine",
+  "icon_name": "eduke32",
+  "categories": [
+    "Game",
+    "Shooter"
+  ],
+  "repo": "pkgforge-dev/EDuke32-AppImage",
+  "version": "20260203-10664-ba6b7bb1d@2026-08-01_1785586311",
+  "download_url": "https://github.com/pkgforge-dev/EDuke32-AppImage/releases/download/20260203-10664-ba6b7bb1d%402026-08-01_1785586311/EDuke32-20260203-10664-ba6b7bb1d-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/eduke32.png"
+}

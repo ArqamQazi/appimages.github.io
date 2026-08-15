@@ -1,0 +1,9 @@
+{
+  "id": "wine",
+  "name": "Wine Windows Program Loader",
+  "icon_name": "wine",
+  "repo": "pkgforge-dev/wine-AppImage",
+  "version": "11.15-1@2026-08-10_1786347863",
+  "download_url": "https://github.com/pkgforge-dev/wine-AppImage/releases/download/11.15-1%402026-08-10_1786347863/wine-11.15-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/wine.svg"
+}

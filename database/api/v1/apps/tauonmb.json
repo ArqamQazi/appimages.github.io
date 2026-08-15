@@ -1,0 +1,15 @@
+{
+  "id": "tauonmb",
+  "summary": "Ultra player for your music collection",
+  "name": "Stop",
+  "icon_name": "tauonmb",
+  "categories": [
+    "AudioVideo",
+    "Player",
+    "Audio"
+  ],
+  "repo": "pkgforge-dev/Tauon-AppImage",
+  "version": "11.1.1-1@2026-08-01_1785586294",
+  "download_url": "https://github.com/pkgforge-dev/Tauon-AppImage/releases/download/11.1.1-1%402026-08-01_1785586294/Tauon-11.1.1-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/tauonmb.svg"
+}

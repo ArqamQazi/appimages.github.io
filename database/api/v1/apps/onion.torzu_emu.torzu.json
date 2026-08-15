@@ -1,0 +1,15 @@
+{
+  "id": "onion.torzu_emu.torzu",
+  "name": "torzu",
+  "summary": "Nintendo Switch video game console emulator",
+  "icon_name": "onion.torzu_emu.torzu",
+  "categories": [
+    "Game",
+    "Emulator",
+    "Qt"
+  ],
+  "repo": "pkgforge-dev/Torzu-AppImage",
+  "version": "dee5dca@2025-08-14_1755136039",
+  "download_url": "https://github.com/pkgforge-dev/Torzu-AppImage/releases/download/dee5dca%402025-08-14_1755136039/Torzu-dee5dca-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/onion.torzu_emu.torzu.svg"
+}

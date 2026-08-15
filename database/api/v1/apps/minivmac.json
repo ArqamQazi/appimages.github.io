@@ -1,0 +1,14 @@
+{
+  "id": "minivmac",
+  "name": "Mini vMac",
+  "summary": "A miniature early Macintosh emulator for 68k machines",
+  "icon_name": "minivmac",
+  "categories": [
+    "Emulator",
+    "System"
+  ],
+  "repo": "pkgforge-dev/Mini-vMac-AppImage",
+  "version": "37.03-05129c76@2026-08-01_1785583817",
+  "download_url": "https://github.com/pkgforge-dev/Mini-vMac-AppImage/releases/download/37.03-05129c76%402026-08-01_1785583817/Mini_vMac-37.03-05129c76-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/minivmac.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "dwarffortress",
+  "name": "Dwarf Fortress Legacy",
+  "summary": "A single-player fantasy game.",
+  "icon_name": "dwarffortress",
+  "categories": [
+    "Game",
+    "Strategy"
+  ],
+  "repo": "pkgforge-dev/Dwarf-Fortress-Legacy-AppImage",
+  "version": "0.47.5@2026-04-23_1776916227",
+  "download_url": "https://github.com/pkgforge-dev/Dwarf-Fortress-Legacy-AppImage/releases/download/0.47.5%402026-04-23_1776916227/Dwarf_Fortress_Legacy-0.47.5-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/dwarffortress.png"
+}

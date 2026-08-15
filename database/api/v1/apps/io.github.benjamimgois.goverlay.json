@@ -1,0 +1,13 @@
+{
+  "id": "io.github.benjamimgois.goverlay",
+  "name": "Goverlay",
+  "summary": "Linux gaming tools, made easy",
+  "icon_name": "io.github.benjamimgois.goverlay",
+  "categories": [
+    "Game"
+  ],
+  "repo": "benjamimgois/goverlay",
+  "version": "1.8.11",
+  "download_url": "https://github.com/benjamimgois/goverlay/releases/download/1.8.11/goverlay-1.8.11-x86_64.AppImage",
+  "icon_url": "/database/icons/io.github.benjamimgois.goverlay.png"
+}

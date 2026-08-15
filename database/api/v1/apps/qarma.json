@@ -1,0 +1,12 @@
+{
+  "id": "qarma",
+  "name": "qarma",
+  "summary": "Dummy made by quick-sharun",
+  "categories": [
+    "Utility"
+  ],
+  "icon_name": "qarma",
+  "repo": "pkgforge-dev/qarma-AppImage",
+  "version": "r1.7be1939-1@2026-08-01_1785586223",
+  "download_url": "https://github.com/pkgforge-dev/qarma-AppImage/releases/download/r1.7be1939-1%402026-08-01_1785586223/qarma-r1.7be1939-1-anylinux-x86_64.AppImage"
+}

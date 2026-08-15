@@ -1,0 +1,12 @@
+{
+  "id": "img2pdf",
+  "name": "img2pdf",
+  "summary": "Dummy made by quick-sharun",
+  "categories": [
+    "Utility"
+  ],
+  "icon_name": "img2pdf",
+  "repo": "pkgforge-dev/img2pdf-AppImage",
+  "version": "0.6.3-1@2026-08-01_1785584870",
+  "download_url": "https://github.com/pkgforge-dev/img2pdf-AppImage/releases/download/0.6.3-1%402026-08-01_1785584870/img2pdf-0.6.3-1-anylinux-x86_64.AppImage"
+}

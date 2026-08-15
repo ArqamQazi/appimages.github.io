@@ -1,0 +1,13 @@
+{
+  "id": "srb2-opengl",
+  "name": "Sonic Robo Blast 2 (OpenGL)",
+  "summary": "3D classic Sonic fangame based on Doom Legacy (force OpenGL)",
+  "icon_name": "srb2",
+  "categories": [
+    "Game"
+  ],
+  "repo": "pkgforge-dev/SRB2-AppImage",
+  "version": "2.2.15-1@2026-08-01_1785585163",
+  "download_url": "https://github.com/pkgforge-dev/SRB2-AppImage/releases/download/2.2.15-1%402026-08-01_1785585163/Sonic_Robo_Blast_2-2.2.15-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/srb2-opengl.png"
+}

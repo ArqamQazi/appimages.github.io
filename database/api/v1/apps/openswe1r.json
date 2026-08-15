@@ -1,0 +1,14 @@
+{
+  "id": "openswe1r",
+  "name": "OpenSWE1R",
+  "summary": "\"An Open-Source port of the 1999 Game Star Wars Episode 1: Racer\"",
+  "icon_name": "openswe1r",
+  "categories": [
+    "Game",
+    "Racing"
+  ],
+  "repo": "pkgforge-dev/OpenSWE1R-AppImage",
+  "version": "1fcb4a8e8@2026-07-01_1782914648",
+  "download_url": "https://github.com/pkgforge-dev/OpenSWE1R-AppImage/releases/download/1fcb4a8e8%402026-07-01_1782914648/OpenSWE1R-1fcb4a8e8-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/openswe1r.png"
+}

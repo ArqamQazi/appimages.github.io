@@ -1,0 +1,13 @@
+{
+  "id": "org.purei.Play",
+  "name": "Play!",
+  "icon_name": "org.purei.Play",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/Play-AppImage-Enhanced",
+  "version": "0.77.r5.g50aedca26-1@2026-08-01_1785586188",
+  "download_url": "https://github.com/pkgforge-dev/Play-AppImage-Enhanced/releases/download/0.77.r5.g50aedca26-1%402026-08-01_1785586188/Play.-0.77.r5.g50aedca26-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.purei.Play.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "cursor-agent",
+  "name": "cursor-agent",
+  "summary": "Dummy made by quick-sharun",
+  "categories": [
+    "Utility"
+  ],
+  "icon_name": "cursor-agent",
+  "repo": "pkgforge-dev/cursor-cli-AppImage",
+  "version": "2026.05.24.1.dda726e-1@2026-07-22_1784721360",
+  "download_url": "https://github.com/pkgforge-dev/cursor-cli-AppImage/releases/download/2026.05.24.1.dda726e-1%402026-07-22_1784721360/cursor-agent-2026.05.24.1.dda726e-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/cursor-agent.png"
+}

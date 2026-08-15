@@ -1,0 +1,13 @@
+{
+  "id": "cro-mag-rally",
+  "name": "Cro-Mag Rally",
+  "summary": "The wildest racing game since man invented the wheel!",
+  "icon_name": "cro-mag-rally",
+  "categories": [
+    "Game"
+  ],
+  "repo": "pkgforge-dev/CroMagRally-AppImage-Enhanced",
+  "version": "3.0.1-2@2026-08-01_1785584874",
+  "download_url": "https://github.com/pkgforge-dev/CroMagRally-AppImage-Enhanced/releases/download/3.0.1-2%402026-08-01_1785584874/Cro-Mag_Rally-3.0.1-2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/cro-mag-rally.png"
+}

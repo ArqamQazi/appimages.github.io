@@ -1,20 +1,2606 @@
 [
   {
+    "id": "12to11",
+    "name": "12to11",
+    "summary": "Dummy made by quick-sharun",
+    "icon_url": null
+  },
+  {
     "id": "net.86box.86Box",
     "name": "86Box",
     "summary": "An emulator for classic IBM PC clones",
     "icon_url": "/database/icons/net.86box.86Box.png"
   },
   {
-    "id": "com.rtosta.zapzap",
-    "name": "ZapZap",
-    "summary": "WhatsApp Desktop for Linux",
-    "icon_url": "/database/icons/com.rtosta.zapzap.svg"
+    "id": "aaaaxy",
+    "name": "AAAAXY",
+    "summary": "A nonlinear puzzle platformer taking place in impossible spaces.",
+    "icon_url": "/database/icons/aaaaxy.svg"
+  },
+  {
+    "id": "flashplayer-standalone",
+    "name": "Adobe Flash Player Standalone",
+    "summary": "Player for using content created on the Adobe Flash platform",
+    "icon_url": "/database/icons/flashplayer-standalone.svg"
+  },
+  {
+    "id": "abaddon",
+    "name": "abaddon",
+    "summary": "Alternative Discord client using GTK instead of Electron",
+    "icon_url": "/database/icons/abaddon.svg"
+  },
+  {
+    "id": "io.github.elasota.aerofoil",
+    "name": "Aerofoil",
+    "summary": "A modern port of Glider PRO, the classic Macintosh paper airplane game",
+    "icon_url": "/database/icons/io.github.elasota.aerofoil.svg"
+  },
+  {
+    "id": "akhenaten",
+    "name": "Akhenaten",
+    "summary": "Open Source re-implementation of Pharaoh.",
+    "icon_url": "/database/icons/akhenaten.png"
+  },
+  {
+    "id": "Alacritty",
+    "name": "New Terminal",
+    "summary": "A fast, cross-platform, OpenGL terminal emulator",
+    "icon_url": "/database/icons/Alacritty.svg"
+  },
+  {
+    "id": "org.kde.amarok",
+    "name": "Amarok",
+    "summary": "Amarok - Rediscover Your Music!",
+    "icon_url": "/database/icons/org.kde.amarok.svg"
+  },
+  {
+    "id": "Amiberry",
+    "name": "Amiberry",
+    "summary": "Optimized Amiga Emulator",
+    "icon_url": "/database/icons/Amiberry.png"
+  },
+  {
+    "id": "adb",
+    "name": "adb",
+    "summary": "Dummy made by quick-sharun",
+    "icon_url": "/database/icons/adb.png"
+  },
+  {
+    "id": "android-translation-layer",
+    "name": "Android Translation Layer",
+    "summary": "A translation layer that allows running Android apps on a Linux system",
+    "icon_url": "/database/icons/android-translation-layer.svg"
+  },
+  {
+    "id": "anki",
+    "name": "Anki",
+    "summary": "An intelligent spaced-repetition memory training program",
+    "icon_url": "/database/icons/anki.png"
+  },
+  {
+    "id": "antigravity",
+    "name": "Antigravity",
+    "summary": "Experience liftoff",
+    "icon_url": "/database/icons/antigravity.png"
+  },
+  {
+    "id": "antigravity-ide",
+    "name": "New Empty Window",
+    "summary": "Experience liftoff",
+    "icon_url": "/database/icons/antigravity-ide.png"
+  },
+  {
+    "id": "ares",
+    "name": "ares",
+    "summary": "Emulator",
+    "icon_url": "/database/icons/ares.png"
+  },
+  {
+    "id": "arx-libertatis",
+    "name": "Arx Libertatis",
+    "summary": "Cross-platform port of Arx Fatalis, a first-person role-playing game",
+    "icon_url": "/database/icons/arx-libertatis.png"
+  },
+  {
+    "id": "asphyxia-core",
+    "name": "asphyxia-core",
+    "summary": "Dummy made by quick-sharun",
+    "icon_url": "/database/icons/asphyxia-core.png"
+  },
+  {
+    "id": "asunder",
+    "name": "Asunder CD Ripper",
+    "summary": "An application to save tracks from an Audio CD as WAV, MP3, OGG, FLAC, AAC, Opus, Musepack and/or Wavpack.",
+    "icon_url": "/database/icons/asunder.svg"
+  },
+  {
+    "id": "audacious",
+    "name": "Audacious",
+    "summary": "Listen to music",
+    "icon_url": "/database/icons/audacious.svg"
+  },
+  {
+    "id": "audacity",
+    "name": "Audacity",
+    "summary": "Record and edit audio files",
+    "icon_url": "/database/icons/audacity.svg"
+  },
+  {
+    "id": "de.haeckerfelix.AudioSharing",
+    "name": "Audio Sharing",
+    "summary": "",
+    "icon_url": "/database/icons/de.haeckerfelix.AudioSharing.svg"
+  },
+  {
+    "id": "com.github.keriew.augustus",
+    "name": "Augustus",
+    "summary": "Open Source re-implementation of Caesar 3.",
+    "icon_url": "/database/icons/com.github.keriew.augustus.png"
+  },
+  {
+    "id": "com.belmoussaoui.Authenticator",
+    "name": "Authenticator",
+    "summary": "Generate two-factor codes",
+    "icon_url": "/database/icons/com.belmoussaoui.Authenticator.svg"
+  },
+  {
+    "id": "awakened-poe-trade",
+    "name": "Awakened PoE Trade",
+    "summary": "",
+    "icon_url": "/database/icons/awakened-poe-trade.png"
+  },
+  {
+    "id": "org.azahar_emu.Azahar",
+    "name": "Azahar",
+    "summary": "Nintendo 3DS video game console emulator",
+    "icon_url": "/database/icons/org.azahar_emu.Azahar.png"
+  },
+  {
+    "id": "banjorecomp",
+    "name": "Banjo Recompiled",
+    "summary": "Static recompilation of Banjo-Kazooie for PC.",
+    "icon_url": "/database/icons/banjorecomp.png"
+  },
+  {
+    "id": "BasiliskII",
+    "name": "Start BasiliskII (opengl)",
+    "summary": "Open source classic 68k Mac OS emulator",
+    "icon_url": "/database/icons/BasiliskII.png"
+  },
+  {
+    "id": "BetterMediaInfo",
+    "name": "BetterMediaInfo",
+    "summary": "BetterMediaInfo is a better GUI for MediaInfo",
+    "icon_url": "/database/icons/BetterMediaInfo.png"
+  },
+  {
+    "id": "info.bibletime.BibleTime",
+    "name": "BibleTime 3.2.0-dirty",
+    "summary": "An easy to use bible study tool",
+    "icon_url": "/database/icons/info.bibletime.BibleTime.svg"
+  },
+  {
+    "id": "bigpemu",
+    "name": "BigPEmu",
+    "summary": "",
+    "icon_url": "/database/icons/bigpemu.png"
+  },
+  {
+    "id": "com.bitwarden",
+    "name": "Bitwarden",
+    "summary": "A secure and free password manager for all of your devices.",
+    "icon_url": "/database/icons/com.bitwarden.png"
+  },
+  {
+    "id": "blender",
+    "name": "Blender",
+    "summary": "3D modeling, animation, rendering and post-production",
+    "icon_url": "/database/icons/blender.svg"
+  },
+  {
+    "id": "bm64recomp",
+    "name": "Bomberman 64 Recompiled",
+    "summary": "Static recompilation of Bomberman 64 for PC.",
+    "icon_url": "/database/icons/bm64recomp.png"
+  },
+  {
+    "id": "bmherorecomp",
+    "name": "Bomberman Hero Recompiled",
+    "summary": "Static recompilation of Bomberman Hero for PC.",
+    "icon_url": "/database/icons/bmherorecomp.png"
+  },
+  {
+    "id": "brave-origin",
+    "name": "New Incognito Window",
+    "summary": "Access the Internet",
+    "icon_url": "/database/icons/brave-origin.png"
+  },
+  {
+    "id": "bulky",
+    "name": "File Renamer",
+    "summary": "Rename files and directories",
+    "icon_url": "/database/icons/bulky.svg"
+  },
+  {
+    "id": "cannonball",
+    "name": "CannonBall",
+    "summary": "",
+    "icon_url": "/database/icons/cannonball.png"
+  },
+  {
+    "id": "page.kramo.Cartridges",
+    "name": "Cartridges",
+    "summary": "Launch all your games",
+    "icon_url": "/database/icons/page.kramo.Cartridges.svg"
+  },
+  {
+    "id": "CatacombGL",
+    "name": "CatacombGL",
+    "summary": "\"A source port with OpenGL graphics for Catacomb 3D (1991), The Catacomb Abyss (1992), The Catacomb Armageddon (1992) and The Catacomb Apocalypse (1993)\"",
+    "icon_url": "/database/icons/CatacombGL.png"
+  },
+  {
+    "id": "org.xfce.Catfish",
+    "name": "Catfish File Search",
+    "summary": "Search the file system",
+    "icon_url": "/database/icons/org.xfce.Catfish.svg"
+  },
+  {
+    "id": "io.github.cxong.cdogs-sdl",
+    "name": "C-Dogs SDL",
+    "summary": "Classic overhead run-and-gun game",
+    "icon_url": "/database/icons/io.github.cxong.cdogs-sdl.png"
+  },
+  {
+    "id": "Cemu",
+    "name": "Cemu",
+    "summary": "Software to emulate Wii U games and applications on PC",
+    "icon_url": "/database/icons/Cemu.png"
+  },
+  {
+    "id": "io.github.diegopvlk.Cine",
+    "name": "New Window",
+    "summary": "Play your videos",
+    "icon_url": "/database/icons/io.github.diegopvlk.Cine.svg"
+  },
+  {
+    "id": "com.github.rafostar.Clapper",
+    "name": "New Window",
+    "summary": "Play videos and music",
+    "icon_url": "/database/icons/com.github.rafostar.Clapper.svg"
+  },
+  {
+    "id": "classicimageviewer",
+    "name": "ClassicImageViewer",
+    "summary": "Simple image viewer with some editing features.",
+    "icon_url": "/database/icons/classicimageviewer.png"
+  },
+  {
+    "id": "classicube",
+    "name": "ClassiCube",
+    "summary": "A game based on the original Minecraft Classic.",
+    "icon_url": "/database/icons/classicube.png"
+  },
+  {
+    "id": "claude",
+    "name": "claude",
+    "summary": "Dummy made by quick-sharun",
+    "icon_url": "/database/icons/claude.png"
+  },
+  {
+    "id": "com.anthropic.Claude",
+    "name": "New Claude Code session",
+    "summary": "Desktop application for Claude.ai",
+    "icon_url": "/database/icons/com.anthropic.Claude.png"
+  },
+  {
+    "id": "claws-mail",
+    "name": "Import mbox file...",
+    "summary": "Lightweight and Fast GTK based Mail Client",
+    "icon_url": "/database/icons/claws-mail.png"
+  },
+  {
+    "id": "org.clementine_player.Clementine",
+    "name": "Next",
+    "summary": "Plays music and last.fm streams",
+    "icon_url": "/database/icons/org.clementine_player.Clementine.png"
+  },
+  {
+    "id": "clksignal",
+    "name": "Clock Signal",
+    "summary": "\"A latency-hating emulator for 8 and 16 bit platforms\"",
+    "icon_url": "/database/icons/clksignal.png"
+  },
+  {
+    "id": "clonehero",
+    "name": "Clone Hero",
+    "summary": "A clone of Guitar Hero and Rockband-like games",
+    "icon_url": "/database/icons/clonehero.png"
+  },
+  {
+    "id": "com.clownacy.clownmdemu",
+    "name": "ClownMDEmu",
+    "summary": "",
+    "icon_url": "/database/icons/com.clownacy.clownmdemu.svg"
+  },
+  {
+    "id": "com.collaboraoffice.Office",
+    "name": "Drawing",
+    "summary": "Launch applications to create text documents, spreadsheets, presentations, drawings, or open recently used documents.",
+    "icon_url": "/database/icons/com.collaboraoffice.Office.png"
+  },
+  {
+    "id": "dev.geopjr.Collision",
+    "name": "Collision",
+    "summary": "Check hashes for your files",
+    "icon_url": "/database/icons/dev.geopjr.Collision.svg"
+  },
+  {
+    "id": "cgenius",
+    "name": "Commander Genius",
+    "summary": "Play natively Commander Keen Games",
+    "icon_url": "/database/icons/cgenius.svg"
+  },
+  {
+    "id": "io.github.wartybix.Constrict",
+    "name": "New Window",
+    "summary": "Compress videos to target sizes",
+    "icon_url": "/database/icons/io.github.wartybix.Constrict.svg"
+  },
+  {
+    "id": "org.contourterminal.Contour",
+    "name": "Open a New Window",
+    "summary": "Command line access",
+    "icon_url": "/database/icons/org.contourterminal.Contour.png"
+  },
+  {
+    "id": "com.github.hluk.copyq",
+    "name": "CopyQ",
+    "summary": "A cut & paste history utility",
+    "icon_url": "/database/icons/com.github.hluk.copyq.png"
+  },
+  {
+    "id": "com.corsixth.corsixth",
+    "name": "CorsixTH",
+    "summary": "Open source clone of Theme Hospital",
+    "icon_url": "/database/icons/com.corsixth.corsixth.svg"
+  },
+  {
+    "id": "io.github.fabiangreffrath.Doom",
+    "name": "Crispy Doom",
+    "summary": "Limit-removing enhanced-resolution Doom source port",
+    "icon_url": "/database/icons/io.github.fabiangreffrath.Doom.png"
+  },
+  {
+    "id": "cro-mag-rally",
+    "name": "Cro-Mag Rally",
+    "summary": "The wildest racing game since man invented the wheel!",
+    "icon_url": "/database/icons/cro-mag-rally.png"
+  },
+  {
+    "id": "Cromite",
+    "name": "Open a New Private Window",
+    "summary": "",
+    "icon_url": "/database/icons/Cromite.png"
+  },
+  {
+    "id": "cuberite",
+    "name": "Cuberite",
+    "summary": "",
+    "icon_url": "/database/icons/cuberite.png"
+  },
+  {
+    "id": "cubyz",
+    "name": "Cubyz",
+    "summary": "Open source voxel sandbox game",
+    "icon_url": "/database/icons/cubyz.png"
+  },
+  {
+    "id": "cursor",
+    "name": "New Empty Window",
+    "summary": "The AI Code Editor.",
+    "icon_url": "/database/icons/cursor.png"
+  },
+  {
+    "id": "cursor-agent",
+    "name": "cursor-agent",
+    "summary": "Dummy made by quick-sharun",
+    "icon_url": "/database/icons/cursor-agent.png"
+  },
+  {
+    "id": "d1x-rebirth",
+    "name": "D1X-Rebirth",
+    "summary": "DXX-Rebirth source port of Descent: First Strike (1995)",
+    "icon_url": "/database/icons/d1x-rebirth.svg"
+  },
+  {
+    "id": "d2x-rebirth",
+    "name": "Descent 2",
+    "summary": "DXX-Rebirth source port of Descent 2: Counterstrike from 1996...",
+    "icon_url": "/database/icons/d2x-rebirth.svg"
+  },
+  {
+    "id": "daggerfall",
+    "name": "Daggerfall",
+    "summary": "",
+    "icon_url": "/database/icons/daggerfall.png"
+  },
+  {
+    "id": "darkplaces-git",
+    "name": "Darkplaces",
+    "summary": "Play Quake with the Darkplaces engine",
+    "icon_url": "/database/icons/darkplaces-git.png"
+  },
+  {
+    "id": "deadbeef",
+    "name": "Prev",
+    "summary": "Listen to music",
+    "icon_url": "/database/icons/deadbeef.svg"
+  },
+  {
+    "id": "deepin-calculator",
+    "name": "Deepin Calculator",
+    "summary": "Calculator",
+    "icon_url": "/database/icons/deepin-calculator.svg"
+  },
+  {
+    "id": "Defold",
+    "name": "Defold",
+    "summary": "Defold is a completely free to use game engine for development of desktop, mobile and web games.",
+    "icon_url": "/database/icons/Defold.png"
+  },
+  {
+    "id": "denise",
+    "name": "Denise",
+    "summary": "Commodore 64 and Amiga Emulator",
+    "icon_url": "/database/icons/denise.png"
+  },
+  {
+    "id": "org.desmume.DeSmuME",
+    "name": "DeSmuME (Gtk)",
+    "summary": "Nintento DS emulator",
+    "icon_url": "/database/icons/org.desmume.DeSmuME.svg"
+  },
+  {
+    "id": "dethrace",
+    "name": "dethrace",
+    "summary": "Reverse engineering the 1997 game \"Carmageddon\"",
+    "icon_url": "/database/icons/dethrace.png"
+  },
+  {
+    "id": "devilutionx",
+    "name": "DevilutionX",
+    "summary": "Play Diablo I",
+    "icon_url": "/database/icons/devilutionx.png"
+  },
+  {
+    "id": "org.dhewm3.Dhewm3",
+    "name": "Dhewm3",
+    "summary": "dhewm 3 is a Doom 3 GPL source port",
+    "icon_url": "/database/icons/org.dhewm3.Dhewm3.svg"
+  },
+  {
+    "id": "eu.qtrac.diffpdf",
+    "name": "DiffPDF",
+    "summary": "DiffPDF is used to compare two PDF files.",
+    "icon_url": "/database/icons/eu.qtrac.diffpdf.png"
+  },
+  {
+    "id": "dillo",
+    "name": "Dillo",
+    "summary": "Fast and small graphical web browser",
+    "icon_url": "/database/icons/dillo.png"
+  },
+  {
+    "id": "discord",
+    "name": "Discord",
+    "summary": "All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.",
+    "icon_url": "/database/icons/discord.png"
+  },
+  {
+    "id": "dnzhrecomp",
+    "name": "DNZH Recompiled",
+    "summary": "A native port of Duke Nukem Zero Hour, statically recompiled",
+    "icon_url": "/database/icons/dnzhrecomp.png"
+  },
+  {
+    "id": "dolphin-emu",
+    "name": "Dolphin Emulator",
+    "summary": "A Wii/GameCube Emulator",
+    "icon_url": "/database/icons/dolphin-emu.png"
+  },
+  {
+    "id": "DOOM64EXUltra",
+    "name": "DOOM64EXUltra",
+    "summary": "\"A fork of DOOM64EX+ with new stuff and fixes\"",
+    "icon_url": "/database/icons/DOOM64EXUltra.png"
+  },
+  {
+    "id": "Dorion",
+    "name": "Dorion",
+    "summary": "",
+    "icon_url": "/database/icons/Dorion.png"
+  },
+  {
+    "id": "com.dosbox_x.DOSBox-X",
+    "name": "DOSBox-X",
+    "summary": "An enhanced x86/DOS emulator with sound/graphics",
+    "icon_url": "/database/icons/com.dosbox_x.DOSBox-X.svg"
+  },
+  {
+    "id": "dosboxpure",
+    "name": "DOSBox Pure Unleashed",
+    "summary": "DOSBox reimagined with a friendly interface ZIP loading and save states",
+    "icon_url": "/database/icons/dosboxpure.png"
+  },
+  {
+    "id": "org.kartkrew.RingRacers",
+    "name": "Dr. Robotnik's Ring Racers",
+    "summary": "This is Racing at the Next Level",
+    "icon_url": "/database/icons/org.kartkrew.RingRacers.png"
+  },
+  {
+    "id": "drally",
+    "name": "dRally",
+    "summary": "\"A port of Death Rally (1996)\"",
+    "icon_url": "/database/icons/drally.png"
+  },
+  {
+    "id": "dreamm",
+    "name": "DREAMM",
+    "summary": "",
+    "icon_url": "/database/icons/dreamm.png"
+  },
+  {
+    "id": "io.github.revisto.drum-machine",
+    "name": "Drum Machine",
+    "summary": "",
+    "icon_url": "/database/icons/io.github.revisto.drum-machine.svg"
+  },
+  {
+    "id": "duckstation",
+    "name": "DuckStation",
+    "summary": "PlayStation emulator",
+    "icon_url": "/database/icons/duckstation.png"
+  },
+  {
+    "id": "dunst",
+    "name": "dunst",
+    "summary": "Dummy made by quick-sharun",
+    "icon_url": null
+  },
+  {
+    "id": "dwarffortress",
+    "name": "Dwarf Fortress",
+    "summary": "A single-player fantasy game.",
+    "icon_url": "/database/icons/dwarffortress.png"
+  },
+  {
+    "id": "dwarffortress",
+    "name": "Dwarf Fortress Legacy",
+    "summary": "A single-player fantasy game.",
+    "icon_url": "/database/icons/dwarffortress.png"
+  },
+  {
+    "id": "easytag",
+    "name": "EasyTAG",
+    "summary": "Edit audio file metadata",
+    "icon_url": "/database/icons/easytag.png"
+  },
+  {
+    "id": "net.maniacsvault.ecwolf",
+    "name": "ECWolf",
+    "summary": "\"Advanced source port for Wolfenstein 3D engine games\"",
+    "icon_url": "/database/icons/net.maniacsvault.ecwolf.png"
+  },
+  {
+    "id": "eduke32",
+    "name": "EDuke32",
+    "summary": "Advanced Duke Nukem 3D engine",
+    "icon_url": "/database/icons/eduke32.png"
+  },
+  {
+    "id": "app.drey.Elastic",
+    "name": "Elastic",
+    "summary": "Design spring animations",
+    "icon_url": "/database/icons/app.drey.Elastic.svg"
+  },
+  {
+    "id": "io.element.Element",
+    "name": "Element",
+    "summary": "Feature-rich client for Matrix",
+    "icon_url": "/database/icons/io.element.Element.png"
+  },
+  {
+    "id": "epsxe",
+    "name": "ePSXe",
+    "summary": "Enhanced PSX emulator",
+    "icon_url": "/database/icons/epsxe.png"
+  },
+  {
+    "id": "com.etlegacy.ETLegacy.x86_64",
+    "name": "ET: Legacy (x86 64-bit)",
+    "summary": "World War II first-person shooter",
+    "icon_url": "/database/icons/com.etlegacy.ETLegacy.x86_64.svg"
+  },
+  {
+    "id": "com.mattjakeman.ExtensionManager",
+    "name": "Extension Manager",
+    "summary": "Manage GNOME Shell Extensions",
+    "icon_url": "/database/icons/com.mattjakeman.ExtensionManager.svg"
+  },
+  {
+    "id": "net.sourceforge.extremetuxracer",
+    "name": "Extreme Tux Racer",
+    "summary": "Race a penguin down a mountain",
+    "icon_url": "/database/icons/net.sourceforge.extremetuxracer.png"
+  },
+  {
+    "id": "info.exult.exult",
+    "name": "Exult",
+    "summary": "Exult Ultima VII Engine",
+    "icon_url": "/database/icons/info.exult.exult.svg"
+  },
+  {
+    "id": "com.github.finefindus.eyedropper",
+    "name": "Eyedropper",
+    "summary": "Pick and format colors",
+    "icon_url": "/database/icons/com.github.finefindus.eyedropper.svg"
+  },
+  {
+    "id": "fabother-world",
+    "name": "Fabother World",
+    "summary": "Another World (Out Of This World) interpreter",
+    "icon_url": "/database/icons/fabother-world.png"
+  },
+  {
+    "id": "featherpad",
+    "name": "Standalone Window",
+    "summary": "Lightweight Qt text editor",
+    "icon_url": "/database/icons/featherpad.svg"
+  },
+  {
+    "id": "ffmpeg",
+    "name": "ffmpeg",
+    "summary": "Dummy made by quick-sharun",
+    "icon_url": "/database/icons/ffmpeg.png"
+  },
+  {
+    "id": "org.kde.filelight",
+    "name": "Filelight",
+    "summary": "Show disk usage and delete unused files",
+    "icon_url": "/database/icons/org.kde.filelight.png"
+  },
+  {
+    "id": "flacon",
+    "name": "Flacon",
+    "summary": "Extracts audio tracks from an audio CD image to separate tracks.",
+    "icon_url": "/database/icons/flacon.svg"
+  },
+  {
+    "id": "flashrom",
+    "name": "flashrom",
+    "summary": "Dummy made by quick-sharun",
+    "icon_url": "/database/icons/flashrom.png"
+  },
+  {
+    "id": "flycast",
+    "name": "Flycast",
+    "summary": "Play your favourite Dreamcast games on your PC",
+    "icon_url": "/database/icons/flycast.png"
+  },
+  {
+    "id": "foobillardplus",
+    "name": "Foobillard++",
+    "summary": "OpenGL Billiard Game",
+    "icon_url": "/database/icons/foobillardplus.png"
+  },
+  {
+    "id": "foot",
+    "name": "Foot",
+    "summary": "A wayland native terminal emulator",
+    "icon_url": "/database/icons/foot.svg"
+  },
+  {
+    "id": "org.fooyin.fooyin",
+    "name": "fooyin",
+    "summary": "Manages and plays your local music collection",
+    "icon_url": "/database/icons/org.fooyin.fooyin.svg"
+  },
+  {
+    "id": "org.freac.freac",
+    "name": "fre:ac",
+    "summary": "A free audio converter",
+    "icon_url": "/database/icons/org.freac.freac.png"
+  },
+  {
+    "id": "freetube",
+    "name": "FreeTube",
+    "summary": "A private YouTube client",
+    "icon_url": "/database/icons/freetube.svg"
+  },
+  {
+    "id": "dev.bragefuglseth.Fretboard",
+    "name": "Fretboard",
+    "summary": "Look up guitar chords",
+    "icon_url": "/database/icons/dev.bragefuglseth.Fretboard.svg"
+  },
+  {
+    "id": "galculator",
+    "name": "Galculator",
+    "summary": "Perform simple and scientific calculations",
+    "icon_url": "/database/icons/galculator.svg"
+  },
+  {
+    "id": "gamescope",
+    "name": "gamescope",
+    "summary": "Dummy made by quick-sharun",
+    "icon_url": null
+  },
+  {
+    "id": "com.github.neithern.g4music",
+    "name": "Gapless",
+    "summary": "Play your music elegantly",
+    "icon_url": "/database/icons/com.github.neithern.g4music.svg"
+  },
+  {
+    "id": "br.gov.fazenda.receita.gcap2025",
+    "name": "GCAP 2025",
+    "summary": "Declare seus ganhos de capital (Ano-calend\u00e1rio 2025)",
+    "icon_url": "/database/icons/br.gov.fazenda.receita.gcap2025.png"
+  },
+  {
+    "id": "br.gov.fazenda.receita.gcap2026",
+    "name": "GCAP 2026",
+    "summary": "Declare seus ganhos de capital (Ano-calend\u00e1rio 2026)",
+    "icon_url": "/database/icons/br.gov.fazenda.receita.gcap2026.png"
+  },
+  {
+    "id": "gcstar",
+    "name": "GCstar Collections Manager",
+    "summary": "Manage your collections of movies, games, books, music and more",
+    "icon_url": "/database/icons/gcstar.png"
+  },
+  {
+    "id": "it.mijorus.gearlever",
+    "name": "Gear Lever",
+    "summary": "An utility to manage AppImages with ease!",
+    "icon_url": "/database/icons/it.mijorus.gearlever.svg"
+  },
+  {
+    "id": "gearboy",
+    "name": "Gearboy",
+    "summary": "\"Game Boy, Gameboy Color emulator\"",
+    "icon_url": "/database/icons/gearboy.png"
+  },
+  {
+    "id": "gearecoleco",
+    "name": "Gearcoleco",
+    "summary": "\"ColecoVision emulator\"",
+    "icon_url": "/database/icons/gearecoleco.png"
+  },
+  {
+    "id": "geargrafx",
+    "name": "Geargrafx",
+    "summary": "\"PC Engine, TurboGrafx-16, SuperGrafx, PCE CD-ROM2 emulator\"",
+    "icon_url": "/database/icons/geargrafx.png"
+  },
+  {
+    "id": "gearlynx",
+    "name": "Gearlynx",
+    "summary": "Atari Lynx emulator",
+    "icon_url": "/database/icons/gearlynx.png"
+  },
+  {
+    "id": "gearsystem",
+    "name": "Gearsystem",
+    "summary": "\"Sega Master System, Game Gear, SG-1000 emulator\"",
+    "icon_url": "/database/icons/gearsystem.png"
+  },
+  {
+    "id": "gs",
+    "name": "gs",
+    "summary": "Dummy made by quick-sharun",
+    "icon_url": "/database/icons/gs.png"
+  },
+  {
+    "id": "ghostship",
+    "name": "Ghostship",
+    "summary": "A yet another definitive unofficial port of Super Mario 64",
+    "icon_url": "/database/icons/ghostship.png"
+  },
+  {
+    "id": "com.mitchellh.ghostty",
+    "name": "New Window",
+    "summary": "A terminal emulator",
+    "icon_url": "/database/icons/com.mitchellh.ghostty.png"
+  },
+  {
+    "id": "gimagereader-qt6",
+    "name": "gImageReader",
+    "summary": "",
+    "icon_url": "/database/icons/gimagereader-qt6.png"
+  },
+  {
+    "id": "gimp",
+    "name": "GNU Image Manipulation Program",
+    "summary": "Create images and edit photographs",
+    "icon_url": "/database/icons/gimp.png"
+  },
+  {
+    "id": "desktop-plus",
+    "name": "Desktop Plus",
+    "summary": "GitHub Desktop fork with advanced functionality and improvements.",
+    "icon_url": "/database/icons/desktop-plus.png"
+  },
+  {
+    "id": "org.gnome.Calculator",
+    "name": "Calculator",
+    "summary": "Perform arithmetic, scientific or financial calculations",
+    "icon_url": "/database/icons/org.gnome.Calculator.svg"
+  },
+  {
+    "id": "org.gnome.Pomodoro",
+    "name": "Pomodoro",
+    "summary": "A simple time management utility",
+    "icon_url": "/database/icons/org.gnome.Pomodoro.png"
+  },
+  {
+    "id": "org.gnome.SystemMonitor",
+    "name": "System Monitor",
+    "summary": "View current processes and monitor system state",
+    "icon_url": "/database/icons/org.gnome.SystemMonitor.svg"
+  },
+  {
+    "id": "org.gnome.TextEditor",
+    "name": "New Window",
+    "summary": "View and edit text files",
+    "icon_url": "/database/icons/org.gnome.TextEditor.svg"
+  },
+  {
+    "id": "org.gnome.Epiphany",
+    "name": "New Incognito Window",
+    "summary": "Browse the web",
+    "icon_url": "/database/icons/org.gnome.Epiphany.svg"
+  },
+  {
+    "id": "freedink",
+    "name": "DFArc Mod Manager",
+    "summary": "Humorous top-down adventure & role-playing game",
+    "icon_url": "/database/icons/freedink.svg"
+  },
+  {
+    "id": "org.octave.Octave",
+    "name": "GNU Octave",
+    "summary": "Interactive programming environment for numerical computations",
+    "icon_url": "/database/icons/org.octave.Octave.png"
+  },
+  {
+    "id": "org.godotengine.Godot",
+    "name": "Godot Engine",
+    "summary": "Multi-platform 2D and 3D game engine with a feature-rich editor",
+    "icon_url": "/database/icons/org.godotengine.Godot.svg"
+  },
+  {
+    "id": "io.github.xiaoyifang.goldendict_ng",
+    "name": "GoldenDict-ng",
+    "summary": "A feature-rich dictionary lookup program",
+    "icon_url": "/database/icons/io.github.xiaoyifang.goldendict_ng.png"
+  },
+  {
+    "id": "io.github.gopher64.gopher64",
+    "name": "Gopher64",
+    "summary": "A highly compatible N64 emulator, built-in netplay",
+    "icon_url": "/database/icons/io.github.gopher64.gopher64.png"
+  },
+  {
+    "id": "gpodder",
+    "name": "gPodder",
+    "summary": "Subscribe to audio and video content from the web",
+    "icon_url": "/database/icons/gpodder.svg"
+  },
+  {
+    "id": "com.dec05eba.gpu_screen_recorder",
+    "name": "GPU Screen Recorder",
+    "summary": "A gpu based screen recorder / streaming program",
+    "icon_url": "/database/icons/com.dec05eba.gpu_screen_recorder.png"
+  },
+  {
+    "id": "be.alexandervanhee.gradia",
+    "name": "Take Fullscreen Screenshot",
+    "summary": "Make your images ready for the world",
+    "icon_url": "/database/icons/be.alexandervanhee.gradia.svg"
+  },
+  {
+    "id": "gram",
+    "name": "Open a new workspace",
+    "summary": "A code editor for humanoid apes and grumpy toads",
+    "icon_url": "/database/icons/gram.svg"
+  },
+  {
+    "id": "se.sjoerd.Graphs",
+    "name": "Style Editor",
+    "summary": "",
+    "icon_url": "/database/icons/se.sjoerd.Graphs.svg"
+  },
+  {
+    "id": "org.gnome.gThumb",
+    "name": "New Window",
+    "summary": "View and organize your images",
+    "icon_url": "/database/icons/org.gnome.gThumb.png"
+  },
+  {
+    "id": "org.kde.gwenview",
+    "name": "Gwenview",
+    "summary": "A simple image viewer",
+    "icon_url": "/database/icons/org.kde.gwenview.png"
+  },
+  {
+    "id": "org.kde.haruna",
+    "name": "Haruna",
+    "summary": "Open source media player built with Qt/QML and libmpv",
+    "icon_url": "/database/icons/org.kde.haruna.png"
+  },
+  {
+    "id": "hatari",
+    "name": "Hatari",
+    "summary": "Emulator for Atari ST/STE/TT/Falcon computers",
+    "icon_url": "/database/icons/hatari.svg"
+  },
+  {
+    "id": "helium",
+    "name": "New Incognito Window",
+    "summary": "Access the Internet",
+    "icon_url": "/database/icons/helium.png"
+  },
+  {
+    "id": "hp15c",
+    "name": "HP-15C",
+    "summary": "HEWLETT-PACKARD 15C Simulator",
+    "icon_url": "/database/icons/hp15c.png"
+  },
+  {
+    "id": "htop",
+    "name": "Htop",
+    "summary": "Show System Processes",
+    "icon_url": "/database/icons/htop.png"
+  },
+  {
+    "id": "org.gnome.gitlab.YaLTeR.Identity",
+    "name": "Identity",
+    "summary": "Compare images and videos",
+    "icon_url": "/database/icons/org.gnome.gitlab.YaLTeR.Identity.svg"
+  },
+  {
+    "id": "iloader",
+    "name": "iloader",
+    "summary": "User-friendly sideloader",
+    "icon_url": "/database/icons/iloader.png"
+  },
+  {
+    "id": "imagemagick",
+    "name": "ImageMagick",
+    "summary": "Create, edit, compose, or convert bitmap images",
+    "icon_url": "/database/icons/imagemagick.png"
+  },
+  {
+    "id": "img2pdf",
+    "name": "img2pdf",
+    "summary": "Dummy made by quick-sharun",
+    "icon_url": null
+  },
+  {
+    "id": "io.gitlab.adhami3310.Impression",
+    "name": "Impression",
+    "summary": "Create bootable drives",
+    "icon_url": "/database/icons/io.gitlab.adhami3310.Impression.svg"
+  },
+  {
+    "id": "innoextract",
+    "name": "innoextract",
+    "summary": "\"A tool to extract installers created by Inno Setup\"",
+    "icon_url": "/database/icons/innoextract.png"
+  },
+  {
+    "id": "ioquake3",
+    "name": "Quake III Arena",
+    "summary": "ioQuake3 - Quake III Open Source Engine",
+    "icon_url": "/database/icons/ioquake3.svg"
+  },
+  {
+    "id": "iris-emu",
+    "name": "Iris",
+    "summary": "Experimental PlayStation 2 Emulator",
+    "icon_url": "/database/icons/iris-emu.png"
+  },
+  {
+    "id": "br.gov.fazenda.receita.irpf2025",
+    "name": "IRPF 2025",
+    "summary": "Declare seu imposto de renda (Ano-calend\u00e1rio 2024)",
+    "icon_url": "/database/icons/br.gov.fazenda.receita.irpf2025.png"
+  },
+  {
+    "id": "br.gov.fazenda.receita.irpf2026",
+    "name": "IRPF 2026",
+    "summary": "Declare seu imposto de renda (Ano-calend\u00e1rio 2025)",
+    "icon_url": "/database/icons/br.gov.fazenda.receita.irpf2026.png"
+  },
+  {
+    "id": "org.legoisland.Isle",
+    "name": "Configure Settings",
+    "summary": "Portable version of the LEGO Island Decompilation Project",
+    "icon_url": "/database/icons/org.legoisland.Isle.svg"
+  },
+  {
+    "id": "itgmania",
+    "name": "ITGmania",
+    "summary": "A cross-platform rhythm video game.",
+    "icon_url": "/database/icons/itgmania.svg"
+  },
+  {
+    "id": "br.gov.fazenda.receita.itr2025",
+    "name": "ITR 2025",
+    "summary": "Declare seu imposto dos seus im\u00f3veis rurais (Ano-calend\u00e1rio 2025)",
+    "icon_url": "/database/icons/br.gov.fazenda.receita.itr2025.png"
+  },
+  {
+    "id": "joplin",
+    "name": "Joplin",
+    "summary": "Joplin for Desktop",
+    "icon_url": "/database/icons/joplin.png"
+  },
+  {
+    "id": "org.kde.kaffeine",
+    "name": "Kaffeine",
+    "summary": "",
+    "icon_url": "/database/icons/org.kde.kaffeine.svg"
+  },
+  {
+    "id": "org.kde.kblocks",
+    "name": "KBlocks",
+    "summary": "",
+    "icon_url": "/database/icons/org.kde.kblocks.png"
+  },
+  {
+    "id": "org.kde.kcalc",
+    "name": "KCalc",
+    "summary": "Calculator which offers many mathematical functions, such as trigonometric functions, logic operations, and statistical calculations",
+    "icon_url": "/database/icons/org.kde.kcalc.png"
+  },
+  {
+    "id": "org.kde.kdeconnect.app",
+    "name": "KDE Connect",
+    "summary": "Make all your devices one",
+    "icon_url": "/database/icons/org.kde.kdeconnect.app.svg"
+  },
+  {
+    "id": "org.kde.kdenlive",
+    "name": "Kdenlive",
+    "summary": "Nonlinear video editor by KDE",
+    "icon_url": "/database/icons/org.kde.kdenlive.png"
+  },
+  {
+    "id": "org.keepassxc.KeePassXC",
+    "name": "KeePassXC",
+    "summary": "Community-driven port of the Windows application \u201cKeePass Password Safe\u201d",
+    "icon_url": "/database/icons/org.keepassxc.KeePassXC.png"
+  },
+  {
+    "id": "kega-fusion",
+    "name": "Kega Fusion",
+    "summary": "An emulator of classic Sega consoles",
+    "icon_url": "/database/icons/kega-fusion.png"
+  },
+  {
+    "id": "no.bragefuglseth.Keypunch",
+    "name": "Keypunch",
+    "summary": "Practice your typing skills",
+    "icon_url": "/database/icons/no.bragefuglseth.Keypunch.svg"
+  },
+  {
+    "id": "org.kicad.kicad",
+    "name": "KiCad",
+    "summary": "Suite of tools for schematic design and circuit board layout",
+    "icon_url": "/database/icons/org.kicad.kicad.png"
+  },
+  {
+    "id": "org.kde.kid3",
+    "name": "Kid3",
+    "summary": "Edit audio file metadata",
+    "icon_url": "/database/icons/org.kde.kid3.png"
+  },
+  {
+    "id": "org.kde.kmahjongg",
+    "name": "KMahjongg",
+    "summary": "",
+    "icon_url": "/database/icons/org.kde.kmahjongg.png"
+  },
+  {
+    "id": "org.kde.kmines",
+    "name": "KMines",
+    "summary": "Minesweeper-like Game",
+    "icon_url": "/database/icons/org.kde.kmines.png"
+  },
+  {
+    "id": "org.kde.knights",
+    "name": "Knights",
+    "summary": "",
+    "icon_url": "/database/icons/org.kde.knights.png"
+  },
+  {
+    "id": "org.kde.kolourpaint",
+    "name": "KolourPaint",
+    "summary": "An easy-to-use paint program",
+    "icon_url": "/database/icons/org.kde.kolourpaint.png"
+  },
+  {
+    "id": "org.kde.kpat",
+    "name": "Yukon",
+    "summary": "Solitaire card game",
+    "icon_url": "/database/icons/org.kde.kpat.png"
+  },
+  {
+    "id": "kronos",
+    "name": "Kronos (Qt port)",
+    "summary": "Sega Saturn emulator",
+    "icon_url": "/database/icons/kronos.png"
+  },
+  {
+    "id": "org.kde.kstars",
+    "name": "KStars",
+    "summary": "Desktop Planetarium",
+    "icon_url": "/database/icons/org.kde.kstars.png"
+  },
+  {
+    "id": "org.kde.ktorrent",
+    "name": "KTorrent",
+    "summary": "A BitTorrent program by KDE",
+    "icon_url": "/database/icons/org.kde.ktorrent.png"
+  },
+  {
+    "id": "org.kde.ktouch",
+    "name": "KTouch",
+    "summary": "Learn typing without looking for keys",
+    "icon_url": "/database/icons/org.kde.ktouch.png"
+  },
+  {
+    "id": "org.ladybird.Ladybird",
+    "name": "New Window",
+    "summary": "",
+    "icon_url": "/database/icons/org.ladybird.Ladybird.png"
+  },
+  {
+    "id": "Libation",
+    "name": "Libation",
+    "summary": "Liberate your Audiobooks",
+    "icon_url": "/database/icons/Libation.svg"
+  },
+  {
+    "id": "librecad",
+    "name": "LibreCAD",
+    "summary": "A professional CAD System",
+    "icon_url": "/database/icons/librecad.png"
+  },
+  {
+    "id": "librewolf",
+    "name": "Open the Profile Manager",
+    "summary": "Browse the World Wide Web",
+    "icon_url": "/database/icons/librewolf.png"
+  },
+  {
+    "id": "lightzone",
+    "name": "LightZone",
+    "summary": "Post-processing software for digital photos",
+    "icon_url": "/database/icons/lightzone.png"
+  },
+  {
+    "id": "LinuxToys",
+    "name": "LinuxToys",
+    "summary": "A set of tools for Linux presented in a user-friendly way",
+    "icon_url": "/database/icons/LinuxToys.svg"
+  },
+  {
+    "id": "lmms",
+    "name": "LMMS",
+    "summary": "Music sequencer and synthesizer",
+    "icon_url": "/database/icons/lmms.svg"
+  },
+  {
+    "id": "localsend",
+    "name": "LocalSend",
+    "summary": "An open source cross-platform alternative to AirDrop",
+    "icon_url": "/database/icons/localsend.png"
+  },
+  {
+    "id": "org.luanti.luanti",
+    "name": "Luanti",
+    "summary": "Block-based multiplayer game platform",
+    "icon_url": "/database/icons/org.luanti.luanti.png"
+  },
+  {
+    "id": "mame",
+    "name": "MAME\u2122 Arcade Emulator",
+    "summary": "Play vintage arcade games using the MAME\u2122 emulator",
+    "icon_url": "/database/icons/mame.svg"
+  },
+  {
+    "id": "maniadrive",
+    "name": "ManiaDrive",
+    "summary": "Car game with physics",
+    "icon_url": "/database/icons/maniadrive.png"
+  },
+  {
+    "id": "mariokart64recomp",
+    "name": "MarioKart 64 Recompiled",
+    "summary": "A native port of MarioKart 64, statically recompiled",
+    "icon_url": "/database/icons/mariokart64recomp.png"
+  },
+  {
+    "id": "com.gitlab.guillermop.MasterKey",
+    "name": "Master Key",
+    "summary": "A password manager",
+    "icon_url": "/database/icons/com.gitlab.guillermop.MasterKey.svg"
+  },
+  {
+    "id": "mate-calc",
+    "name": "MATE Calculator",
+    "summary": "Perform arithmetic, scientific or financial calculations",
+    "icon_url": "/database/icons/mate-calc.png"
+  },
+  {
+    "id": "media-downloader",
+    "name": "Media Downloader",
+    "summary": "Downloads Online Media Files",
+    "icon_url": "/database/icons/media-downloader.png"
+  },
+  {
+    "id": "mednafen",
+    "name": "Mednafen Emulator",
+    "summary": "A multi-system Emulator",
+    "icon_url": "/database/icons/mednafen.png"
+  },
+  {
+    "id": "megaman64recomp",
+    "name": "Mega Man 64 Recompiled",
+    "summary": "Static recompilation of Mega Man 64 for PC.",
+    "icon_url": "/database/icons/megaman64recomp.png"
+  },
+  {
+    "id": "net.kuribo64.melonDS",
+    "name": "melonDS",
+    "summary": "A fast and accurate Nintendo DS emulator.",
+    "icon_url": "/database/icons/net.kuribo64.melonDS.png"
+  },
+  {
+    "id": "env",
+    "name": "env",
+    "summary": "Dummy made by quick-sharun",
+    "icon_url": "/database/icons/env.svg"
+  },
+  {
+    "id": "io.mgba.mGBA",
+    "name": "mGBA",
+    "summary": "Nintendo Game Boy Advance Emulator",
+    "icon_url": "/database/icons/io.mgba.mGBA.png"
+  },
+  {
+    "id": "minivmac",
+    "name": "Mini vMac",
+    "summary": "A miniature early Macintosh emulator for 68k machines",
+    "icon_url": "/database/icons/minivmac.png"
+  },
+  {
+    "id": "org.mixxx.Mixxx",
+    "name": "Mixxx",
+    "summary": "Play music files and perform live DJ mixes with tempo sync, looping and effects.",
+    "icon_url": "/database/icons/org.mixxx.Mixxx.svg"
+  },
+  {
+    "id": "io.github.seadve.Mousai",
+    "name": "Mousai",
+    "summary": "Identify songs in seconds",
+    "icon_url": "/database/icons/io.github.seadve.Mousai.svg"
+  },
+  {
+    "id": "mpv",
+    "name": "mpv Media Player",
+    "summary": "Play movies and songs",
+    "icon_url": "/database/icons/mpv.png"
+  },
+  {
+    "id": "nblood",
+    "name": "NBlood",
+    "summary": "",
+    "icon_url": "/database/icons/nblood.png"
+  },
+  {
+    "id": "org.kde.neochat",
+    "name": "NeoChat",
+    "summary": "Chat on Matrix",
+    "icon_url": "/database/icons/org.kde.neochat.svg"
+  },
+  {
+    "id": "nestopia",
+    "name": "Nestopia",
+    "summary": "Accurate NES Emulator",
+    "icon_url": "/database/icons/nestopia.svg"
+  },
+  {
+    "id": "neverball",
+    "name": "Neverball",
+    "summary": "A 3D arcade game with a ball",
+    "icon_url": "/database/icons/neverball.png"
+  },
+  {
+    "id": "newpipe",
+    "name": "NewPipe",
+    "summary": "A libre lightweight streaming front-end for Android.",
+    "icon_url": "/database/icons/newpipe.svg"
+  },
+  {
+    "id": "io.gitlab.news_flash.NewsFlash",
+    "name": "Newsflash",
+    "summary": "Keep up with your feeds",
+    "icon_url": "/database/icons/io.gitlab.news_flash.NewsFlash.svg"
+  },
+  {
+    "id": "nfs2se",
+    "name": "Need For Speed II SE",
+    "summary": "Cross-platform port of the Need For Speed\u2122 II SE game with 3D acceleration and TCP protocol!",
+    "icon_url": "/database/icons/nfs2se.png"
+  },
+  {
+    "id": "nitrogen",
+    "name": "nitrogen",
+    "summary": "Browse and set desktop backgrounds",
+    "icon_url": "/database/icons/nitrogen.png"
+  },
+  {
+    "id": "org.nomacs.ImageLounge",
+    "name": "nomacs",
+    "summary": "nomacs is a free, open source image viewer.",
+    "icon_url": "/database/icons/org.nomacs.ImageLounge.png"
+  },
+  {
+    "id": "xnp21kai",
+    "name": "Neko Project II kai",
+    "summary": "PC-9821 Emulator IA-32",
+    "icon_url": "/database/icons/xnp21kai.svg"
+  },
+  {
+    "id": "nsz",
+    "name": "nsz",
+    "summary": "Dummy made by quick-sharun",
+    "icon_url": null
+  },
+  {
+    "id": "io.github.MrAlaux.Nugget-Doom",
+    "name": "Nugget Doom",
+    "summary": "Nugget Doom is a fork of Woof! with additional features.",
+    "icon_url": "/database/icons/io.github.MrAlaux.Nugget-Doom.png"
+  },
+  {
+    "id": "org.nxengine.nxengine_evo",
+    "name": "Cave Story (NXEngine Evo)",
+    "summary": "Rewrite of the jump-and-run platformer masterpiece Doukutsu Monogatari",
+    "icon_url": "/database/icons/org.nxengine.nxengine_evo.png"
+  },
+  {
+    "id": "com.obsproject.Studio",
+    "name": "OBS Studio",
+    "summary": "Free and Open Source Streaming/Recording Software",
+    "icon_url": "/database/icons/com.obsproject.Studio.png"
+  },
+  {
+    "id": "net.odamex.Odamex.Launcher",
+    "name": "Odalaunch",
+    "summary": "A server browser to find and play DOOM games online!",
+    "icon_url": "/database/icons/net.odamex.Odamex.Launcher.png"
+  },
+  {
+    "id": "obsidian",
+    "name": "Obsidian",
+    "summary": "Obsidian",
+    "icon_url": "/database/icons/obsidian.png"
+  },
+  {
+    "id": "ocrmypdf",
+    "name": "ocrmypdf",
+    "summary": "Dummy made by quick-sharun",
+    "icon_url": "/database/icons/ocrmypdf.png"
+  },
+  {
+    "id": "org.kde.okteta",
+    "name": "Okteta",
+    "summary": "",
+    "icon_url": "/database/icons/org.kde.okteta.png"
+  },
+  {
+    "id": "openboardview",
+    "name": "OpenBoardView",
+    "summary": "Viewer for PCB layouts",
+    "icon_url": "/database/icons/openboardview.svg"
+  },
+  {
+    "id": "openclaw",
+    "name": "OpenClaw",
+    "summary": "Reimplementation of Captain Claw (1997) platformer",
+    "icon_url": "/database/icons/openclaw.png"
+  },
+  {
+    "id": "ai.opencode",
+    "name": "OpenCode",
+    "summary": "",
+    "icon_url": "/database/icons/ai.opencode.png"
+  },
+  {
+    "id": "opencode",
+    "name": "opencode",
+    "summary": "Dummy made by quick-sharun",
+    "icon_url": "/database/icons/opencode.png"
+  },
+  {
+    "id": "opengothic",
+    "name": "OpenGothic",
+    "summary": "\"Reimplementation of Gothic 1 & 2 Notr\"",
+    "icon_url": "/database/icons/opengothic.png"
+  },
+  {
+    "id": "OpenJazz",
+    "name": "OpenJazz",
+    "summary": "Jazz Jackrabbit\u2122 game engine reimplementation",
+    "icon_url": "/database/icons/OpenJazz.svg"
+  },
+  {
+    "id": "OpenLara",
+    "name": "OpenLara",
+    "summary": "Classic Tomb Raider open-source engine",
+    "icon_url": "/database/icons/OpenLara.png"
+  },
+  {
+    "id": "openloco",
+    "name": "OpenLoco",
+    "summary": "An open source re-implementation of Chris Sawyer's Locomotion",
+    "icon_url": "/database/icons/openloco.png"
+  },
+  {
+    "id": "openmsx",
+    "name": "openMSX",
+    "summary": "The MSX emulator that aims for perfection",
+    "icon_url": "/database/icons/openmsx.png"
+  },
+  {
+    "id": "openra-ra",
+    "name": "OpenRA - Red Alert",
+    "summary": "",
+    "icon_url": "/database/icons/openra-ra.svg"
+  },
+  {
+    "id": "io.openrct2.openrct2",
+    "name": "OpenRCT2",
+    "summary": "Open Source re-implementation of RollerCoaster Tycoon 2.",
+    "icon_url": "/database/icons/io.openrct2.openrct2.svg"
+  },
+  {
+    "id": "openswe1r",
+    "name": "OpenSWE1R",
+    "summary": "\"An Open-Source port of the 1999 Game Star Wars Episode 1: Racer\"",
+    "icon_url": "/database/icons/openswe1r.png"
+  },
+  {
+    "id": "openttd",
+    "name": "OpenTTD",
+    "summary": "A simulation game based on Transport Tycoon Deluxe",
+    "icon_url": "/database/icons/openttd.png"
+  },
+  {
+    "id": "opentyrian2000",
+    "name": "OpenTyrian2000",
+    "summary": "An arcade-style shoot 'em up",
+    "icon_url": "/database/icons/opentyrian2000.png"
+  },
+  {
+    "id": "openxray",
+    "name": "OpenXRay",
+    "summary": "S.T.A.L.K.E.R.: Shadow of Chernobyl (Powered by OpenXRay)",
+    "icon_url": "/database/icons/openxray.png"
+  },
+  {
+    "id": "org.kde.optiimage",
+    "name": "OptiImage",
+    "summary": "Image optimizer",
+    "icon_url": "/database/icons/org.kde.optiimage.svg"
+  },
+  {
+    "id": "OrcaSlicer",
+    "name": "OrcaSlicer",
+    "summary": "",
+    "icon_url": "/database/icons/OrcaSlicer.png"
+  },
+  {
+    "id": "io.github.berarma.Oversteer",
+    "name": "Oversteer",
+    "summary": "Steering Wheel Manager",
+    "icon_url": "/database/icons/io.github.berarma.Oversteer.svg"
+  },
+  {
+    "id": "oxicord",
+    "name": "oxicord",
+    "summary": "Dummy made by quick-sharun",
+    "icon_url": "/database/icons/oxicord.png"
+  },
+  {
+    "id": "org.nickvision.tubeconverter",
+    "name": "Parabolic",
+    "summary": "Download web video and audio",
+    "icon_url": "/database/icons/org.nickvision.tubeconverter.svg"
+  },
+  {
+    "id": "pattypan",
+    "name": "Pattypan",
+    "summary": "Tool that simplifies Wikimedia Commons batch file uploading",
+    "icon_url": "/database/icons/pattypan.png"
+  },
+  {
+    "id": "pavucontrol-qt",
+    "name": "PulseAudio Volume Control",
+    "summary": "Adjust volume levels and select audio devices",
+    "icon_url": "/database/icons/pavucontrol-qt.svg"
+  },
+  {
+    "id": "pcexhumed",
+    "name": "PCExhumed",
+    "summary": "",
+    "icon_url": "/database/icons/pcexhumed.png"
+  },
+  {
+    "id": "pcsx-redux",
+    "name": "PCSX-Redux",
+    "summary": "",
+    "icon_url": "/database/icons/pcsx-redux.png"
+  },
+  {
+    "id": "pcsx2",
+    "name": "PCSX2",
+    "summary": "PlayStation 2 emulator",
+    "icon_url": "/database/icons/pcsx2.png"
+  },
+  {
+    "id": "com.github.jeromerobert.pdfarranger",
+    "name": "New Window",
+    "summary": "Merge, shuffle, and crop PDFs",
+    "icon_url": "/database/icons/com.github.jeromerobert.pdfarranger.png"
+  },
+  {
+    "id": "com.github.muriloventuroso.pdftricks",
+    "name": "PDF Tricks",
+    "summary": "A simple, efficient app for small manipulation of PDF files. Compress, split, merge and convert PDF.",
+    "icon_url": "/database/icons/com.github.muriloventuroso.pdftricks.svg"
+  },
+  {
+    "id": "perfect_dark",
+    "name": "Perfect Dark",
+    "summary": "\"PC port of Perfect Dark\"",
+    "icon_url": "/database/icons/perfect_dark.png"
+  },
+  {
+    "id": "browser",
+    "name": "New private window",
+    "summary": "Browse the World Wide Web",
+    "icon_url": "/database/icons/browser.png"
+  },
+  {
+    "id": "phoenix",
+    "name": "phoenix",
+    "summary": "Dummy made by quick-sharun",
+    "icon_url": null
+  },
+  {
+    "id": "piglit",
+    "name": "Piglit",
+    "summary": "\"A collection of automated tests for OpenGL, Vulkan, and OpenCL implementations\"",
+    "icon_url": "/database/icons/piglit.png"
+  },
+  {
+    "id": "Pinta",
+    "name": "Pinta",
+    "summary": "Easily create and edit images",
+    "icon_url": "/database/icons/Pinta.png"
+  },
+  {
+    "id": "pinta",
+    "name": "Pinta",
+    "summary": "Easily create and edit images",
+    "icon_url": "/database/icons/pinta.png"
+  },
+  {
+    "id": "pixelpulse2",
+    "name": "Pixelpulse2",
+    "summary": "Digital frontend for the ADALM1000",
+    "icon_url": "/database/icons/pixelpulse2.png"
+  },
+  {
+    "id": "io.github.alainm23.planify",
+    "name": "Planify",
+    "summary": "Forget about forgetting things",
+    "icon_url": "/database/icons/io.github.alainm23.planify.svg"
+  },
+  {
+    "id": "org.purei.Play",
+    "name": "Play!",
+    "summary": "",
+    "icon_url": "/database/icons/org.purei.Play.png"
+  },
+  {
+    "id": "playerctl",
+    "name": "playerctl",
+    "summary": "Dummy made by quick-sharun",
+    "icon_url": null
+  },
+  {
+    "id": "plus42",
+    "name": "Plus42",
+    "summary": "",
+    "icon_url": "/database/icons/plus42.png"
+  },
+  {
+    "id": "pokemmo",
+    "name": "PokeMMO",
+    "summary": "MMO based on the Pok\u00e9mon Universe",
+    "icon_url": "/database/icons/pokemmo.png"
+  },
+  {
+    "id": "polybar",
+    "name": "polybar",
+    "summary": "Dummy made by quick-sharun",
+    "icon_url": "/database/icons/polybar.png"
+  },
+  {
+    "id": "postal",
+    "name": "POSTAL",
+    "summary": "Postal quirky FPS shooter",
+    "icon_url": "/database/icons/postal.png"
+  },
+  {
+    "id": "prey06",
+    "name": "Prey 2006",
+    "summary": "\"Prey 2006 SDK integrated with Doom 3 GPL release\"",
+    "icon_url": "/database/icons/prey06.png"
+  },
+  {
+    "id": "primehack",
+    "name": "PrimeHack",
+    "summary": "Dolphin fork intended to give Metroid Prime Trilogy mouselook controls",
+    "icon_url": "/database/icons/primehack.png"
+  },
+  {
+    "id": "org.prismlauncher.PrismLauncher",
+    "name": "Prism Launcher",
+    "summary": "Discover, manage, and play Minecraft instances",
+    "icon_url": "/database/icons/org.prismlauncher.PrismLauncher.svg"
+  },
+  {
+    "id": "protontricks",
+    "name": "Protontricks",
+    "summary": "A simple wrapper that does winetricks things for Proton enabled games",
+    "icon_url": "/database/icons/protontricks.svg"
+  },
+  {
+    "id": "org.gnome.Ptyxis",
+    "name": "Preferences",
+    "summary": "A container-oriented terminal for GNOME",
+    "icon_url": "/database/icons/org.gnome.Ptyxis.svg"
+  },
+  {
+    "id": "puddletag",
+    "name": "puddletag",
+    "summary": "",
+    "icon_url": "/database/icons/puddletag.png"
+  },
+  {
+    "id": "pyglossary",
+    "name": "PyGlossary",
+    "summary": "Working on glossaries",
+    "icon_url": "/database/icons/pyglossary.svg"
+  },
+  {
+    "id": "qarma",
+    "name": "qarma",
+    "summary": "Dummy made by quick-sharun",
+    "icon_url": null
+  },
+  {
+    "id": "org.qelectrotech.qelectrotech",
+    "name": "QElectroTech",
+    "summary": "Edit electrical diagrams.",
+    "icon_url": "/database/icons/org.qelectrotech.qelectrotech.png"
+  },
+  {
+    "id": "qemu",
+    "name": "QEMU",
+    "summary": "\"A generic and open source machine & userspace emulator and virtualizer\"",
+    "icon_url": "/database/icons/qemu.svg"
+  },
+  {
+    "id": "qimgv",
+    "name": "qimgv",
+    "summary": "Qt image viewer",
+    "icon_url": "/database/icons/qimgv.png"
+  },
+  {
+    "id": "qmmp",
+    "name": "Next",
+    "summary": "Qt-based Multimedia Player",
+    "icon_url": "/database/icons/qmmp.png"
+  },
+  {
+    "id": "QMPlay2",
+    "name": "Next",
+    "summary": "Watching movies and listening to music",
+    "icon_url": "/database/icons/QMPlay2.png"
+  },
+  {
+    "id": "org.qt-project.qtcreator",
+    "name": "Qt Creator",
+    "summary": "",
+    "icon_url": "/database/icons/org.qt-project.qtcreator.png"
+  },
+  {
+    "id": "qterminal",
+    "name": "Drop-down Terminal",
+    "summary": "Terminal emulator",
+    "icon_url": "/database/icons/qterminal.png"
+  },
+  {
+    "id": "quantumlauncher",
+    "name": "Quantum Launcher",
+    "summary": "A simple, fast and powerful Minecraft launcher.",
+    "icon_url": "/database/icons/quantumlauncher.png"
+  },
+  {
+    "id": "quickshell",
+    "name": "quickshell",
+    "summary": "Dummy made by quick-sharun",
+    "icon_url": "/database/icons/quickshell.svg"
+  },
+  {
+    "id": "raptor",
+    "name": "Raptor",
+    "summary": "Reversed-engineered source port from Raptor Call Of The Shadows",
+    "icon_url": "/database/icons/raptor.png"
+  },
+  {
+    "id": "com.bilingify.readest",
+    "name": "Readest",
+    "summary": "Your online library",
+    "icon_url": "/database/icons/com.bilingify.readest.png"
+  },
+  {
+    "id": "com.github.ryonakano.reco",
+    "name": "Reco",
+    "summary": "Focus on recording",
+    "icon_url": "/database/icons/com.github.ryonakano.reco.svg"
+  },
+  {
+    "id": "rednukem",
+    "name": "Rednukem",
+    "summary": "",
+    "icon_url": "/database/icons/rednukem.png"
+  },
+  {
+    "id": "REDRIVER2",
+    "name": "REDRIVER2",
+    "summary": "Driver 2 Playstation game reverse engineering effort",
+    "icon_url": "/database/icons/REDRIVER2.png"
+  },
+  {
+    "id": "io.github.swordpuffin.rewaita",
+    "name": "Rewaita",
+    "summary": "",
+    "icon_url": "/database/icons/io.github.swordpuffin.rewaita.svg"
+  },
+  {
+    "id": "rigelengine",
+    "name": "RigelEngine",
+    "summary": "A modern re-implementation of the classic DOS game Duke Nukem II",
+    "icon_url": "/database/icons/rigelengine.png"
+  },
+  {
+    "id": "ror",
+    "name": "RoR",
+    "summary": "\"Open-source, soft-body physics sandbox\"",
+    "icon_url": "/database/icons/ror.png"
+  },
+  {
+    "id": "riseup-vpn",
+    "name": "RiseupVPN",
+    "summary": "Easy VPN by riseup",
+    "icon_url": "/database/icons/riseup-vpn.png"
+  },
+  {
+    "id": "org.xfce.ristretto",
+    "name": "Ristretto Image Viewer",
+    "summary": "Look at your images easily",
+    "icon_url": "/database/icons/org.xfce.ristretto.png"
+  },
+  {
+    "id": "com.github.Rosalie241.RMG",
+    "name": "Rosalie's Mupen GUI",
+    "summary": "An easy to use and cross-platform mupen64plus front-end written in C++ & Qt",
+    "icon_url": "/database/icons/com.github.Rosalie241.RMG.svg"
+  },
+  {
+    "id": "com.github.flxzt.rnote",
+    "name": "New Window",
+    "summary": "Sketch and take handwritten notes",
+    "icon_url": "/database/icons/com.github.flxzt.rnote.svg"
+  },
+  {
+    "id": "rocksndiamonds",
+    "name": "Rocks'N'Diamonds",
+    "summary": "Arcade game",
+    "icon_url": null
+  },
+  {
+    "id": "rofi",
+    "name": "Rofi",
+    "summary": "",
+    "icon_url": "/database/icons/rofi.svg"
+  },
+  {
+    "id": "roller",
+    "name": "Roller",
+    "summary": "Reverse engineering the 1995 game Whiplash/Fatal Racing",
+    "icon_url": "/database/icons/roller.png"
+  },
+  {
+    "id": "RQuickShare",
+    "name": "RQuickShare",
+    "summary": "",
+    "icon_url": "/database/icons/RQuickShare.png"
+  },
+  {
+    "id": "soniccd",
+    "name": "Sonic CD",
+    "summary": "",
+    "icon_url": "/database/icons/soniccd.png"
+  },
+  {
+    "id": "rsdkv4",
+    "name": "RSDKv4",
+    "summary": "A complete decompilation of Sonic 1 & Sonic 2 (2013) & Retro Engine (v4)",
+    "icon_url": "/database/icons/rsdkv4.png"
+  },
+  {
+    "id": "rs.ruffle.Ruffle",
+    "name": "Ruffle",
+    "summary": "Play Flash games & movies",
+    "icon_url": "/database/icons/rs.ruffle.Ruffle.svg"
+  },
+  {
+    "id": "rustdesk",
+    "name": "Open a New Window",
+    "summary": "Remote Desktop",
+    "icon_url": "/database/icons/rustdesk.png"
+  },
+  {
+    "id": "RVGL Launcher",
+    "name": "RVGL Launcher",
+    "summary": "Launcher and package manager for RVGL",
+    "icon_url": "/database/icons/RVGL Launcher.png"
+  },
+  {
+    "id": "sacdextractgui",
+    "name": "SACDExtractGUI",
+    "summary": "GUI to rip SACD discs",
+    "icon_url": "/database/icons/sacdextractgui.png"
+  },
+  {
+    "id": "sameboy",
+    "name": "SameBoy",
+    "summary": "Game Boy and Game Boy Color emulator",
+    "icon_url": "/database/icons/sameboy.png"
+  },
+  {
+    "id": "sanicball",
+    "name": "Sanicball",
+    "summary": "An extraordinarily fast racing game",
+    "icon_url": "/database/icons/sanicball.png"
+  },
+  {
+    "id": "satty",
+    "name": "Satty",
+    "summary": "",
+    "icon_url": "/database/icons/satty.svg"
+  },
+  {
+    "id": "com.sayonara-player.Sayonara",
+    "name": "Sayonara",
+    "summary": "Music player and music library manager",
+    "icon_url": "/database/icons/com.sayonara-player.Sayonara.png"
+  },
+  {
+    "id": "scrcpy",
+    "name": "scrcpy",
+    "summary": "Display and control your Android device",
+    "icon_url": "/database/icons/scrcpy.png"
+  },
+  {
+    "id": "org.scummvm.scummvm",
+    "name": "ScummVM",
+    "summary": "Interpreter for numerous adventure games and RPGs",
+    "icon_url": "/database/icons/org.scummvm.scummvm.svg"
+  },
+  {
+    "id": "sdlpop",
+    "name": "SDLPoP",
+    "summary": "An open-source port of Prince of Persia",
+    "icon_url": "/database/icons/sdlpop.png"
+  },
+  {
+    "id": "org.gnome.World.Secrets",
+    "name": "Secrets",
+    "summary": "A password manager for GNOME",
+    "icon_url": "/database/icons/org.gnome.World.Secrets.svg"
+  },
+  {
+    "id": "org.servo.Servo",
+    "name": "Open a New Window",
+    "summary": "Browse the Web",
+    "icon_url": "/database/icons/org.servo.Servo.png"
+  },
+  {
+    "id": "shiru",
+    "name": "Shiru",
+    "summary": "A personal anime library manager for watching and tracking your collection in real time. Lightweight, powerful, and paws-itively fast. No waiting required!",
+    "icon_url": "/database/icons/shiru.png"
+  },
+  {
+    "id": "shockolate",
+    "name": "Shockolate",
+    "summary": "\"Source port of the original System Shock\"",
+    "icon_url": "/database/icons/shockolate.png"
+  },
+  {
+    "id": "org.gnome.Shotwell",
+    "name": "Manage Different Profiles In Shotwell",
+    "summary": "Organize your photos",
+    "icon_url": "/database/icons/org.gnome.Shotwell.png"
+  },
+  {
+    "id": "signal",
+    "name": "Signal",
+    "summary": "Signal - Private Messenger",
+    "icon_url": "/database/icons/signal.png"
+  },
+  {
+    "id": "Simitone",
+    "name": "Simitone",
+    "summary": "The Sims 1 recreation using FreeSO engine",
+    "icon_url": "/database/icons/Simitone.png"
+  },
+  {
+    "id": "simplex-simplex",
+    "name": "simplex",
+    "summary": "simplex",
+    "icon_url": "/database/icons/simplex-simplex.png"
+  },
+  {
+    "id": "simutrans",
+    "name": "Simutrans",
+    "summary": "Transportation simulator",
+    "icon_url": "/database/icons/simutrans.svg"
+  },
+  {
+    "id": "io.github.mhogomchungu.sirikali",
+    "name": "SiriKali",
+    "summary": "Manage Encrypted Volumes Hosted In Folders",
+    "icon_url": "/database/icons/io.github.mhogomchungu.sirikali.png"
+  },
+  {
+    "id": "skyemu",
+    "name": "SkyEmu",
+    "summary": "Game Boy Advance, Game Boy, Game Boy Color, and DS Emulator",
+    "icon_url": "/database/icons/skyemu.png"
+  },
+  {
+    "id": "slack",
+    "name": "Slack",
+    "summary": "Slack Desktop",
+    "icon_url": "/database/icons/slack.png"
+  },
+  {
+    "id": "snes9x-gtk",
+    "name": "Snes9x",
+    "summary": "A Super\u00a0Nintendo emulator",
+    "icon_url": "/database/icons/snes9x-gtk.png"
+  },
+  {
+    "id": "SnowboardKids2Recompiled",
+    "name": "Snowboard Kids 2 Recompiled",
+    "summary": "",
+    "icon_url": "/database/icons/SnowboardKids2Recompiled.png"
+  },
+  {
+    "id": "solaar",
+    "name": "Solaar",
+    "summary": "Logitech Unifying Receiver peripherals manager",
+    "icon_url": "/database/icons/solaar.svg"
+  },
+  {
+    "id": "re.fossplant.songrec",
+    "name": "SongRec",
+    "summary": "An open-source Shazam client for Linux, written in Rust",
+    "icon_url": "/database/icons/re.fossplant.songrec.svg"
+  },
+  {
+    "id": "soh",
+    "name": "Ship of Harkinian",
+    "summary": "An unofficial port of The Legend of Zelda: Ocarina of Time",
+    "icon_url": "/database/icons/soh.png"
+  },
+  {
+    "id": "sonic3air",
+    "name": "Sonic 3 A.I.R.",
+    "summary": "A fan-made remaster of Sonic 3 & Knuckles",
+    "icon_url": "/database/icons/sonic3air.png"
+  },
+  {
+    "id": "sonicmania",
+    "name": "Sonic Mania",
+    "summary": "",
+    "icon_url": "/database/icons/sonicmania.png"
+  },
+  {
+    "id": "srb2-opengl",
+    "name": "Sonic Robo Blast 2 (OpenGL)",
+    "summary": "3D classic Sonic fangame based on Doom Legacy (force OpenGL)",
+    "icon_url": "/database/icons/srb2-opengl.png"
+  },
+  {
+    "id": "sound-space-plus",
+    "name": "Sound Space Plus",
+    "summary": "Rhythm-based aim game",
+    "icon_url": "/database/icons/sound-space-plus.png"
+  },
+  {
+    "id": "spacecadetpinball",
+    "name": "SpaceCadetPinball",
+    "summary": "Reverse engineered port of \"3D Pinball for Windows \u2013 Space Cadet\" to Linux",
+    "icon_url": "/database/icons/spacecadetpinball.png"
+  },
+  {
+    "id": "spaghettikart",
+    "name": "SpaghettiKart",
+    "summary": "An unofficial port of Mario Kart 64",
+    "icon_url": "/database/icons/spaghettikart.png"
+  },
+  {
+    "id": "org.speedcrunch.SpeedCrunch",
+    "name": "SpeedCrunch",
+    "summary": "A high-precision scientific calculator",
+    "icon_url": "/database/icons/org.speedcrunch.SpeedCrunch.svg"
+  },
+  {
+    "id": "spek",
+    "name": "Spek",
+    "summary": "View spectrograms of your audio files",
+    "icon_url": "/database/icons/spek.svg"
+  },
+  {
+    "id": "srb2kart-opengl",
+    "name": "Sonic Robo Blast 2 Kart (OpenGL)",
+    "summary": "Classic styled kart racer",
+    "icon_url": "/database/icons/srb2kart-opengl.png"
+  },
+  {
+    "id": "st",
+    "name": "st",
+    "summary": "st is a simple virtual terminal emulator for X which sucks less",
+    "icon_url": "/database/icons/st.svg"
+  },
+  {
+    "id": "starfox64recomp",
+    "name": "Starfox 64 Recompiled",
+    "summary": "A native port of Starfox 64, statically recompiled",
+    "icon_url": "/database/icons/starfox64recomp.png"
+  },
+  {
+    "id": "stella",
+    "name": "Stella",
+    "summary": "A multi-platform Atari 2600 emulator",
+    "icon_url": "/database/icons/stella.png"
+  },
+  {
+    "id": "Stirling-PDF",
+    "name": "Open PDF File",
+    "summary": "Locally hosted web application that allows you to perform various operations on PDF files",
+    "icon_url": "/database/icons/Stirling-PDF.png"
+  },
+  {
+    "id": "chat.stoat.StoatDesktop",
+    "name": "Stoat",
+    "summary": "Open source, user-first chat platform",
+    "icon_url": "/database/icons/chat.stoat.StoatDesktop.png"
+  },
+  {
+    "id": "org.strawberrymusicplayer.strawberry",
+    "name": "Next",
+    "summary": "Plays music",
+    "icon_url": "/database/icons/org.strawberrymusicplayer.strawberry.png"
+  },
+  {
+    "id": "streamlink",
+    "name": "streamlink",
+    "summary": "Dummy made by quick-sharun",
+    "icon_url": "/database/icons/streamlink.svg"
+  },
+  {
+    "id": "supermariowar",
+    "name": "Super Mario War",
+    "summary": "Launch Super Mario War",
+    "icon_url": "/database/icons/supermariowar.png"
+  },
+  {
+    "id": "supermodel",
+    "name": "Supermodel",
+    "summary": "\"Sega Model 3 arcade emulator\"",
+    "icon_url": "/database/icons/supermodel.png"
+  },
+  {
+    "id": "supertux2",
+    "name": "SuperTux 2",
+    "summary": "Play a classic 2D platform game",
+    "icon_url": "/database/icons/supertux2.svg"
+  },
+  {
+    "id": "supertuxkart",
+    "name": "SuperTuxKart",
+    "summary": "",
+    "icon_url": "/database/icons/supertuxkart.png"
+  },
+  {
+    "id": "superzsnes",
+    "name": "SUPER ZSNES",
+    "summary": "SNES Emulator",
+    "icon_url": "/database/icons/superzsnes.png"
+  },
+  {
+    "id": "sViewMP",
+    "name": "sView",
+    "summary": "Stereoscopic Media Player",
+    "icon_url": "/database/icons/sViewMP.png"
+  },
+  {
+    "id": "me.spaceinbox.swiftynotes",
+    "name": "New Window",
+    "summary": "Native GTK markdown notes with preview and CLI automation",
+    "icon_url": "/database/icons/me.spaceinbox.swiftynotes.svg"
+  },
+  {
+    "id": "io.github.hakandundar34coding.system-monitoring-center",
+    "name": "System Monitoring Center",
+    "summary": "Multi-featured system monitor",
+    "icon_url": "/database/icons/io.github.hakandundar34coding.system-monitoring-center.svg"
+  },
+  {
+    "id": "dddui",
+    "name": "dddui",
+    "summary": "Dummy made by quick-sharun",
+    "icon_url": null
+  },
+  {
+    "id": "org.nickvision.tagger",
+    "name": "Tagger",
+    "summary": "Tag your music",
+    "icon_url": "/database/icons/org.nickvision.tagger.svg"
+  },
+  {
+    "id": "org.taisei_project.Taisei",
+    "name": "Taisei",
+    "summary": "An open-source T\u014dh\u014d fangame.",
+    "icon_url": "/database/icons/org.taisei_project.Taisei.png"
+  },
+  {
+    "id": "org.kde.tokodon",
+    "name": "Tokodon",
+    "summary": "Client for the Mastodon",
+    "icon_url": "/database/icons/org.kde.tokodon.svg"
+  },
+  {
+    "id": "taradino",
+    "name": "Taradino",
+    "summary": "SDL2 port of Rise of the Triad",
+    "icon_url": "/database/icons/taradino.svg"
+  },
+  {
+    "id": "tauonmb",
+    "name": "Stop",
+    "summary": "Ultra player for your music collection",
+    "icon_url": "/database/icons/tauonmb.svg"
+  },
+  {
+    "id": "org.telegram",
+    "name": "Quit Telegram",
+    "summary": "New era of messaging",
+    "icon_url": "/database/icons/org.telegram.png"
+  },
+  {
+    "id": "com.github.themix_project.Oomox",
+    "name": "Themix/Oomox theme designer",
+    "summary": "GUI for generating different color variations of Arc, Materia, Oomox themes (GTK2, GTK3, Cinnamon, GNOME, MATE, Openbox, Xfwm), ArchDroid, Gnome-Colors, Numix, Papirus, Suru++ icons, and terminal palettes. Have a hack for HiDPI in GTK2.",
+    "icon_url": "/database/icons/com.github.themix_project.Oomox.svg"
+  },
+  {
+    "id": "onion.torzu_emu.torzu",
+    "name": "torzu",
+    "summary": "Nintendo Switch video game console emulator",
+    "icon_url": "/database/icons/onion.torzu_emu.torzu.svg"
+  },
+  {
+    "id": "touchHLE",
+    "name": "touchHLE",
+    "summary": "",
+    "icon_url": "/database/icons/touchHLE.png"
+  },
+  {
+    "id": "transmission-qt",
+    "name": "Start Transmission Minimized",
+    "summary": "Download and share files over BitTorrent",
+    "icon_url": "/database/icons/transmission-qt.svg"
+  },
+  {
+    "id": "trelby",
+    "name": "Trelby",
+    "summary": "Screenwriting Application",
+    "icon_url": "/database/icons/trelby.png"
+  },
+  {
+    "id": "tutanota-desktop",
+    "name": "Tuta Mail",
+    "summary": "The desktop client for Tutanota, the secure e-mail service.",
+    "icon_url": "/database/icons/tutanota-desktop.png"
+  },
+  {
+    "id": "tuxfootball",
+    "name": "Tux Football",
+    "summary": "A fun arcade-style 2D football game, very reminsicent of Sensible Soccer and Kick Off",
+    "icon_url": "/database/icons/tuxfootball.png"
+  },
+  {
+    "id": "tuxpuck",
+    "name": "TuxPuck",
+    "summary": "Airhockey with tux (Shufflepuck Caf\u00e9 clone)",
+    "icon_url": "/database/icons/tuxpuck.png"
+  },
+  {
+    "id": "uad-ng",
+    "name": "Universal Android Debloater Next Generation",
+    "summary": "Tool for debloating Android",
+    "icon_url": "/database/icons/uad-ng.png"
+  },
+  {
+    "id": "uefitool",
+    "name": "UEFITool",
+    "summary": "UEFI firmware image viewer and editor",
+    "icon_url": "/database/icons/uefitool.png"
+  },
+  {
+    "id": "unityhub",
+    "name": "Unity Hub",
+    "summary": "The Official Unity Hub",
+    "icon_url": "/database/icons/unityhub.png"
+  },
+  {
+    "id": "io.github.hedge_dev.unleashedrecomp",
+    "name": "Unleashed Recompiled",
+    "summary": "Static recompilation of Sonic Unleashed.",
+    "icon_url": "/database/icons/io.github.hedge_dev.unleashedrecomp.png"
+  },
+  {
+    "id": "usc-game",
+    "name": "usc-game",
+    "summary": "",
+    "icon_url": "/database/icons/usc-game.png"
+  },
+  {
+    "id": "io.github.giantpinkrobots.varia",
+    "name": "Varia",
+    "summary": "Download files, videos and torrents",
+    "icon_url": "/database/icons/io.github.giantpinkrobots.varia.svg"
+  },
+  {
+    "id": "vcmiclient",
+    "name": "VCMI Client",
+    "summary": "Open engine for Heroes of Might and Magic 3",
+    "icon_url": "/database/icons/vcmiclient.svg"
+  },
+  {
+    "id": "veracrypt",
+    "name": "VeraCrypt",
+    "summary": "Create and mount VeraCrypt encrypted volumes",
+    "icon_url": "/database/icons/veracrypt.png"
+  },
+  {
+    "id": "vibeprint",
+    "name": "Vibeprint Studio",
+    "summary": "Automatically layout and print images in a ICC aware environment",
+    "icon_url": "/database/icons/vibeprint.png"
+  },
+  {
+    "id": "com.viber.Viber",
+    "name": "Viber",
+    "summary": "Viber VoIP and messenger",
+    "icon_url": "/database/icons/com.viber.Viber.svg"
+  },
+  {
+    "id": "x64",
+    "name": "VICE",
+    "summary": "Commodore 64 emulator",
+    "icon_url": "/database/icons/x64.svg"
+  },
+  {
+    "id": "org.gnome.gitlab.YaLTeR.VideoTrimmer",
+    "name": "Video Trimmer",
+    "summary": "Trim videos quickly",
+    "icon_url": "/database/icons/org.gnome.gitlab.YaLTeR.VideoTrimmer.svg"
+  },
+  {
+    "id": "code",
+    "name": "New Empty Window",
+    "summary": "Code Editing. Redefined.",
+    "icon_url": "/database/icons/code.png"
+  },
+  {
+    "id": "visualboyadvance-m",
+    "name": "visualboyadvance-m",
+    "summary": "Nintendo Game Boy Advance Emulator",
+    "icon_url": "/database/icons/visualboyadvance-m.svg"
+  },
+  {
+    "id": "vokoscreenNG",
+    "name": "vokoscreenNG",
+    "summary": "Easy to use desktop recorder",
+    "icon_url": "/database/icons/vokoscreenNG.png"
+  },
+  {
+    "id": "app.drey.Warp",
+    "name": "Warp",
+    "summary": "Fast and secure file transfer",
+    "icon_url": "/database/icons/app.drey.Warp.svg"
+  },
+  {
+    "id": "webamp-desktop",
+    "name": "Webamp desktop",
+    "summary": "Desktop version of Winamp 2.9 reimplementation in HTML5 and JS",
+    "icon_url": "/database/icons/webamp-desktop.png"
+  },
+  {
+    "id": "webcamoid",
+    "name": "Webcamoid",
+    "summary": "Take photos and record videos with your webcam",
+    "icon_url": "/database/icons/webcamoid.png"
+  },
+  {
+    "id": "webcord",
+    "name": "WebCord",
+    "summary": "A Discord made with the Electron API.",
+    "icon_url": "/database/icons/webcord.png"
+  },
+  {
+    "id": "whatsdesk",
+    "name": "whatsdesk",
+    "summary": "unofficial whatsapp client for linux",
+    "icon_url": "/database/icons/whatsdesk.png"
+  },
+  {
+    "id": "com.ktechpit.whatsie",
+    "name": "About",
+    "summary": "A WhatsApp Web Client using the Qt framework",
+    "icon_url": "/database/icons/com.ktechpit.whatsie.svg"
+  },
+  {
+    "id": "wine",
+    "name": "Wine Windows Program Loader",
+    "summary": "",
+    "icon_url": "/database/icons/wine.svg"
+  },
+  {
+    "id": "wipeout-rewrite",
+    "name": "wipEout Rewrite",
+    "summary": "A re-implementation of the 1995 PSX game WipEout",
+    "icon_url": "/database/icons/wipeout-rewrite.png"
+  },
+  {
+    "id": "xash3d",
+    "name": "Xash3D",
+    "summary": "A custom GoldSrc engine implementation",
+    "icon_url": "/database/icons/xash3d.png"
+  },
+  {
+    "id": "xclock",
+    "name": "xclock",
+    "summary": "\"analog / digital clock for X\"",
+    "icon_url": "/database/icons/xclock.png"
+  },
+  {
+    "id": "xemu",
+    "name": "xemu",
+    "summary": "Emulator for the original Xbox console",
+    "icon_url": "/database/icons/xemu.svg"
+  },
+  {
+    "id": "xenia-canary",
+    "name": "Xenia Canary",
+    "summary": "An experimental emulator for the Xbox 360.",
+    "icon_url": "/database/icons/xenia-canary.png"
+  },
+  {
+    "id": "xeyes",
+    "name": "Xeyes",
+    "summary": "\"Follow the mouse/SHAPE extension X demo\"",
+    "icon_url": "/database/icons/xeyes.png"
+  },
+  {
+    "id": "xiphos",
+    "name": "Xiphos Bible Guide",
+    "summary": "Study the Bible",
+    "icon_url": "/database/icons/xiphos.svg"
+  },
+  {
+    "id": "xoreos",
+    "name": "xoreos",
+    "summary": "\"A reimplementation of BioWare's Aurora engine\"",
+    "icon_url": "/database/icons/xoreos.png"
+  },
+  {
+    "id": "com.github.xournalpp.xournalpp",
+    "name": "Xournal++",
+    "summary": "Take handwritten notes",
+    "icon_url": "/database/icons/com.github.xournalpp.xournalpp.svg"
+  },
+  {
+    "id": "xsnow",
+    "name": "Start without menu",
+    "summary": "Snow, Santa and birds on your desktop",
+    "icon_url": "/database/icons/xsnow.svg"
+  },
+  {
+    "id": "yamagi-quake2",
+    "name": "Yamagi Quake II",
+    "summary": "",
+    "icon_url": "/database/icons/yamagi-quake2.svg"
+  },
+  {
+    "id": "ymir-emu",
+    "name": "Ymir",
+    "summary": "Sega Saturn Emulator",
+    "icon_url": "/database/icons/ymir-emu.png"
+  },
+  {
+    "id": "yt-dlp",
+    "name": "yt-dlp",
+    "summary": "Dummy made by quick-sharun",
+    "icon_url": "/database/icons/yt-dlp.png"
+  },
+  {
+    "id": "dev.zed.Zed",
+    "name": "Open a new workspace",
+    "summary": "A high-performance, multiplayer code editor.",
+    "icon_url": "/database/icons/dev.zed.Zed.png"
+  },
+  {
+    "id": "zelda64recomp",
+    "name": "Zelda 64 Recompiled",
+    "summary": "A native port of the N64 Legend of Zelda games, statically recompiled",
+    "icon_url": "/database/icons/zelda64recomp.png"
+  },
+  {
+    "id": "zen",
+    "name": "Open Profile Manager",
+    "summary": "A fast, private and secure web browser built to improve your day-to-day experience.",
+    "icon_url": "/database/icons/zen.png"
+  },
+  {
+    "id": "zenity",
+    "name": "zenity",
+    "summary": "Dummy made by quick-sharun",
+    "icon_url": "/database/icons/zenity.png"
+  },
+  {
+    "id": "zod-engine",
+    "name": "Zod Engine",
+    "summary": "Open source remake of Z by Bitmap Brothers",
+    "icon_url": "/database/icons/zod-engine.png"
+  },
+  {
+    "id": "zsnes",
+    "name": "ZSNES",
+    "summary": "Super Nintendo emulator",
+    "icon_url": "/database/icons/zsnes.png"
+  },
+  {
+    "id": "AM-GUI",
+    "name": "AM-GUI",
+    "summary": "AM-GUI lets you manage AppImages and other portable formats using AM as engine.",
+    "icon_url": "/database/icons/AM-GUI.png"
+  },
+  {
+    "id": "com.github.AppManager",
+    "name": "AppManager",
+    "summary": "Install and uninstall AppImage applications via drag and drop",
+    "icon_url": "/database/icons/com.github.AppManager.svg"
+  },
+  {
+    "id": "net.fasterland.converseen",
+    "name": "Converseen",
+    "summary": "Batch image converter",
+    "icon_url": "/database/icons/net.fasterland.converseen.png"
+  },
+  {
+    "id": "io.github.thetumultuousunicornofdarkness.cpu-x",
+    "name": "CPU-X",
+    "summary": "Gathers information on CPU, motherboard and more",
+    "icon_url": "/database/icons/io.github.thetumultuousunicornofdarkness.cpu-x.png"
   },
   {
     "id": "dev.eden_emu.eden",
     "name": "Eden",
     "summary": "Multiplatform FOSS Switch 1 emulator written in C++, derived from Yuzu and Sudachi",
     "icon_url": "/database/icons/dev.eden_emu.eden.svg"
+  },
+  {
+    "id": "io.github.benjamimgois.goverlay",
+    "name": "Goverlay",
+    "summary": "Linux gaming tools, made easy",
+    "icon_url": "/database/icons/io.github.benjamimgois.goverlay.png"
+  },
+  {
+    "id": "gpu-t",
+    "name": "GPU-T",
+    "summary": "Graphics card information and monitoring utility",
+    "icon_url": "/database/icons/gpu-t.png"
+  },
+  {
+    "id": "interstellar",
+    "name": "Interstellar",
+    "summary": "",
+    "icon_url": "/database/icons/interstellar.png"
+  },
+  {
+    "id": "lba2cc",
+    "name": "LBA2 Classic Community",
+    "summary": "A community fork for evolving and modernizing LBA2 source port",
+    "icon_url": "/database/icons/lba2cc.png"
+  },
+  {
+    "id": "opentubex",
+    "name": "OpenTubeX",
+    "summary": "A private YouTube client",
+    "icon_url": "/database/icons/opentubex.svg"
+  },
+  {
+    "id": "PPSSPPSDL",
+    "name": "PPSSPP",
+    "summary": "",
+    "icon_url": "/database/icons/PPSSPPSDL.png"
+  },
+  {
+    "id": "org.Q-FRC.QDash",
+    "name": "QDash",
+    "summary": "Reliable, high-performance dashboard for FRC.",
+    "icon_url": "/database/icons/org.Q-FRC.QDash.svg"
+  },
+  {
+    "id": "io.github.martinrotter.rssguardlite",
+    "name": "RSS Guard Lite",
+    "summary": "Simple, yet powerful news feed reader (without web browser)",
+    "icon_url": "/database/icons/io.github.martinrotter.rssguardlite.png"
+  },
+  {
+    "id": "com.rtosta.zapzap",
+    "name": "ZapZap",
+    "summary": "WhatsApp Desktop for Linux",
+    "icon_url": "/database/icons/com.rtosta.zapzap.svg"
   }
 ]

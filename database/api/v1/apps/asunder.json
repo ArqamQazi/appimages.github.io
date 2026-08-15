@@ -1,0 +1,14 @@
+{
+  "id": "asunder",
+  "name": "Asunder CD Ripper",
+  "summary": "An application to save tracks from an Audio CD as WAV, MP3, OGG, FLAC, AAC, Opus, Musepack and/or Wavpack.",
+  "categories": [
+    "AudioVideo",
+    "Audio"
+  ],
+  "icon_name": "asunder",
+  "repo": "pkgforge-dev/Asunder-AppImage",
+  "version": "3.0.2-1@2026-08-01_1785586155",
+  "download_url": "https://github.com/pkgforge-dev/Asunder-AppImage/releases/download/3.0.2-1%402026-08-01_1785586155/Asunder_CD_Ripper-3.0.2-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/asunder.svg"
+}

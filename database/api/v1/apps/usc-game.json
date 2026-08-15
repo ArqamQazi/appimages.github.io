@@ -1,0 +1,12 @@
+{
+  "id": "usc-game",
+  "categories": [
+    "Game"
+  ],
+  "name": "usc-game",
+  "icon_name": "usc-game",
+  "repo": "pkgforge-dev/Unnamed-SDVX-clone-AppImage",
+  "version": "v0.6.0@2026-08-01_1785585712",
+  "download_url": "https://github.com/pkgforge-dev/Unnamed-SDVX-clone-AppImage/releases/download/v0.6.0%402026-08-01_1785585712/Unnamed_SDVX_clone-v0.6.0-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/usc-game.png"
+}

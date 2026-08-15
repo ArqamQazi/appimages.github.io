@@ -1,0 +1,13 @@
+{
+  "id": "android-translation-layer",
+  "name": "Android Translation Layer",
+  "summary": "A translation layer that allows running Android apps on a Linux system",
+  "categories": [
+    "Utility"
+  ],
+  "icon_name": "android-translation-layer",
+  "repo": "pkgforge-dev/android_translation_layer-AppImage",
+  "version": "cf2c759f@2026-08-08_1786197199",
+  "download_url": "https://github.com/pkgforge-dev/android_translation_layer-AppImage/releases/download/cf2c759f%402026-08-08_1786197199/Android_Translation_Layer-cf2c759f-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/android-translation-layer.svg"
+}

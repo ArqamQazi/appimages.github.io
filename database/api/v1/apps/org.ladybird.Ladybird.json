@@ -1,0 +1,13 @@
+{
+  "id": "org.ladybird.Ladybird",
+  "name": "New Window",
+  "icon_name": "org.ladybird.Ladybird",
+  "categories": [
+    "Network",
+    "WebBrowser"
+  ],
+  "repo": "pkgforge-dev/ladybird-appimage",
+  "version": "r79202.0be802797ac-1@2026-06-22_1782145637",
+  "download_url": "https://github.com/pkgforge-dev/ladybird-appimage/releases/download/r79202.0be802797ac-1%402026-06-22_1782145637/Ladybird-r79202.0be802797ac-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.ladybird.Ladybird.png"
+}

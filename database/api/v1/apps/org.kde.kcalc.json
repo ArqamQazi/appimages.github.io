@@ -1,0 +1,17 @@
+{
+  "id": "org.kde.kcalc",
+  "name": "KCalc",
+  "icon_name": "accessories-calculator",
+  "summary": "Calculator which offers many mathematical functions, such as trigonometric functions, logic operations, and statistical calculations",
+  "categories": [
+    "Qt",
+    "KDE",
+    "Utility",
+    "Calculator",
+    "X-KDE-Utilities-Desktop"
+  ],
+  "repo": "pkgforge-dev/KCalc-AppImage",
+  "version": "26.04.3-1@2026-08-01_1785586150",
+  "download_url": "https://github.com/pkgforge-dev/KCalc-AppImage/releases/download/26.04.3-1%402026-08-01_1785586150/KCalc-26.04.3-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.kde.kcalc.png"
+}

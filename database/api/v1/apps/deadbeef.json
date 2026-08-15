@@ -1,0 +1,16 @@
+{
+  "id": "deadbeef",
+  "name": "Prev",
+  "summary": "Listen to music",
+  "icon_name": "deadbeef",
+  "categories": [
+    "Audio",
+    "AudioVideo",
+    "Player",
+    "GTK"
+  ],
+  "repo": "pkgforge-dev/DeaDBeeF-AppImage",
+  "version": "1.10.3@2026-08-06_1786015972",
+  "download_url": "https://github.com/pkgforge-dev/DeaDBeeF-AppImage/releases/download/1.10.3%402026-08-06_1786015972/DeaDBeeF-1.10.3-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/deadbeef.svg"
+}

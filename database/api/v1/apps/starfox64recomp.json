@@ -1,0 +1,16 @@
+{
+  "id": "starfox64recomp",
+  "name": "Starfox 64 Recompiled",
+  "summary": "A native port of Starfox 64, statically recompiled",
+  "icon_name": "512",
+  "categories": [
+    "Game",
+    "Action",
+    "Shooting",
+    "Space"
+  ],
+  "repo": "pkgforge-dev/Starfox64Recomp-AppImage",
+  "version": "1.0.3@2026-06-01_1780331807",
+  "download_url": "https://github.com/pkgforge-dev/Starfox64Recomp-AppImage/releases/download/1.0.3%402026-06-01_1780331807/Starfox_64_Recompiled-1.0.3-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/starfox64recomp.png"
+}

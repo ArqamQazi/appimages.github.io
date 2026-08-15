@@ -1,0 +1,13 @@
+{
+  "id": "tutanota-desktop",
+  "name": "Tuta Mail",
+  "icon_name": "tutanota-desktop",
+  "summary": "The desktop client for Tutanota, the secure e-mail service.",
+  "categories": [
+    "Network"
+  ],
+  "repo": "pkgforge-dev/Tutanota-Desktop-AppImage-Enhanced",
+  "version": "355.260710.0@2026-08-01_1785586381",
+  "download_url": "https://github.com/pkgforge-dev/Tutanota-Desktop-AppImage-Enhanced/releases/download/355.260710.0%402026-08-01_1785586381/Tuta_Mail-355.260710.0-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/tutanota-desktop.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "interstellar",
+  "name": "Interstellar",
+  "icon_name": "interstellar",
+  "categories": [
+    "Network"
+  ],
+  "repo": "interstellar-app/interstellar",
+  "version": "v0.11.4",
+  "download_url": "https://github.com/interstellar-app/interstellar/releases/download/v0.11.4/interstellar-linux-x86_64.AppImage",
+  "icon_url": "/database/icons/interstellar.png"
+}

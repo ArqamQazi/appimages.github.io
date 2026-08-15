@@ -1,0 +1,13 @@
+{
+  "id": "openra-ra",
+  "name": "OpenRA - Red Alert",
+  "icon_name": "openra-ra",
+  "categories": [
+    "Game",
+    "StrategyGame"
+  ],
+  "repo": "pkgforge-dev/OpenRA-AppImage-Enhanced",
+  "version": "20250330-3@2026-08-01_1785586121",
+  "download_url": "https://github.com/pkgforge-dev/OpenRA-AppImage-Enhanced/releases/download/20250330-3%402026-08-01_1785586121/OpenRA-20250330-3-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/openra-ra.svg"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "flycast",
+  "name": "Flycast",
+  "summary": "Play your favourite Dreamcast games on your PC",
+  "icon_name": "flycast",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/Flycast-AppImage-Enhanced",
+  "version": "2.6-1@2026-08-01_1785585864",
+  "download_url": "https://github.com/pkgforge-dev/Flycast-AppImage-Enhanced/releases/download/2.6-1%402026-08-01_1785585864/Flycast-2.6-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/flycast.png"
+}

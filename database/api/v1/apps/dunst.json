@@ -1,0 +1,12 @@
+{
+  "id": "dunst",
+  "name": "dunst",
+  "summary": "Dummy made by quick-sharun",
+  "categories": [
+    "Utility"
+  ],
+  "icon_name": "dunst",
+  "repo": "pkgforge-dev/dunst-AppImage",
+  "version": "1.13.2-1@2026-08-01_1785586170",
+  "download_url": "https://github.com/pkgforge-dev/dunst-AppImage/releases/download/1.13.2-1%402026-08-01_1785586170/dunst-1.13.2-1-anylinux-x86_64.AppImage"
+}

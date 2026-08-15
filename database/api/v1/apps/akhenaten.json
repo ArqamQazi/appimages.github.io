@@ -1,0 +1,14 @@
+{
+  "id": "akhenaten",
+  "icon_name": "com.github.dalerank.akhenaten",
+  "name": "Akhenaten",
+  "summary": "Open Source re-implementation of Pharaoh.",
+  "categories": [
+    "Game",
+    "Simulation"
+  ],
+  "repo": "pkgforge-dev/Akhenaten-AppImage",
+  "version": "ra2606@2026-08-01_1785586168",
+  "download_url": "https://github.com/pkgforge-dev/Akhenaten-AppImage/releases/download/ra2606%402026-08-01_1785586168/Akhenaten-ra2606-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/akhenaten.png"
+}

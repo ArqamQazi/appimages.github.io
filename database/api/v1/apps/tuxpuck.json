@@ -1,0 +1,14 @@
+{
+  "id": "tuxpuck",
+  "name": "TuxPuck",
+  "summary": "Airhockey with tux (Shufflepuck Caf\u00e9 clone)",
+  "icon_name": "/usr/share/pixmaps/tuxpuck.ico",
+  "categories": [
+    "Application",
+    "Game"
+  ],
+  "repo": "pkgforge-dev/Tuxpuck-AppImage",
+  "version": "0.8.2-12@2026-07-01_1782914760",
+  "download_url": "https://github.com/pkgforge-dev/Tuxpuck-AppImage/releases/download/0.8.2-12%402026-07-01_1782914760/TuxPuck-0.8.2-12-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/tuxpuck.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "io.gitlab.news_flash.NewsFlash",
+  "name": "Newsflash",
+  "summary": "Keep up with your feeds",
+  "categories": [
+    "GNOME",
+    "GTK",
+    "Network",
+    "Feed"
+  ],
+  "icon_name": "io.gitlab.news_flash.NewsFlash",
+  "repo": "pkgforge-dev/NewsFlash-AppImage",
+  "version": "5.2.3-1@2026-08-02_1785673175",
+  "download_url": "https://github.com/pkgforge-dev/NewsFlash-AppImage/releases/download/5.2.3-1%402026-08-02_1785673175/Newsflash-5.2.5-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/io.gitlab.news_flash.NewsFlash.svg"
+}

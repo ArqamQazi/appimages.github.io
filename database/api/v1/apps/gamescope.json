@@ -1,0 +1,12 @@
+{
+  "id": "gamescope",
+  "name": "gamescope",
+  "summary": "Dummy made by quick-sharun",
+  "categories": [
+    "Utility"
+  ],
+  "icon_name": "gamescope",
+  "repo": "pkgforge-dev/gamescope-AppImage",
+  "version": "3.16.25-1@2026-08-01_1785586011",
+  "download_url": "https://github.com/pkgforge-dev/gamescope-AppImage/releases/download/3.16.25-1%402026-08-01_1785586011/gamescope-3.16.25-1-anylinux-x86_64.AppImage"
+}

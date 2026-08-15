@@ -1,0 +1,14 @@
+{
+  "id": "zod-engine",
+  "name": "Zod Engine",
+  "summary": "Open source remake of Z by Bitmap Brothers",
+  "icon_name": "zod-engine",
+  "categories": [
+    "Game",
+    "StrategyGame"
+  ],
+  "repo": "pkgforge-dev/Zod-Engine-AppImage",
+  "version": "2011-09-06@2026-07-01_1782907319",
+  "download_url": "https://github.com/pkgforge-dev/Zod-Engine-AppImage/releases/download/2011-09-06%402026-07-01_1782907319/Zod_Engine-2011-09-06-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/zod-engine.png"
+}

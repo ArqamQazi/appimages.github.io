@@ -1,0 +1,14 @@
+{
+  "id": "io.github.MrAlaux.Nugget-Doom",
+  "name": "Nugget Doom",
+  "icon_name": "nugget-doom",
+  "summary": "Nugget Doom is a fork of Woof! with additional features.",
+  "categories": [
+    "Game",
+    "ActionGame"
+  ],
+  "repo": "pkgforge-dev/Nugget-Doom-AppImage-Enhanced",
+  "version": "5.1.0-1@2026-08-01_1785586330",
+  "download_url": "https://github.com/pkgforge-dev/Nugget-Doom-AppImage-Enhanced/releases/download/5.1.0-1%402026-08-01_1785586330/Nugget_Doom-5.1.0-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/io.github.MrAlaux.Nugget-Doom.png"
+}

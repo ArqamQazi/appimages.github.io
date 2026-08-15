@@ -1,0 +1,14 @@
+{
+  "id": "ymir-emu",
+  "name": "Ymir",
+  "summary": "Sega Saturn Emulator",
+  "icon_name": "ymir-emu",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/Ymir-AppImage",
+  "version": "5c571f680@2026-08-01_1785586317",
+  "download_url": "https://github.com/pkgforge-dev/Ymir-AppImage/releases/download/5c571f680%402026-08-01_1785586317/Ymir-5c571f680-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/ymir-emu.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "com.dec05eba.gpu_screen_recorder",
+  "name": "GPU Screen Recorder",
+  "summary": "A gpu based screen recorder / streaming program",
+  "icon_name": "com.dec05eba.gpu_screen_recorder",
+  "categories": [
+    "AudioVideo",
+    "Recorder"
+  ],
+  "repo": "pkgforge-dev/gpu-screen-recorder-AppImage",
+  "version": "6.0.0@2026-08-09_1786261737",
+  "download_url": "https://github.com/pkgforge-dev/gpu-screen-recorder-AppImage/releases/download/6.0.0%402026-08-09_1786261737/gpu-screen-recorder-6.0.0-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/com.dec05eba.gpu_screen_recorder.png"
+}

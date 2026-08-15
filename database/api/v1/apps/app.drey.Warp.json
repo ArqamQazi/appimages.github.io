@@ -1,0 +1,13 @@
+{
+  "id": "app.drey.Warp",
+  "name": "Warp",
+  "summary": "Fast and secure file transfer",
+  "categories": [
+    "Utility"
+  ],
+  "icon_name": "app.drey.Warp",
+  "repo": "pkgforge-dev/Warp-AppImage",
+  "version": "1.0.0-1@2026-08-01_1785578571",
+  "download_url": "https://github.com/pkgforge-dev/Warp-AppImage/releases/download/1.0.0-1%402026-08-01_1785578571/Warp-1.0.0-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/app.drey.Warp.svg"
+}

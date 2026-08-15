@@ -1,0 +1,13 @@
+{
+  "id": "classicube",
+  "name": "ClassiCube",
+  "summary": "A game based on the original Minecraft Classic.",
+  "icon_name": "CCicon",
+  "categories": [
+    "Game"
+  ],
+  "repo": "pkgforge-dev/ClassiCube-AppImage",
+  "version": "9a3101c00@2026-08-01_1785586331",
+  "download_url": "https://github.com/pkgforge-dev/ClassiCube-AppImage/releases/download/9a3101c00%402026-08-01_1785586331/ClassiCube-9a3101c00-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/classicube.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "opentyrian2000",
+  "name": "OpenTyrian2000",
+  "summary": "An arcade-style shoot 'em up",
+  "icon_name": "opentyrian2000",
+  "categories": [
+    "Game",
+    "ArcadeGame"
+  ],
+  "repo": "pkgforge-dev/OpenTyrian2000-AppImage",
+  "version": "2000.20250408-1@2026-08-01_1785585056",
+  "download_url": "https://github.com/pkgforge-dev/OpenTyrian2000-AppImage/releases/download/2000.20250408-1%402026-08-01_1785585056/OpenTyrian2000-2000.20250408-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/opentyrian2000.png"
+}

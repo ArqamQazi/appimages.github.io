@@ -1,0 +1,15 @@
+{
+  "id": "sacdextractgui",
+  "name": "SACDExtractGUI",
+  "summary": "GUI to rip SACD discs",
+  "icon_name": "icon0",
+  "categories": [
+    "AudioVideo",
+    "Audio",
+    "Converter"
+  ],
+  "repo": "pkgforge-dev/SACDExtractGUI-AppImage",
+  "version": "0.1@2026-07-01_1782914662",
+  "download_url": "https://github.com/pkgforge-dev/SACDExtractGUI-AppImage/releases/download/0.1%402026-07-01_1782914662/SACDExtractGUI-0.1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/sacdextractgui.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "devilutionx",
+  "name": "DevilutionX",
+  "summary": "Play Diablo I",
+  "icon_name": "devilutionx",
+  "categories": [
+    "Game",
+    "RolePlaying"
+  ],
+  "repo": "pkgforge-dev/DevilutionX-AppImage-Enhanced",
+  "version": "1.5.5-1@2026-06-01_1780332242",
+  "download_url": "https://github.com/pkgforge-dev/DevilutionX-AppImage-Enhanced/releases/download/1.5.5-1%402026-06-01_1780332242/DevilutionX-1.5.5-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/devilutionx.png"
+}

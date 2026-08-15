@@ -1,0 +1,15 @@
+{
+  "id": "rustdesk",
+  "name": "Open a New Window",
+  "summary": "Remote Desktop",
+  "icon_name": "rustdesk",
+  "categories": [
+    "Network",
+    "RemoteAccess",
+    "GTK"
+  ],
+  "repo": "pkgforge-dev/RustDesk-AppImage-Enhanced",
+  "version": "1.4.9-1@2026-08-01_1785586045",
+  "download_url": "https://github.com/pkgforge-dev/RustDesk-AppImage-Enhanced/releases/download/1.4.9-1%402026-08-01_1785586045/RustDesk-1.4.9-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/rustdesk.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "org.gnome.Pomodoro",
+  "name": "Pomodoro",
+  "summary": "A simple time management utility",
+  "icon_name": "gnome-pomodoro",
+  "categories": [
+    "GTK",
+    "GNOME",
+    "Utility",
+    "Clock"
+  ],
+  "repo": "pkgforge-dev/gnome-pomodoro-appimage",
+  "version": "0.27.0",
+  "download_url": "https://github.com/pkgforge-dev/gnome-pomodoro-appimage/releases/download/0.27.0/Gnome-Pomodoro-0.27.0-x86_64.AppImage",
+  "icon_url": "/database/icons/org.gnome.Pomodoro.png"
+}

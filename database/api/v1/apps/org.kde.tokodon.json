@@ -1,0 +1,15 @@
+{
+  "id": "org.kde.tokodon",
+  "name": "Tokodon",
+  "summary": "Client for the Mastodon",
+  "icon_name": "org.kde.tokodon",
+  "categories": [
+    "Network",
+    "InstantMessaging",
+    "X-SocialMedia"
+  ],
+  "repo": "pkgforge-dev/Tokodon-AppImage",
+  "version": "26.04.3-1@2026-08-01_1785585636",
+  "download_url": "https://github.com/pkgforge-dev/Tokodon-AppImage/releases/download/26.04.3-1%402026-08-01_1785585636/Tokodon-26.04.3-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.kde.tokodon.svg"
+}

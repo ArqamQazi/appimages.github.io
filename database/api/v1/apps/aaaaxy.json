@@ -1,0 +1,14 @@
+{
+  "id": "aaaaxy",
+  "name": "AAAAXY",
+  "summary": "A nonlinear puzzle platformer taking place in impossible spaces.",
+  "icon_name": "aaaaxy",
+  "categories": [
+    "Game",
+    "ActionGame"
+  ],
+  "repo": "pkgforge-dev/AAAAXY-AppImage-Enhanced",
+  "version": "1.7.218-1@2026-08-01_1785586024",
+  "download_url": "https://github.com/pkgforge-dev/AAAAXY-AppImage-Enhanced/releases/download/1.7.218-1%402026-08-01_1785586024/AAAAXY-1.7.218-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/aaaaxy.svg"
+}

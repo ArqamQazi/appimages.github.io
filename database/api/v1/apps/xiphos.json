@@ -1,0 +1,13 @@
+{
+  "id": "xiphos",
+  "name": "Xiphos Bible Guide",
+  "summary": "Study the Bible",
+  "icon_name": "xiphos",
+  "categories": [
+    "Education"
+  ],
+  "repo": "pkgforge-dev/Xiphos-AppImage",
+  "version": "4.4.0-3@2026-08-01_1785586371",
+  "download_url": "https://github.com/pkgforge-dev/Xiphos-AppImage/releases/download/4.4.0-3%402026-08-01_1785586371/Xiphos_Bible_Guide-4.4.0-3-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/xiphos.svg"
+}

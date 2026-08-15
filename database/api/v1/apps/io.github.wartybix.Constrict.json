@@ -1,0 +1,16 @@
+{
+  "id": "io.github.wartybix.Constrict",
+  "name": "New Window",
+  "summary": "Compress videos to target sizes",
+  "icon_name": "io.github.wartybix.Constrict",
+  "categories": [
+    "AudioVideo",
+    "Video",
+    "GNOME",
+    "GTK"
+  ],
+  "repo": "pkgforge-dev/Constrict-AppImage",
+  "version": "26.4@2026-05-16_1778947296",
+  "download_url": "https://github.com/pkgforge-dev/Constrict-AppImage/releases/download/26.4%402026-05-16_1778947296/Constrict-26.4-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/io.github.wartybix.Constrict.svg"
+}

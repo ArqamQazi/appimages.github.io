@@ -1,0 +1,14 @@
+{
+  "id": "Simitone",
+  "name": "Simitone",
+  "summary": "The Sims 1 recreation using FreeSO engine",
+  "icon_name": "Simitone",
+  "categories": [
+    "Game",
+    "Simulation"
+  ],
+  "repo": "pkgforge-dev/Simitone-AppImage",
+  "version": "0.8.22-forked@2026-08-01_1785585540",
+  "download_url": "https://github.com/pkgforge-dev/Simitone-AppImage/releases/download/0.8.22-forked%402026-08-01_1785585540/Simitone-0.8.22-forked-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/Simitone.png"
+}

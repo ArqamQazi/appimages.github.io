@@ -1,0 +1,16 @@
+{
+  "id": "dev.zed.Zed",
+  "name": "Open a new workspace",
+  "summary": "A high-performance, multiplayer code editor.",
+  "icon_name": "zed",
+  "categories": [
+    "Utility",
+    "TextEditor",
+    "Development",
+    "IDE"
+  ],
+  "repo": "pkgforge-dev/Zed-AppImage",
+  "version": "v1.13.1@2026-08-01_1785584835",
+  "download_url": "https://github.com/pkgforge-dev/Zed-AppImage/releases/download/v1.13.1%402026-08-01_1785584835/Zed-v1.13.1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/dev.zed.Zed.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "yt-dlp",
+  "name": "yt-dlp",
+  "summary": "Dummy made by quick-sharun",
+  "categories": [
+    "Utility"
+  ],
+  "icon_name": "yt-dlp",
+  "repo": "pkgforge-dev/yt-dlp-AppImage",
+  "version": "2026.07.04-1@2026-08-02_1785641721",
+  "download_url": "https://github.com/pkgforge-dev/yt-dlp-AppImage/releases/download/2026.07.04-1%402026-08-02_1785641721/yt-dlp-2026.07.04-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/yt-dlp.png"
+}

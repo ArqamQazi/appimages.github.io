@@ -1,0 +1,17 @@
+{
+  "id": "classicimageviewer",
+  "name": "ClassicImageViewer",
+  "summary": "Simple image viewer with some editing features.",
+  "icon_name": "civ",
+  "categories": [
+    "Graphics",
+    "Viewer",
+    "RasterGraphics",
+    "2DGraphics",
+    "Photography"
+  ],
+  "repo": "pkgforge-dev/ClassicImageViewer-AppImage-Enhanced",
+  "version": "59911b250@2026-08-01_1785585928",
+  "download_url": "https://github.com/pkgforge-dev/ClassicImageViewer-AppImage-Enhanced/releases/download/59911b250%402026-08-01_1785585928/ClassicImageViewer-59911b250-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/classicimageviewer.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "visualboyadvance-m",
+  "name": "visualboyadvance-m",
+  "summary": "Nintendo Game Boy Advance Emulator",
+  "icon_name": "visualboyadvance-m",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/VisualBoyAdvance-M-AppImage",
+  "version": "2.2.3.r813.gba9a9020-1@2026-08-01_1785586019",
+  "download_url": "https://github.com/pkgforge-dev/VisualBoyAdvance-M-AppImage/releases/download/2.2.3.r813.gba9a9020-1%402026-08-01_1785586019/visualboyadvance-m-2.2.3.r813.gba9a9020-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/visualboyadvance-m.svg"
+}

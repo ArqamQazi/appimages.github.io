@@ -1,0 +1,14 @@
+{
+  "id": "helium",
+  "name": "New Incognito Window",
+  "summary": "Access the Internet",
+  "icon_name": "helium",
+  "categories": [
+    "Network",
+    "WebBrowser"
+  ],
+  "repo": "pkgforge-dev/Helium-Browser-AppImage-Enhanced",
+  "version": "0.15.3.1@2026-08-11_1786435910",
+  "download_url": "https://github.com/pkgforge-dev/Helium-Browser-AppImage-Enhanced/releases/download/0.15.3.1%402026-08-11_1786435910/Helium-0.15.3.1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/helium.png"
+}

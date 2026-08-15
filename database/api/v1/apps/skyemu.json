@@ -1,0 +1,14 @@
+{
+  "id": "skyemu",
+  "name": "SkyEmu",
+  "summary": "Game Boy Advance, Game Boy, Game Boy Color, and DS Emulator",
+  "icon_name": "skyemu",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/SkyEmu-AppImage",
+  "version": "5-1@2026-08-01_1785585787",
+  "download_url": "https://github.com/pkgforge-dev/SkyEmu-AppImage/releases/download/5-1%402026-08-01_1785585787/SkyEmu-5-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/skyemu.png"
+}

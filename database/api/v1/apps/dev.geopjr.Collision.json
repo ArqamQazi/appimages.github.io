@@ -1,0 +1,13 @@
+{
+  "id": "dev.geopjr.Collision",
+  "name": "Collision",
+  "summary": "Check hashes for your files",
+  "icon_name": "dev.geopjr.Collision",
+  "categories": [
+    "Utility"
+  ],
+  "repo": "pkgforge-dev/Collision-AppImage",
+  "version": "3.14.1-1@2026-08-01_1785586251",
+  "download_url": "https://github.com/pkgforge-dev/Collision-AppImage/releases/download/3.14.1-1%402026-08-01_1785586251/Collision-3.14.1-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/dev.geopjr.Collision.svg"
+}

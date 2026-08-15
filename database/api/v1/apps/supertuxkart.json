@@ -1,0 +1,13 @@
+{
+  "id": "supertuxkart",
+  "name": "SuperTuxKart",
+  "icon_name": "supertuxkart",
+  "categories": [
+    "Game",
+    "ArcadeGame"
+  ],
+  "repo": "pkgforge-dev/SuperTuxKart-AppImage-Enhanced",
+  "version": "1.5-1@2026-07-01_1782914677",
+  "download_url": "https://github.com/pkgforge-dev/SuperTuxKart-AppImage-Enhanced/releases/download/1.5-1%402026-07-01_1782914677/SuperTuxKart-1.5-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/supertuxkart.png"
+}

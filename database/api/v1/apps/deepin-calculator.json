@@ -1,0 +1,14 @@
+{
+  "id": "deepin-calculator",
+  "categories": [
+    "Utility",
+    "Calculator"
+  ],
+  "summary": "Calculator",
+  "icon_name": "deepin-calculator",
+  "name": "Deepin Calculator",
+  "repo": "pkgforge-dev/Deepin-Calculator-AppImage",
+  "version": "6.5.37-1@2026-07-30_1785393694",
+  "download_url": "https://github.com/pkgforge-dev/Deepin-Calculator-AppImage/releases/download/6.5.37-1%402026-07-30_1785393694/Deepin_Calculator-6.5.37-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/deepin-calculator.svg"
+}

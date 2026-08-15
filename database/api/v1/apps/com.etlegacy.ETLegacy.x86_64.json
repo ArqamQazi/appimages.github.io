@@ -1,0 +1,14 @@
+{
+  "id": "com.etlegacy.ETLegacy.x86_64",
+  "name": "ET: Legacy (x86 64-bit)",
+  "summary": "World War II first-person shooter",
+  "icon_name": "etl",
+  "categories": [
+    "Game",
+    "ActionGame"
+  ],
+  "repo": "pkgforge-dev/ETLegacy-AppImage",
+  "version": "2.84.0.21.g7a784b450-1@2026-08-01_1785586100",
+  "download_url": "https://github.com/pkgforge-dev/ETLegacy-AppImage/releases/download/2.84.0.21.g7a784b450-1%402026-08-01_1785586100/ET_Legacy-2.84.0.21.g7a784b450-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/com.etlegacy.ETLegacy.x86_64.svg"
+}

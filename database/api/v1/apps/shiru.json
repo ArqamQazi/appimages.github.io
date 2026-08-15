@@ -1,0 +1,14 @@
+{
+  "id": "shiru",
+  "name": "Shiru",
+  "icon_name": "shiru",
+  "summary": "A personal anime library manager for watching and tracking your collection in real time. Lightweight, powerful, and paws-itively fast. No waiting required!",
+  "categories": [
+    "AudioVideo",
+    "Video"
+  ],
+  "repo": "pkgforge-dev/Shiru-AppImage",
+  "version": "v6.8.0@2026-08-05_1785918252",
+  "download_url": "https://github.com/pkgforge-dev/Shiru-AppImage/releases/download/v6.8.0%402026-08-05_1785918252/Shiru-v6.8.0-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/shiru.png"
+}

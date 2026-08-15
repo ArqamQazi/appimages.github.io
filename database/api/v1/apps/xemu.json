@@ -1,0 +1,14 @@
+{
+  "id": "xemu",
+  "name": "xemu",
+  "summary": "Emulator for the original Xbox console",
+  "icon_name": "xemu",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/xemu-AppImage-Enhanced",
+  "version": "0.8.135-1@2026-08-01_1785585799",
+  "download_url": "https://github.com/pkgforge-dev/xemu-AppImage-Enhanced/releases/download/0.8.135-1%402026-08-01_1785585799/xemu-0.8.135-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/xemu.svg"
+}

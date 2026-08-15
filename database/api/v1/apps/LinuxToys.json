@@ -1,0 +1,13 @@
+{
+  "id": "LinuxToys",
+  "name": "LinuxToys",
+  "icon_name": "linuxtoys",
+  "summary": "A set of tools for Linux presented in a user-friendly way",
+  "categories": [
+    "Development"
+  ],
+  "repo": "pkgforge-dev/LinuxToys-AppImage",
+  "version": "6.5.2-1@2026-08-01_1785586300",
+  "download_url": "https://github.com/pkgforge-dev/LinuxToys-AppImage/releases/download/6.5.2-1%402026-08-01_1785586300/LinuxToys-6.5.2-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/LinuxToys.svg"
+}

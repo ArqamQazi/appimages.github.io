@@ -1,0 +1,15 @@
+{
+  "id": "htop",
+  "name": "Htop",
+  "summary": "Show System Processes",
+  "icon_name": "htop",
+  "categories": [
+    "System",
+    "Monitor",
+    "ConsoleOnly"
+  ],
+  "repo": "pkgforge-dev/htop-AppImage",
+  "version": "3.5.2@2026-08-02_1785661592",
+  "download_url": "https://github.com/pkgforge-dev/htop-AppImage/releases/download/3.5.2%402026-08-02_1785661592/Htop-3.5.2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/htop.png"
+}

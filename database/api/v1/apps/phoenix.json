@@ -1,0 +1,12 @@
+{
+  "id": "phoenix",
+  "name": "phoenix",
+  "summary": "Dummy made by quick-sharun",
+  "categories": [
+    "Utility"
+  ],
+  "icon_name": "phoenix",
+  "repo": "pkgforge-dev/phoenix-x-server-AppImage",
+  "version": "r319.49faeb0-1@2026-08-01_1785585268",
+  "download_url": "https://github.com/pkgforge-dev/phoenix-x-server-AppImage/releases/download/r319.49faeb0-1%402026-08-01_1785585268/phoenix-r319.49faeb0-1-anylinux-x86_64.AppImage"
+}

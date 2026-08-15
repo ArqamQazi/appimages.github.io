@@ -1,0 +1,15 @@
+{
+  "id": "org.speedcrunch.SpeedCrunch",
+  "name": "SpeedCrunch",
+  "icon_name": "org.speedcrunch.SpeedCrunch",
+  "summary": "A high-precision scientific calculator",
+  "categories": [
+    "Qt",
+    "Utility",
+    "Calculator"
+  ],
+  "repo": "pkgforge-dev/SpeedCrunch-AppImage",
+  "version": "0.12@2026-07-01_1782912074",
+  "download_url": "https://github.com/pkgforge-dev/SpeedCrunch-AppImage/releases/download/0.12%402026-07-01_1782912074/SpeedCrunch-0.12-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.speedcrunch.SpeedCrunch.svg"
+}

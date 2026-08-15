@@ -1,0 +1,14 @@
+{
+  "id": "gpu-t",
+  "name": "GPU-T",
+  "icon_name": "gpu_t",
+  "categories": [
+    "System",
+    "Monitor"
+  ],
+  "summary": "Graphics card information and monitoring utility",
+  "repo": "lseurttyuu/GPU-T",
+  "version": "v0.2.2",
+  "download_url": "https://github.com/lseurttyuu/GPU-T/releases/download/v0.2.2/GPU-T-0.2.2-x86_64.AppImage",
+  "icon_url": "/database/icons/gpu-t.png"
+}

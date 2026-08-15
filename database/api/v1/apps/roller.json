@@ -1,0 +1,15 @@
+{
+  "id": "roller",
+  "name": "Roller",
+  "summary": "Reverse engineering the 1995 game Whiplash/Fatal Racing",
+  "icon_name": "roller",
+  "categories": [
+    "Game",
+    "Racing",
+    "Simulator"
+  ],
+  "repo": "pkgforge-dev/ROLLER-AppImage",
+  "version": "4bf513232@2026-05-01_1777638920",
+  "download_url": "https://github.com/pkgforge-dev/ROLLER-AppImage/releases/download/4bf513232%402026-05-01_1777638920/Roller-4bf513232-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/roller.png"
+}

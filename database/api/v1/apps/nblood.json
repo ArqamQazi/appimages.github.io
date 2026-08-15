@@ -1,0 +1,13 @@
+{
+  "id": "nblood",
+  "name": "NBlood",
+  "icon_name": "nblood",
+  "categories": [
+    "Game",
+    "ActionGame"
+  ],
+  "repo": "pkgforge-dev/NBlood-AppImage",
+  "version": "d66806847@2026-08-01_1785585767",
+  "download_url": "https://github.com/pkgforge-dev/NBlood-AppImage/releases/download/d66806847%402026-08-01_1785585767/NBlood-d66806847-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/nblood.png"
+}

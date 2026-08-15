@@ -1,0 +1,13 @@
+{
+  "id": "ffmpeg",
+  "name": "ffmpeg",
+  "summary": "Dummy made by quick-sharun",
+  "categories": [
+    "Utility"
+  ],
+  "icon_name": "ffmpeg",
+  "repo": "pkgforge-dev/FFmpeg-AppImage",
+  "version": "8.1.2-11@2026-08-01_1785586321",
+  "download_url": "https://github.com/pkgforge-dev/ffmpeg-AppImage/releases/download/8.1.2-11%402026-08-01_1785586321/ffmpeg-8.1.2-11-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/ffmpeg.png"
+}

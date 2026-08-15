@@ -1,0 +1,14 @@
+{
+  "id": "dosboxpure",
+  "name": "DOSBox Pure Unleashed",
+  "summary": "DOSBox reimagined with a friendly interface ZIP loading and save states",
+  "icon_name": "logo",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/DOSBox-Pure-Unleashed-AppImage",
+  "version": "4a1141224@2026-08-01_1785586171",
+  "download_url": "https://github.com/pkgforge-dev/DOSBox-Pure-Unleashed-AppImage/releases/download/4a1141224%402026-08-01_1785586171/DOSBox_Pure_Unleashed-4a1141224-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/dosboxpure.png"
+}

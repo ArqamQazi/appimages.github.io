@@ -1,0 +1,16 @@
+{
+  "id": "Pinta",
+  "name": "Pinta",
+  "summary": "Easily create and edit images",
+  "icon_name": "com.github.PintaProject.Pinta",
+  "categories": [
+    "Graphics",
+    "2DGraphics",
+    "RasterGraphics",
+    "GTK"
+  ],
+  "repo": "pkgforge-dev/Pinta-AppImage",
+  "version": "3.1.2@2026-08-04_1785829451",
+  "download_url": "https://github.com/pkgforge-dev/Pinta-AppImage/releases/download/3.1.2%402026-08-04_1785829451/Pinta-3.1.2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/Pinta.png"
+}

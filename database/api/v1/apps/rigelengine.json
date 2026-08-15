@@ -1,0 +1,13 @@
+{
+  "id": "rigelengine",
+  "name": "RigelEngine",
+  "summary": "A modern re-implementation of the classic DOS game Duke Nukem II",
+  "icon_name": "rigelengine",
+  "categories": [
+    "Game"
+  ],
+  "repo": "pkgforge-dev/RigelEngine-AppImage",
+  "version": "0.9.1-f05996f9@2026-08-01_1785585570",
+  "download_url": "https://github.com/pkgforge-dev/RigelEngine-AppImage/releases/download/0.9.1-f05996f9%402026-08-01_1785585570/RigelEngine-0.9.1-f05996f9-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/rigelengine.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "sameboy",
+  "icon_name": "sameboy",
+  "name": "SameBoy",
+  "summary": "Game Boy and Game Boy Color emulator",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/SameBoy-AppImage",
+  "version": "1.0.3-2@2026-08-01_1785586214",
+  "download_url": "https://github.com/pkgforge-dev/SameBoy-AppImage/releases/download/1.0.3-2%402026-08-01_1785586214/SameBoy-1.0.3-2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/sameboy.png"
+}

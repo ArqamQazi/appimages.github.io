@@ -1,0 +1,15 @@
+{
+  "id": "lba2cc",
+  "name": "LBA2 Classic Community",
+  "summary": "A community fork for evolving and modernizing LBA2 source port",
+  "icon_name": "lba2cc",
+  "categories": [
+    "Game",
+    "Adventure",
+    "Platform"
+  ],
+  "repo": "LBALab/lba2-classic-community",
+  "version": "v0.12.0",
+  "download_url": "https://github.com/LBALab/lba2-classic-community/releases/download/v0.12.0/lba2cc-0.12.0-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/lba2cc.png"
+}

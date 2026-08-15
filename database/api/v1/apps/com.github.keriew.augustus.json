@@ -1,0 +1,14 @@
+{
+  "id": "com.github.keriew.augustus",
+  "icon_name": "com.github.keriew.augustus",
+  "name": "Augustus",
+  "summary": "Open Source re-implementation of Caesar 3.",
+  "categories": [
+    "Game",
+    "Simulation"
+  ],
+  "repo": "pkgforge-dev/Augustus-AppImage-Enhanced",
+  "version": "4.0.0-2@2026-08-01_1785586284",
+  "download_url": "https://github.com/pkgforge-dev/Augustus-AppImage-Enhanced/releases/download/4.0.0-2%402026-08-01_1785586284/Augustus-4.0.0-2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/com.github.keriew.augustus.png"
+}

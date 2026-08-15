@@ -1,0 +1,16 @@
+{
+  "id": "org.legoisland.Isle",
+  "name": "Configure Settings",
+  "summary": "Portable version of the LEGO Island Decompilation Project",
+  "icon_name": "settings",
+  "categories": [
+    "Game",
+    "KidsGame",
+    "AdventureGame",
+    "Qt"
+  ],
+  "repo": "pkgforge-dev/isle-portable-AppImage-Enhanced",
+  "version": "45253d16f@2026-08-01_1785584986",
+  "download_url": "https://github.com/pkgforge-dev/isle-portable-AppImage-Enhanced/releases/download/45253d16f%402026-08-01_1785584986/Isle_Portable-45253d16f-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.legoisland.Isle.svg"
+}

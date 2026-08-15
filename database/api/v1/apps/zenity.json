@@ -1,0 +1,13 @@
+{
+  "id": "zenity",
+  "name": "zenity",
+  "summary": "Dummy made by quick-sharun",
+  "categories": [
+    "Utility"
+  ],
+  "icon_name": "zenity",
+  "repo": "pkgforge-dev/Zenity-GTK3-AppImage",
+  "version": "3.44.5@2026-07-01_1782914451",
+  "download_url": "https://github.com/pkgforge-dev/Zenity-GTK3-AppImage/releases/download/3.44.5%402026-07-01_1782914451/zenity-3.44.5-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/zenity.png"
+}

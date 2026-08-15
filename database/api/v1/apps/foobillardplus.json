@@ -1,0 +1,10 @@
+{
+  "id": "foobillardplus",
+  "icon_name": "foobillardplus.png",
+  "name": "Foobillard++",
+  "summary": "OpenGL Billiard Game",
+  "repo": "pkgforge-dev/Foobillardpp-AppImage",
+  "version": "3.42beta@2026-07-01_1782914468",
+  "download_url": "https://github.com/pkgforge-dev/Foobillardpp-AppImage/releases/download/3.42beta%402026-07-01_1782914468/Foobillard%2B%2B-3.42beta-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/foobillardplus.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "org.godotengine.Godot",
+  "name": "Godot Engine",
+  "summary": "Multi-platform 2D and 3D game engine with a feature-rich editor",
+  "icon_name": "godot",
+  "categories": [
+    "Development",
+    "IDE"
+  ],
+  "repo": "pkgforge-dev/Godot-AppImage",
+  "version": "4.7-1@2026-07-01_1782914826",
+  "download_url": "https://github.com/pkgforge-dev/Godot-AppImage/releases/download/4.7-1%402026-07-01_1782914826/Godot_Engine-4.7-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.godotengine.Godot.svg"
+}

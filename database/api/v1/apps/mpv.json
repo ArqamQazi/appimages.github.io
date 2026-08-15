@@ -1,0 +1,17 @@
+{
+  "id": "mpv",
+  "name": "mpv Media Player",
+  "summary": "Play movies and songs",
+  "icon_name": "mpv",
+  "categories": [
+    "AudioVideo",
+    "Audio",
+    "Video",
+    "Player",
+    "TV"
+  ],
+  "repo": "pkgforge-dev/mpv-AppImage",
+  "version": "v0.41.0@2026-08-12_1786573101",
+  "download_url": "https://github.com/pkgforge-dev/mpv-AppImage/releases/download/v0.41.0%402026-08-12_1786573101/mpv-v0.41.0-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/mpv.png"
+}

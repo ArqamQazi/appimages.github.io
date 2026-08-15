@@ -1,0 +1,14 @@
+{
+  "id": "gearlynx",
+  "name": "Gearlynx",
+  "summary": "Atari Lynx emulator",
+  "icon_name": "icon",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/Gearlynx-AppImage",
+  "version": "1.2.21@2026-08-01_1785586110",
+  "download_url": "https://github.com/pkgforge-dev/Gearlynx-AppImage/releases/download/1.2.21%402026-08-01_1785586110/Gearlynx-1.2.21-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/gearlynx.png"
+}

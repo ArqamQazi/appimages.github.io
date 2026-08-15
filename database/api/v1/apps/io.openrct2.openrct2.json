@@ -1,0 +1,14 @@
+{
+  "id": "io.openrct2.openrct2",
+  "icon_name": "openrct2",
+  "name": "OpenRCT2",
+  "summary": "Open Source re-implementation of RollerCoaster Tycoon 2.",
+  "categories": [
+    "Game",
+    "Simulation"
+  ],
+  "repo": "pkgforge-dev/OpenRCT2-AppImage-Enhanced",
+  "version": "0.5.3-1@2026-08-01_1785585041",
+  "download_url": "https://github.com/pkgforge-dev/OpenRCT2-AppImage-Enhanced/releases/download/0.5.3-1%402026-08-01_1785585041/OpenRCT2-0.5.3-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/io.openrct2.openrct2.svg"
+}

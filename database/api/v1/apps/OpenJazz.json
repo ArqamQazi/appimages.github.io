@@ -1,0 +1,14 @@
+{
+  "id": "OpenJazz",
+  "name": "OpenJazz",
+  "summary": "Jazz Jackrabbit\u2122 game engine reimplementation",
+  "icon_name": "OpenJazz",
+  "categories": [
+    "Game",
+    "ActionGame"
+  ],
+  "repo": "pkgforge-dev/OpenJazz-AppImage",
+  "version": "20260301.r30.g1236678-1@2026-08-01_1785577242",
+  "download_url": "https://github.com/pkgforge-dev/OpenJazz-AppImage/releases/download/20260301.r30.g1236678-1%402026-08-01_1785577242/OpenJazz-20260301.r30.g1236678-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/OpenJazz.svg"
+}

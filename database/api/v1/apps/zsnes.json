@@ -1,0 +1,14 @@
+{
+  "id": "zsnes",
+  "name": "ZSNES",
+  "summary": "Super Nintendo emulator",
+  "icon_name": "128x128x32",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/ZSNES-AppImage",
+  "version": "f1f078de3@2026-08-01_1785585808",
+  "download_url": "https://github.com/pkgforge-dev/ZSNES-AppImage/releases/download/f1f078de3%402026-08-01_1785585808/ZSNES-f1f078de3-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/zsnes.png"
+}

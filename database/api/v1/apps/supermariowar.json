@@ -1,0 +1,13 @@
+{
+  "id": "supermariowar",
+  "name": "Super Mario War",
+  "summary": "Launch Super Mario War",
+  "icon_name": "smw",
+  "categories": [
+    "Game"
+  ],
+  "repo": "pkgforge-dev/Supermariowar-AppImage",
+  "version": "r1772.051723d0-1@2026-08-01_1785586346",
+  "download_url": "https://github.com/pkgforge-dev/Supermariowar-AppImage/releases/download/r1772.051723d0-1%402026-08-01_1785586346/Super_Mario_War-r1772.051723d0-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/supermariowar.png"
+}

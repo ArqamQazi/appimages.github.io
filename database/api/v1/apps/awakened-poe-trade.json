@@ -1,0 +1,12 @@
+{
+  "id": "awakened-poe-trade",
+  "name": "Awakened PoE Trade",
+  "icon_name": "awakened-poe-trade",
+  "categories": [
+    "Utility"
+  ],
+  "repo": "pkgforge-dev/Awakened-POE-Trade-AppImage-Enhanced",
+  "version": "3.29.104@2026-08-08_1786229320",
+  "download_url": "https://github.com/pkgforge-dev/Awakened-POE-Trade-AppImage-Enhanced/releases/download/3.29.104%402026-08-08_1786229320/Awakened_PoE_Trade-3.29.104-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/awakened-poe-trade.png"
+}

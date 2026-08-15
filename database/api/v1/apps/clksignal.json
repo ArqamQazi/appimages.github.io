@@ -1,0 +1,14 @@
+{
+  "id": "clksignal",
+  "name": "Clock Signal",
+  "summary": "\"A latency-hating emulator for 8 and 16 bit platforms\"",
+  "icon_name": "Icon",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/CLK-AppImage",
+  "version": "2026-04-07@2026-05-01_1777637001",
+  "download_url": "https://github.com/pkgforge-dev/CLK-AppImage/releases/download/2026-04-07%402026-05-01_1777637001/Clock_Signal-2026-04-07-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/clksignal.png"
+}

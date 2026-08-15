@@ -1,0 +1,15 @@
+{
+  "id": "opengothic",
+  "name": "OpenGothic",
+  "icon_name": "icon",
+  "categories": [
+    "Game",
+    "Third-person",
+    "RPG"
+  ],
+  "summary": "\"Reimplementation of Gothic 1 & 2 Notr\"",
+  "repo": "pkgforge-dev/OpenGothic-AppImage",
+  "version": "a8a6c7c@2026-08-04_1785886310",
+  "download_url": "https://github.com/pkgforge-dev/OpenGothic-AppImage/releases/download/a8a6c7c%402026-08-04_1785886310/OpenGothic-a8a6c7c-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/opengothic.png"
+}

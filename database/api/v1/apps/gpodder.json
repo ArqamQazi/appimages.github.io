@@ -1,0 +1,18 @@
+{
+  "id": "gpodder",
+  "name": "gPodder",
+  "summary": "Subscribe to audio and video content from the web",
+  "icon_name": "gpodder",
+  "categories": [
+    "AudioVideo",
+    "Audio",
+    "Network",
+    "FileTransfer",
+    "News",
+    "GTK"
+  ],
+  "repo": "pkgforge-dev/gPodder-AppImage",
+  "version": "3.11.5-4@2026-08-01_1785586262",
+  "download_url": "https://github.com/pkgforge-dev/gPodder-AppImage/releases/download/3.11.5-4%402026-08-01_1785586262/gPodder-3.11.5-4-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/gpodder.svg"
+}

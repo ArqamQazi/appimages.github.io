@@ -1,0 +1,16 @@
+{
+  "id": "org.desmume.DeSmuME",
+  "name": "DeSmuME (Gtk)",
+  "summary": "Nintento DS emulator",
+  "icon_name": "org.desmume.DeSmuME",
+  "categories": [
+    "GNOME",
+    "GTK",
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/DeSmuME-AppImage",
+  "version": "0.9.13-2@2026-08-01_1785586081",
+  "download_url": "https://github.com/pkgforge-dev/DeSmuME-AppImage/releases/download/0.9.13-2%402026-08-01_1785586081/DeSmuME-0.9.13-2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.desmume.DeSmuME.svg"
+}

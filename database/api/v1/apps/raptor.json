@@ -1,0 +1,15 @@
+{
+  "id": "raptor",
+  "name": "Raptor",
+  "summary": "Reversed-engineered source port from Raptor Call Of The Shadows",
+  "icon_name": "raptor",
+  "categories": [
+    "Game",
+    "Shootemup",
+    "Plane"
+  ],
+  "repo": "pkgforge-dev/Raptor-AppImage",
+  "version": "0019c5dd8@2026-08-01_1785585981",
+  "download_url": "https://github.com/pkgforge-dev/Raptor-AppImage/releases/download/0019c5dd8%402026-08-01_1785585981/Raptor-0019c5dd8-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/raptor.png"
+}

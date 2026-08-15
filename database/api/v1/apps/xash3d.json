@@ -1,0 +1,14 @@
+{
+  "id": "xash3d",
+  "name": "Xash3D",
+  "summary": "A custom GoldSrc engine implementation",
+  "icon_name": "icon-xash-material",
+  "categories": [
+    "Game",
+    "Action"
+  ],
+  "repo": "pkgforge-dev/Xash3D-FWGS-AppImage-Enhanced",
+  "version": "04fbe1a35@2026-08-01_1785586002",
+  "download_url": "https://github.com/pkgforge-dev/Xash3D-FWGS-AppImage-Enhanced/releases/download/04fbe1a35%402026-08-01_1785586002/Xash3D-04fbe1a35-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/xash3d.png"
+}

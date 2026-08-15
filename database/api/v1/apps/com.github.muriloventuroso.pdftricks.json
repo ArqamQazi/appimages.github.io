@@ -1,0 +1,15 @@
+{
+  "id": "com.github.muriloventuroso.pdftricks",
+  "name": "PDF Tricks",
+  "summary": "A simple, efficient app for small manipulation of PDF files. Compress, split, merge and convert PDF.",
+  "categories": [
+    "GTK",
+    "Utility",
+    "Publishing"
+  ],
+  "icon_name": "com.github.muriloventuroso.pdftricks",
+  "repo": "pkgforge-dev/PDF-Tricks-AppImage",
+  "version": "0.4.1-1@2026-08-01_1785586075",
+  "download_url": "https://github.com/pkgforge-dev/PDF-Tricks-AppImage/releases/download/0.4.1-1%402026-08-01_1785586075/PDF_Tricks-0.4.1-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/com.github.muriloventuroso.pdftricks.svg"
+}

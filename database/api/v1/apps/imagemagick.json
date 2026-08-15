@@ -1,0 +1,13 @@
+{
+  "id": "imagemagick",
+  "name": "ImageMagick",
+  "icon_name": "imagemagick",
+  "summary": "Create, edit, compose, or convert bitmap images",
+  "categories": [
+    "Graphics"
+  ],
+  "repo": "pkgforge-dev/ImageMagick-AppImage",
+  "version": "7.1.2.29-2@2026-08-09_1786308169",
+  "download_url": "https://github.com/pkgforge-dev/ImageMagick-AppImage/releases/download/7.1.2.29-2%402026-08-09_1786308169/ImageMagick-7.1.2.29-2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/imagemagick.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br.gov.fazenda.receita.irpf2026",
+  "name": "IRPF 2026",
+  "summary": "Declare seu imposto de renda (Ano-calend\u00e1rio 2025)",
+  "icon_name": "br.gov.fazenda.receita.irpf2026",
+  "categories": [
+    "Office",
+    "Network"
+  ],
+  "repo": "pkgforge-dev/IRPF2026-AppImage",
+  "version": "1.5@2026-07-27_1785183360",
+  "download_url": "https://github.com/pkgforge-dev/IRPF2026-AppImage/releases/download/1.5%402026-07-27_1785183360/IRPF_2026-1.5-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/br.gov.fazenda.receita.irpf2026.png"
+}

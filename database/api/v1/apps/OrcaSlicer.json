@@ -1,0 +1,14 @@
+{
+  "id": "OrcaSlicer",
+  "name": "OrcaSlicer",
+  "icon_name": "OrcaSlicer",
+  "categories": [
+    "Graphics",
+    "3DGraphics",
+    "Engineering"
+  ],
+  "repo": "pkgforge-dev/OrcaSlicer-AppImage-Enhanced",
+  "version": "2.3.2-6@2026-06-22_1782147095",
+  "download_url": "https://github.com/pkgforge-dev/OrcaSlicer-AppImage-Enhanced/releases/download/2.3.2-6%402026-06-22_1782147095/OrcaSlicer-2.3.2-6-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/OrcaSlicer.png"
+}

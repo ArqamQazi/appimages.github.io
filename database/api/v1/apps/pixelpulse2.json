@@ -1,0 +1,15 @@
+{
+  "id": "pixelpulse2",
+  "name": "Pixelpulse2",
+  "summary": "Digital frontend for the ADALM1000",
+  "icon_name": "pp2",
+  "categories": [
+    "Utility",
+    "Application",
+    "Development"
+  ],
+  "repo": "pkgforge-dev/Pixelpulse2-AppImage",
+  "version": "25725434013",
+  "download_url": "https://github.com/pkgforge-dev/Pixelpulse2-AppImage/releases/download/25725434013/Pixelpulse2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/pixelpulse2.png"
+}

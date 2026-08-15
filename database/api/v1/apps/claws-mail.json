@@ -1,0 +1,14 @@
+{
+  "id": "claws-mail",
+  "name": "Import mbox file...",
+  "icon_name": "claws-mail",
+  "categories": [
+    "Network",
+    "Email"
+  ],
+  "summary": "Lightweight and Fast GTK based Mail Client",
+  "repo": "pkgforge-dev/Claws-Mail-AppImage",
+  "version": "4.4.0-4@2026-08-01_1785586362",
+  "download_url": "https://github.com/pkgforge-dev/Claws-Mail-AppImage/releases/download/4.4.0-4%402026-08-01_1785586362/Claws_Mail-4.4.0-4-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/claws-mail.png"
+}

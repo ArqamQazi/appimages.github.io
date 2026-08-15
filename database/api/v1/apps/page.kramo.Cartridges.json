@@ -1,0 +1,16 @@
+{
+  "id": "page.kramo.Cartridges",
+  "name": "Cartridges",
+  "summary": "Launch all your games",
+  "icon_name": "page.kramo.Cartridges",
+  "categories": [
+    "GNOME",
+    "GTK",
+    "Game",
+    "PackageManager"
+  ],
+  "repo": "pkgforge-dev/Cartridges-AppImage",
+  "version": "2.13.1-1@2026-08-14_1786735839",
+  "download_url": "https://github.com/pkgforge-dev/Cartridges-AppImage/releases/download/2.13.1-1%402026-08-14_1786735839/Cartridges-2.13.1-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/page.kramo.Cartridges.svg"
+}

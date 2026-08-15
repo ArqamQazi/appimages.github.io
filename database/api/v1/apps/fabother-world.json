@@ -1,0 +1,13 @@
+{
+  "id": "fabother-world",
+  "name": "Fabother World",
+  "summary": "Another World (Out Of This World) interpreter",
+  "icon_name": "fabother-world",
+  "categories": [
+    "Game"
+  ],
+  "repo": "pkgforge-dev/Fabother-World-AppImage",
+  "version": "r86.170b7d4-1@2026-08-01_1785585831",
+  "download_url": "https://github.com/pkgforge-dev/Fabother-World-AppImage/releases/download/r86.170b7d4-1%402026-08-01_1785585831/Fabother_World-r86.170b7d4-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/fabother-world.png"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "AM-GUI",
+  "name": "AM-GUI",
+  "summary": "AM-GUI lets you manage AppImages and other portable formats using AM as engine.",
+  "icon_name": "AM-GUI.png",
+  "categories": [
+    "Utility",
+    "System",
+    "PackageManager"
+  ],
+  "repo": "Shikakiben/AM-GUI",
+  "version": "beta-1.85@2026-06-25_1782412770",
+  "download_url": "https://github.com/Shikakiben/AM-GUI/releases/download/beta-1.85%402026-06-25_1782412770/AM-GUI-beta-1.85-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/AM-GUI.png"
+}

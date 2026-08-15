@@ -1,0 +1,13 @@
+{
+  "id": "qemu",
+  "name": "QEMU",
+  "icon_name": "qemu",
+  "summary": "\"A generic and open source machine & userspace emulator and virtualizer\"",
+  "categories": [
+    "System"
+  ],
+  "repo": "pkgforge-dev/QEMU-AppImage",
+  "version": "11.0.2-2@2026-07-06_1783352658",
+  "download_url": "https://github.com/pkgforge-dev/QEMU-AppImage/releases/download/11.0.2-2%402026-07-06_1783352658/QEMU-11.0.2-2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/qemu.svg"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "nsz",
+  "name": "nsz",
+  "summary": "Dummy made by quick-sharun",
+  "categories": [
+    "Utility"
+  ],
+  "icon_name": "nsz",
+  "repo": "pkgforge-dev/NSZ-AppImage",
+  "version": "4.6.1-5@2026-08-01_1785586004",
+  "download_url": "https://github.com/pkgforge-dev/NSZ-AppImage/releases/download/4.6.1-5%402026-08-01_1785586004/NSZ-4.6.1-5-anylinux-x86_64.AppImage"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "QMPlay2",
+  "icon_name": "QMPlay2",
+  "name": "Next",
+  "summary": "Watching movies and listening to music",
+  "categories": [
+    "Qt",
+    "AudioVideo",
+    "Player",
+    "Audio",
+    "Video"
+  ],
+  "repo": "pkgforge-dev/QMPlay2-AppImage-Enhanced",
+  "version": "26.08.02.r1.gaba8fe43-1@2026-08-04_1785814627",
+  "download_url": "https://github.com/pkgforge-dev/QMPlay2-AppImage/releases/download/26.08.02.r1.gaba8fe43-1%402026-08-04_1785814627/QMPlay2-26.08.02.r1.gaba8fe43-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/QMPlay2.png"
+}

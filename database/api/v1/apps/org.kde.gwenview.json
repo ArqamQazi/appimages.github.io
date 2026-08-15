@@ -1,0 +1,17 @@
+{
+  "id": "org.kde.gwenview",
+  "name": "Gwenview",
+  "summary": "A simple image viewer",
+  "icon_name": "gwenview",
+  "categories": [
+    "Qt",
+    "KDE",
+    "Graphics",
+    "Viewer",
+    "Photography"
+  ],
+  "repo": "pkgforge-dev/Gwenview-AppImage",
+  "version": "26.04.3-1@2026-08-01_1785586263",
+  "download_url": "https://github.com/pkgforge-dev/Gwenview-AppImage/releases/download/26.04.3-1%402026-08-01_1785586263/Gwenview-26.04.3-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.kde.gwenview.png"
+}

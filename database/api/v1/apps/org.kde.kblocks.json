@@ -1,0 +1,15 @@
+{
+  "id": "org.kde.kblocks",
+  "name": "KBlocks",
+  "icon_name": "kblocks",
+  "categories": [
+    "Qt",
+    "KDE",
+    "Game",
+    "ArcadeGame"
+  ],
+  "repo": "pkgforge-dev/KBlocks-AppImage",
+  "version": "26.04.3-1@2026-08-01_1785586030",
+  "download_url": "https://github.com/pkgforge-dev/KBlocks-AppImage/releases/download/26.04.3-1%402026-08-01_1785586030/KBlocks-26.04.3-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.kde.kblocks.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "gearecoleco",
+  "name": "Gearcoleco",
+  "summary": "\"ColecoVision emulator\"",
+  "icon_name": "image",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/Gearcoleco-AppImage",
+  "version": "1.6.8@2026-08-01_1785586192",
+  "download_url": "https://github.com/pkgforge-dev/Gearcoleco-AppImage/releases/download/1.6.8%402026-08-01_1785586192/Gearcoleco-1.6.8-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/gearecoleco.png"
+}

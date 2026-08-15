@@ -1,0 +1,13 @@
+{
+  "id": "PPSSPPSDL",
+  "name": "PPSSPP",
+  "icon_name": "ppsspp",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "hrydgard/PPSSPP",
+  "version": "v1.20.4",
+  "download_url": "https://github.com/hrydgard/ppsspp/releases/download/v1.20.4/PPSSPP-v1.20.4-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/PPSSPPSDL.png"
+}

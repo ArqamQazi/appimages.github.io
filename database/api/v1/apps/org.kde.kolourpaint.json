@@ -1,0 +1,17 @@
+{
+  "id": "org.kde.kolourpaint",
+  "name": "KolourPaint",
+  "summary": "An easy-to-use paint program",
+  "icon_name": "kolourpaint",
+  "categories": [
+    "Qt",
+    "KDE",
+    "Graphics",
+    "2DGraphics",
+    "RasterGraphics"
+  ],
+  "repo": "pkgforge-dev/KolourPaint-AppImage",
+  "version": "26.04.3-1@2026-08-01_1785586249",
+  "download_url": "https://github.com/pkgforge-dev/KolourPaint-AppImage/releases/download/26.04.3-1%402026-08-01_1785586249/KolourPaint-26.04.3-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.kde.kolourpaint.png"
+}

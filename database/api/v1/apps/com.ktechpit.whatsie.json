@@ -1,0 +1,16 @@
+{
+  "id": "com.ktechpit.whatsie",
+  "name": "About",
+  "summary": "A WhatsApp Web Client using the Qt framework",
+  "icon_name": "com.ktechpit.whatsie",
+  "categories": [
+    "Chat",
+    "Network",
+    "InstantMessaging",
+    "Qt"
+  ],
+  "repo": "pkgforge-dev/WhatSie-AppImage",
+  "version": "5.1.0.r2.g61da603-1@2026-08-01_1785586305",
+  "download_url": "https://github.com/pkgforge-dev/WhatSie-AppImage/releases/download/5.1.0.r2.g61da603-1%402026-08-01_1785586305/WhatSie-5.1.0.r2.g61da603-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/com.ktechpit.whatsie.svg"
+}

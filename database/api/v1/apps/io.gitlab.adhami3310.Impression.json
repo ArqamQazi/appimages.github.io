@@ -1,0 +1,17 @@
+{
+  "id": "io.gitlab.adhami3310.Impression",
+  "name": "Impression",
+  "summary": "Create bootable drives",
+  "icon_name": "io.gitlab.adhami3310.Impression",
+  "categories": [
+    "GTK",
+    "GNOME",
+    "Utility",
+    "System",
+    "DiscBurning"
+  ],
+  "repo": "pkgforge-dev/Impression-AppImage",
+  "version": "3.8.0-1@2026-08-01_1785586054",
+  "download_url": "https://github.com/pkgforge-dev/Impression-AppImage/releases/download/3.8.0-1%402026-08-01_1785586054/Impression-3.8.0-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/io.gitlab.adhami3310.Impression.svg"
+}

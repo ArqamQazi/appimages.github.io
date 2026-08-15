@@ -1,0 +1,14 @@
+{
+  "id": "denise",
+  "name": "Denise",
+  "summary": "Commodore 64 and Amiga Emulator",
+  "icon_name": "denise",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/Denise-AppImage",
+  "version": "2.8-1@2026-08-01_1785585219",
+  "download_url": "https://github.com/pkgforge-dev/Denise-AppImage/releases/download/2.8-1%402026-08-01_1785585219/Denise-2.8-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/denise.png"
+}

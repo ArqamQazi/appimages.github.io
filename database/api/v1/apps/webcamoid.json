@@ -1,0 +1,15 @@
+{
+  "id": "webcamoid",
+  "name": "Webcamoid",
+  "summary": "Take photos and record videos with your webcam",
+  "icon_name": "webcamoid",
+  "categories": [
+    "AudioVideo",
+    "Player",
+    "Qt"
+  ],
+  "repo": "pkgforge-dev/Webcamoid-AppImage",
+  "version": "9.4.0-1@2026-08-01_1785586137",
+  "download_url": "https://github.com/pkgforge-dev/Webcamoid-AppImage/releases/download/9.4.0-1%402026-08-01_1785586137/Webcamoid-9.4.0-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/webcamoid.png"
+}

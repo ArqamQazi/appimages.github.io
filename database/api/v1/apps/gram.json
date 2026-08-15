@@ -1,0 +1,16 @@
+{
+  "id": "gram",
+  "name": "Open a new workspace",
+  "summary": "A code editor for humanoid apes and grumpy toads",
+  "icon_name": "app.liten.Gram",
+  "categories": [
+    "Utility",
+    "TextEditor",
+    "Development",
+    "IDE"
+  ],
+  "repo": "pkgforge-dev/Gram-AppImage-Enhanced",
+  "version": "3.2.0@2026-08-01_1785586357",
+  "download_url": "https://github.com/pkgforge-dev/Gram-AppImage-Enhanced/releases/download/3.2.0%402026-08-01_1785586357/Gram-3.2.0-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/gram.svg"
+}

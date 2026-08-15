@@ -1,0 +1,15 @@
+{
+  "id": "com.github.hluk.copyq",
+  "name": "CopyQ",
+  "icon_name": "copyq",
+  "categories": [
+    "Qt",
+    "KDE",
+    "Utility"
+  ],
+  "summary": "A cut & paste history utility",
+  "repo": "pkgforge-dev/CopyQ-AppImage",
+  "version": "16.0.0-1@2026-08-01_1785585872",
+  "download_url": "https://github.com/pkgforge-dev/CopyQ-AppImage/releases/download/16.0.0-1%402026-08-01_1785585872/CopyQ-16.0.0-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/com.github.hluk.copyq.png"
+}

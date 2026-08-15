@@ -1,0 +1,14 @@
+{
+  "id": "primehack",
+  "icon_name": "primehack",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "name": "PrimeHack",
+  "summary": "Dolphin fork intended to give Metroid Prime Trilogy mouselook controls",
+  "repo": "pkgforge-dev/PrimeHack-AppImage",
+  "version": "1.0.9@2026-08-13_1786657264",
+  "download_url": "https://github.com/pkgforge-dev/PrimeHack-AppImage/releases/download/1.0.9%402026-08-13_1786657264/PrimeHack-1.0.9-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/primehack.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "gearboy",
+  "name": "Gearboy",
+  "summary": "\"Game Boy, Gameboy Color emulator\"",
+  "icon_name": "image",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/Gearboy-AppImage",
+  "version": "3.8.11@2026-08-01_1785585784",
+  "download_url": "https://github.com/pkgforge-dev/Gearboy-AppImage/releases/download/3.8.11%402026-08-01_1785585784/Gearboy-3.8.11-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/gearboy.png"
+}

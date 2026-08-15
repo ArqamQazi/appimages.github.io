@@ -1,0 +1,14 @@
+{
+  "id": "ares",
+  "name": "ares",
+  "summary": "Emulator",
+  "icon_name": "ares",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/ares-emu-appimage",
+  "version": "v148@2026-06-15_1781529274",
+  "download_url": "https://github.com/pkgforge-dev/ares-emu-appimage/releases/download/v148%402026-06-15_1781529274/ares-v148-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/ares.png"
+}

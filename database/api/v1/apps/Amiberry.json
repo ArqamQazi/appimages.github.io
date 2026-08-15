@@ -1,0 +1,14 @@
+{
+  "id": "Amiberry",
+  "name": "Amiberry",
+  "summary": "Optimized Amiga Emulator",
+  "icon_name": "amiberry",
+  "categories": [
+    "Game",
+    "Emulator"
+  ],
+  "repo": "pkgforge-dev/Amiberry-AppImage",
+  "version": "8.2.2-2@2026-08-01_1785586139",
+  "download_url": "https://github.com/pkgforge-dev/Amiberry-AppImage/releases/download/8.2.2-2%402026-08-01_1785586139/Amiberry-8.2.2-2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/Amiberry.png"
+}

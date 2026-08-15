@@ -1,0 +1,15 @@
+{
+  "id": "code",
+  "name": "New Empty Window",
+  "summary": "Code Editing. Redefined.",
+  "icon_name": "visual-studio-code",
+  "categories": [
+    "TextEditor",
+    "Development",
+    "IDE"
+  ],
+  "repo": "pkgforge-dev/Visual-Studio-Code-AppImage",
+  "version": "1.133.0@2026-08-12_1786566924",
+  "download_url": "https://github.com/pkgforge-dev/Visual-Studio-Code-AppImage/releases/download/1.133.0%402026-08-12_1786566924/Visual_Studio_Code-1.133.0-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/code.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "ioquake3",
+  "name": "Quake III Arena",
+  "summary": "ioQuake3 - Quake III Open Source Engine",
+  "icon_name": "quake3.svg",
+  "categories": [
+    "Qt",
+    "KDE",
+    "GNOME",
+    "Application",
+    "Game"
+  ],
+  "repo": "pkgforge-dev/ioquake3-AppImage",
+  "version": "20260719.g58839361-1@2026-08-01_1785585868",
+  "download_url": "https://github.com/pkgforge-dev/ioquake3-AppImage/releases/download/20260719.g58839361-1%402026-08-01_1785585868/Quake_III_Arena-20260719.g58839361-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/ioquake3.svg"
+}

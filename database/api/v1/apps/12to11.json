@@ -6,7 +6,7 @@
     "Utility"
   ],
   "icon_name": "12to11",
-  "repo": "12to11-AppImage",
+  "repo": "pkgforge-dev/12to11-AppImage",
   "version": "0.1-1@2026-07-30_1785438605",
   "download_url": "https://github.com/pkgforge-dev/12to11-AppImage/releases/download/0.1-1%402026-07-30_1785438605/12to11-0.1-1-anylinux-x86_64.AppImage"
 }

@@ -1,0 +1,14 @@
+{
+  "id": "browser",
+  "name": "New private window",
+  "summary": "Browse the World Wide Web",
+  "categories": [
+    "Network",
+    "WebBrowser"
+  ],
+  "icon_name": "phantomsatellite",
+  "repo": "pkgforge-dev/Phantom-Satellite-AppImage",
+  "version": "34.2.2@2026-05-12_1778621546",
+  "download_url": "https://github.com/pkgforge-dev/Phantom-Satellite-AppImage/releases/download/34.2.2%402026-05-12_1778621546/Phantom_Satellite-34.2.2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/browser.png"
+}

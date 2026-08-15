@@ -1,0 +1,13 @@
+{
+  "id": "openloco",
+  "name": "OpenLoco",
+  "icon_name": "openloco",
+  "categories": [
+    "Game"
+  ],
+  "summary": "An open source re-implementation of Chris Sawyer's Locomotion",
+  "repo": "pkgforge-dev/OpenLoco-AppImage",
+  "version": "25.12-1@2026-06-01_1780331825",
+  "download_url": "https://github.com/pkgforge-dev/OpenLoco-AppImage/releases/download/25.12-1%402026-06-01_1780331825/OpenLoco-25.12-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/openloco.png"
+}

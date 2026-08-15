@@ -1,0 +1,16 @@
+{
+  "id": "org.gnome.Epiphany",
+  "name": "New Incognito Window",
+  "summary": "Browse the web",
+  "icon_name": "org.gnome.Epiphany",
+  "categories": [
+    "Network",
+    "GNOME",
+    "GTK",
+    "WebBrowser"
+  ],
+  "repo": "pkgforge-dev/Gnome-Web-AppImage",
+  "version": "50.6-1@2026-08-14_1786688522",
+  "download_url": "https://github.com/pkgforge-dev/Gnome-Web-AppImage/releases/download/50.6-1%402026-08-14_1786688522/Web-50.6-1-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/org.gnome.Epiphany.svg"
+}

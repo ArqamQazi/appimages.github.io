@@ -1,0 +1,14 @@
+{
+  "id": "mariokart64recomp",
+  "name": "MarioKart 64 Recompiled",
+  "summary": "A native port of MarioKart 64, statically recompiled",
+  "icon_name": "512",
+  "categories": [
+    "Game",
+    "Racing"
+  ],
+  "repo": "pkgforge-dev/MarioKart64Recomp-AppImage",
+  "version": "0.9.2@2026-06-01_1780317544",
+  "download_url": "https://github.com/pkgforge-dev/MarioKart64Recomp-AppImage/releases/download/0.9.2%402026-06-01_1780317544/MarioKart_64_Recompiled-0.9.2-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/mariokart64recomp.png"
+}

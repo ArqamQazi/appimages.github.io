@@ -1,0 +1,12 @@
+{
+  "id": "ai.opencode",
+  "name": "OpenCode",
+  "icon_name": "ai.opencode.desktop",
+  "categories": [
+    "Development"
+  ],
+  "repo": "pkgforge-dev/opencode-AppImage-Enhanced",
+  "version": "v1.18.15@2026-08-08_1786175781",
+  "download_url": "https://github.com/pkgforge-dev/opencode-AppImage-Enhanced/releases/download/v1.18.15%402026-08-08_1786175781/OpenCode-v1.18.15-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/ai.opencode.png"
+}

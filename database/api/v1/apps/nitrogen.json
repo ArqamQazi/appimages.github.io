@@ -1,0 +1,15 @@
+{
+  "id": "nitrogen",
+  "name": "nitrogen",
+  "categories": [
+    "Utility",
+    "GTK",
+    "DesktopSettings"
+  ],
+  "icon_name": "nitrogen",
+  "summary": "Browse and set desktop backgrounds",
+  "repo": "pkgforge-dev/Nitrogen-AppImage",
+  "version": "1.6.1-6@2026-07-07_1783430657",
+  "download_url": "https://github.com/pkgforge-dev/Nitrogen-AppImage/releases/download/1.6.1-6%402026-07-07_1783430657/nitrogen-1.6.1-6-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/nitrogen.png"
+}

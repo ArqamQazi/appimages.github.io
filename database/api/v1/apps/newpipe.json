@@ -1,0 +1,10 @@
+{
+  "id": "newpipe",
+  "name": "NewPipe",
+  "icon_name": "newpipe",
+  "summary": "A libre lightweight streaming front-end for Android.",
+  "repo": "pkgforge-dev/NewPipe-AppImage",
+  "version": "v0.28.8@2026-08-08_1786210506",
+  "download_url": "https://github.com/pkgforge-dev/NewPipe-AppImage/releases/download/v0.28.8%402026-08-08_1786210506/NewPipe-v0.28.8-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/newpipe.svg"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "io.github.berarma.Oversteer",
+  "name": "Oversteer",
+  "summary": "Steering Wheel Manager",
+  "icon_name": "io.github.berarma.Oversteer",
+  "categories": [
+    "Game",
+    "Utility"
+  ],
+  "repo": "pkgforge-dev/Oversteer-AppImage",
+  "version": "v0.8.3@2026-08-14_1786734000",
+  "download_url": "https://github.com/pkgforge-dev/Oversteer-AppImage/releases/download/v0.8.3%402026-08-14_1786734000/Oversteer-v0.8.3-anylinux-x86_64.AppImage",
+  "icon_url": "/database/icons/io.github.berarma.Oversteer.svg"
+}
