@@ -8,7 +8,7 @@
   "summary": "Downloads Online Media Files",
   "icon_name": "media-downloader",
   "repo": "pkgforge-dev/Media-Downloader-AppImage",
-  "version": "5.6.3-1@2026-08-01_1785585815",
-  "download_url": "https://github.com/pkgforge-dev/Media-Downloader-AppImage/releases/download/5.6.3-1%402026-08-01_1785585815/Media_Downloader-5.6.3-1-anylinux-x86_64.AppImage",
+  "version": "5.6.5@2026-08-15_1786831070",
+  "download_url": "https://github.com/pkgforge-dev/Media-Downloader-AppImage/releases/download/5.6.5%402026-08-15_1786831070/Media_Downloader-5.6.5-anylinux-x86_64.AppImage",
   "icon_url": "/database/icons/media-downloader.png"
 }
