@@ -9,7 +9,7 @@
     "Simulator"
   ],
   "repo": "pkgforge-dev/dethrace-AppImage",
-  "version": "4ec557ab7@2026-08-16_1786882842",
-  "download_url": "https://github.com/pkgforge-dev/dethrace-AppImage/releases/download/4ec557ab7%402026-08-16_1786882842/dethrace-4ec557ab7-anylinux-x86_64.AppImage",
+  "version": "a260a677d@2026-08-16_1786892394",
+  "download_url": "https://github.com/pkgforge-dev/dethrace-AppImage/releases/download/a260a677d%402026-08-16_1786892394/dethrace-a260a677d-anylinux-x86_64.AppImage",
   "icon_url": "/database/icons/dethrace.png"
 }
