@@ -7,7 +7,7 @@
     "System"
   ],
   "repo": "pkgforge-dev/QEMU-AppImage",
-  "version": "11.0.2-2@2026-07-06_1783352658",
-  "download_url": "https://github.com/pkgforge-dev/QEMU-AppImage/releases/download/11.0.2-2%402026-07-06_1783352658/QEMU-11.0.2-2-anylinux-x86_64.AppImage",
+  "version": "11.1.0-1@2026-08-17_1786948996",
+  "download_url": "https://github.com/pkgforge-dev/QEMU-AppImage/releases/download/11.1.0-1%402026-08-17_1786948996/QEMU-11.1.0-1-anylinux-x86_64.AppImage",
   "icon_url": "/database/icons/qemu.svg"
 }

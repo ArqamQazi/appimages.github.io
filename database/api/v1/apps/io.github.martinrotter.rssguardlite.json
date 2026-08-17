@@ -10,7 +10,7 @@
     "Qt"
   ],
   "repo": "martinrotter/rssguard",
-  "version": "5.2.3",
-  "download_url": "https://github.com/martinrotter/rssguard/releases/download/5.2.3/rssguard-5.2.3-text-qt5-linux64.AppImage",
+  "version": "5.2.4",
+  "download_url": "https://github.com/martinrotter/rssguard/releases/download/5.2.4/rssguard-5.2.4-text-qt5-linux64.AppImage",
   "icon_url": "/database/icons/io.github.martinrotter.rssguardlite.png"
 }
