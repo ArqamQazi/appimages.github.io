@@ -8,7 +8,7 @@
     "Emulator"
   ],
   "repo": "pkgforge-dev/SUPER-ZSNES-AppImage",
-  "version": "0.230@2026-08-01_1785586064",
-  "download_url": "https://github.com/pkgforge-dev/SUPER-ZSNES-AppImage/releases/download/0.230%402026-08-01_1785586064/SUPER_ZSNES-0.230-anylinux-x86_64.AppImage",
+  "version": "0.300@2026-08-18_1787046616",
+  "download_url": "https://github.com/pkgforge-dev/SUPER-ZSNES-AppImage/releases/download/0.300%402026-08-18_1787046616/SUPER_ZSNES-0.300-anylinux-x86_64.AppImage",
   "icon_url": "/database/icons/superzsnes.png"
 }
