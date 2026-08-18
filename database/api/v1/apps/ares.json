@@ -8,7 +8,7 @@
     "Emulator"
   ],
   "repo": "pkgforge-dev/ares-emu-appimage",
-  "version": "v148@2026-06-15_1781529274",
-  "download_url": "https://github.com/pkgforge-dev/ares-emu-appimage/releases/download/v148%402026-06-15_1781529274/ares-v148-anylinux-x86_64.AppImage",
+  "version": "v148@2026-08-17_1786998446",
+  "download_url": "https://github.com/pkgforge-dev/ares-emu-appimage/releases/download/v148%402026-08-17_1786998446/ares-v148-anylinux-x86_64.AppImage",
   "icon_url": "/database/icons/ares.png"
 }
