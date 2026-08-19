@@ -1,15 +1,14 @@
 {
   "id": "cannonball",
+  "name": "CannonBall",
+  "icon_name": "cannonball",
   "categories": [
     "Game",
     "ArcadeGame",
     "Emulator"
   ],
-  "summary": "",
-  "icon_name": "cannonball",
-  "name": "CannonBall",
   "repo": "pkgforge-dev/Cannonball-AppImage",
-  "version": "0.34.r19.g27493eb-2@2026-08-01_1785586312",
-  "download_url": "https://github.com/pkgforge-dev/Cannonball-AppImage/releases/download/0.34.r19.g27493eb-2%402026-08-01_1785586312/CannonBall-0.34.r19.g27493eb-2-anylinux-x86_64.AppImage",
+  "version": "27493ebf6@2026-08-19_1787137280",
+  "download_url": "https://github.com/pkgforge-dev/Cannonball-AppImage/releases/download/27493ebf6%402026-08-19_1787137280/CannonBall-27493ebf6-anylinux-x86_64.AppImage",
   "icon_url": "/database/icons/cannonball.png"
 }
