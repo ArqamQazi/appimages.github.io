@@ -8,7 +8,7 @@
     "System"
   ],
   "repo": "pkgforge-dev/BasiliskII-AppImage-Enhanced",
-  "version": "r3592.0dff5584-1@2026-08-01_1785586285",
-  "download_url": "https://github.com/pkgforge-dev/BasiliskII-AppImage-Enhanced/releases/download/r3592.0dff5584-1%402026-08-01_1785586285/BasiliskII-r3592.0dff5584-1-anylinux-x86_64.AppImage",
+  "version": "efefb991e@2026-08-18_1787070337",
+  "download_url": "https://github.com/pkgforge-dev/BasiliskII-AppImage/releases/download/efefb991e%402026-08-18_1787070337/BasiliskII-efefb991e-anylinux-x86_64.AppImage",
   "icon_url": "/database/icons/BasiliskII.png"
 }

@@ -10,7 +10,7 @@
     "2DGraphics"
   ],
   "repo": "pkgforge-dev/Nomacs-AppImage",
-  "version": "3.23.2-1@2026-08-01_1785586137",
-  "download_url": "https://github.com/pkgforge-dev/Nomacs-AppImage/releases/download/3.23.2-1%402026-08-01_1785586137/nomacs-3.23.2-1-anylinux-x86_64.AppImage",
+  "version": "3.23.3-1@2026-08-18_1787071450",
+  "download_url": "https://github.com/pkgforge-dev/Nomacs-AppImage/releases/download/3.23.3-1%402026-08-18_1787071450/nomacs-3.23.3-1-anylinux-x86_64.AppImage",
   "icon_url": "/database/icons/org.nomacs.ImageLounge.png"
 }
