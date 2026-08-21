@@ -8,7 +8,7 @@
   ],
   "summary": "A simulation game based on Transport Tycoon Deluxe",
   "repo": "pkgforge-dev/OpenTTD-AppImage",
-  "version": "15.3-1@2026-08-01_1785586281",
-  "download_url": "https://github.com/pkgforge-dev/OpenTTD-AppImage/releases/download/15.3-1%402026-08-01_1785586281/OpenTTD-15.3-1-anylinux-x86_64.AppImage",
+  "version": "15.3-1@2026-08-20_1787242264",
+  "download_url": "https://github.com/pkgforge-dev/OpenTTD-AppImage/releases/download/15.3-1%402026-08-20_1787242264/OpenTTD-15.3-1-anylinux-x86_64.AppImage",
   "icon_url": "/database/icons/openttd.png"
 }
